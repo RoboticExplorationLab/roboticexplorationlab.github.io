@@ -46,20 +46,20 @@ a > .fa {
 /* Jumbotron */
 .jumbotron {
     text-align: center;
-    padding-top: 3em;
-    padding-bottom: 2.5em;
-    font-size: 150%;
+    padding-top: 3.0em;
+    padding-bottom: 3.0em;
+    font-size: 175%;
     background: $gray url("/img/banner.jpg") center center;
     background-size: cover;
     overflow: hidden;
 }
 
 .jumbotron h1{
-    color: $light-gray;
+    color: #fff;
 }
 
 .jumbotron p{
-    color: $light-gray;
+    color: #fff;
 }
 
 /* Group logo */
