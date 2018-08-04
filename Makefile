@@ -6,8 +6,9 @@ all: build
 BIBBLE = bibble
 
 _includes/pubs.html: bib/pubs.bib bib/publications.tmpl
+	git submodule init; git submodule update
 	mkdir -p _includes
-	$(BIBBLE) $+ > $@
+	$(PYTHON) bibble/bibble.py $+ > $@
 
 build: _includes/pubs.html
 	jekyll build
