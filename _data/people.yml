@@ -6,48 +6,48 @@ zac:
     image: /img/people/zac.jpg
     bio: Assistant Professor
 
-grad-a:
-    display_name: "Grad A"
-    role: grad
+# grad-a:
+#     display_name: "Grad A"
+#     role: grad
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
-    role: grad
+# grad-b:
+#     display_name: "Graduate Student B With Long Name"
+#     role: grad
 
-alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+# alum-a:
+#     display_name: "Alum A"
+#     role: alum
+#     bio: "Ph.D., 2013. Now at Microsoft Research."
 
-alum-b:
-    display_name: "Alum B With Way Longer Name"
-    role: alum
+# alum-b:
+#     display_name: "Alum B With Way Longer Name"
+#     role: alum
 
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
+# alum-c:
+#     display_name: "Alum C"
+#     role: alum
+#     webpage: "https://www.google.com"
 
-collab-a:
-    display_name: "Collaborator A"
-    role: collab
+# collab-a:
+#     display_name: "Collaborator A"
+#     role: collab
 
-collab-b:
-    display_name: "Collaborator B With Long Name"
-    role: collab
+# collab-b:
+#     display_name: "Collaborator B With Long Name"
+#     role: collab
 
-ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
+# ugrad-a:
+#     display_name: "Ugrad A"
+#     role: ugrad
 
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
+# ugrad-b:
+#     display_name: "Ugrad Student B With Long Name"
+#     role: ugrad
 
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
+# ugrad-alum-a:
+#     display_name: "Past Ugrad A"
+#     role: ugrad-alum
 
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
+# ugrad-alum-b:
+#     display_name: "Past Ugrad Student B With Long Name"
+#     role: ugrad-alum

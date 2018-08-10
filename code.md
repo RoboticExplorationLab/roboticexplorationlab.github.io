@@ -2,8 +2,7 @@
 layout: default
 title: Code
 ---
-This is an example of an additional page you could add to the site (and its navigation).
 
-If you like this template, find our group's other code here:
+Code developed by our group is [hosted on GitHub](https://github.com/RoboticExplorationLab), as well as hardware designs and software associated with [the KickSat project](https://github.com/kicksat).
 
- * [uwsampa on GitHub](https://github.com/uwsampa/)
+This website is based on code from the [SAMPA group at the University of Washington](https://github.com/uwsampa/research-group-web).

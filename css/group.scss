@@ -49,7 +49,7 @@ a > .fa {
     padding-top: 2.5em;
     padding-bottom: 2.0em;
     font-size: 175%;
-    background: $gray url("/img/banner.jpg") center center;
+    background: $gray url("http://stanford.edu/group/rexlab/img/banner.jpg") center center;
     background-size: cover;
     overflow: hidden;
 }
@@ -155,4 +155,30 @@ section {
 svg {
     // make the alignment just like img from bootstrap's reboot.scss
     vertical-align: middle;
+}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+/* responsive videos */
+.video figure {
+    position: relative;
+    nowhitespace: afterproperty;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+
+.video iframe, .video object, .video embed {
+    position: absolute;
+    width: 90%;
+    height: 90%;
+    top: 0;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, 0)
+    
 }
