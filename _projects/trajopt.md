@@ -6,6 +6,7 @@ description: |
 
 people:
   - zac
+  - taylor
 
 layout: project
 image: "http://stanford.edu/group/rexlab/img/perch.png"
