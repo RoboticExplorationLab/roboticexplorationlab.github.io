@@ -6,6 +6,14 @@ zac:
     image: /img/people/zac.jpg
     bio: Assistant Professor
 
+taylor:
+    display_name: "Taylor howell"
+    webpage: "http://taylorhowell.xyz"
+    github: thowell
+    role: grad
+    image: /img/people/taylor.jpg
+    bio: PhD Candidate
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
