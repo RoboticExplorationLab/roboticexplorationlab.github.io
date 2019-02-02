@@ -14,6 +14,14 @@ taylor:
     image: /img/people/taylor.jpg
     bio: PhD Candidate
 
+brian:
+    display_name: "Brian Jackson"
+    github: bjack205
+    role: grad
+    image: /img/people/brian.jpg
+    bio: PhD Candidate
+
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
