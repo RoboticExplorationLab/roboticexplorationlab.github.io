@@ -6,6 +6,7 @@ description: |
 
 people:
   - zac
+  - taylor
   - brian
   
 layout: project
