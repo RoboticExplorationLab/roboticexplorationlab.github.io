@@ -6,6 +6,13 @@ zac:
     image: /img/people/zac.jpg
     bio: Assistant Professor
 
+brian:
+    display_name: "Brian Jackson"
+    github: bjack205
+    role: grad
+    image: /img/people/brian.jpg
+    bio: "PhD Candidate"
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
