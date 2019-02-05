@@ -3,15 +3,18 @@ layout: default
 title: Joining
 ---
 
-## Postdocs
+## Stanford Graduate Students
 
-We invite applications for a postdoctoral position in motion planning and control. Ideal candidates will have a strong research track record in robotics, aerospace engineering, optimization, and/or control and be motivated to lead a research effort that involves developing new algorithms and evaluating them both in simulation and on physical hardware.
+If you have been admitted to Stanford and are interested in joining our lab, send Zac an email with your CV/resume and a short description of your background and interests. 
 
-A PhD in Aerospace Engineering, Mechanical Engineering, Electrical Engineering, Computer Science, or a related field is required. Candidates will be expected to carry out a creative and independent research agenda, publish scholarly papers, and take on a mentorship role for undergraduate and graduate students at Stanford. 
+## Stanford Undergraduate Students
 
-Applications should contain a CV, a cover letter describing research interests and goals, a complete list of publications, copies of up to three relevant scientific papers, and the names and contact information of three references (expected to provide letters of recommendation). Applications should be compiled into a single PDF and emailed to Zac Manchester (zacmanchester at stanford.edu) with the subject line "Postdoc Application".
+We often have opportunities for Stanford undergraduates to get involved in our research. If you're interested in robots, spacecraft, and control systems, send Zac an email.
 
-## Stanford Students
+## Visiting Student Researchers
 
-If you have been admitted to Stanford and are interested in joining our lab, send Zac an email with your CV/resume and a short description of your background and interests.
+I do not currently have funding to support non-Stanford students. If you have a fellowship and bring your own funding, please be aware of [Stanford's fees for visiting student researchers (VSOs)](https://registrar.stanford.edu/staff/visiting-student-researchers/fees-visiting-student-researchers).
 
+## High School Interns
+
+We are only able to work with high school students through [Stanford's RISE program](https://oso.stanford.edu/programs/39-rise-summer-internship-program).
