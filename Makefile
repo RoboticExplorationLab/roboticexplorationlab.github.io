@@ -30,5 +30,5 @@ clean:
 #RSYNC := rsync --compress --recursive --checksum --itemize-changes --delete -e ssh
 
 deploy: clean _includes/pubs.html
-	jekyll build --baseurl '/group/rexlab'
+	jekyll build #--base '/group/rexlab' #Why doesn't this work?
 	#$(RSYNC) _site/ $(DEPLOY_HOST):$(DEPLOY_PATH)

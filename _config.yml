@@ -3,7 +3,7 @@ url: http://rexlab.stanford.edu
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
-# Base pathname for links.
+# Base pathname for links. Uncomment this to build for deployment.
 #base: '/group/rexlab'
 
 # colorize code snippets with the pygments module
