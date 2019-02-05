@@ -25,9 +25,10 @@ serve: _includes/pubs.html
 clean:
 	$(RM) -r _site _includes/pubs.html
 
-DEPLOY_HOST ?= yourwebpage.com
-DEPLOY_PATH ?= www/
-RSYNC := rsync --compress --recursive --checksum --itemize-changes --delete -e ssh
+#DEPLOY_HOST ?= yourwebpage.com
+#DEPLOY_PATH ?= www/
+#RSYNC := rsync --compress --recursive --checksum --itemize-changes --delete -e ssh
 
-deploy: clean build
-	$(RSYNC) _site/ $(DEPLOY_HOST):$(DEPLOY_PATH)
+deploy: clean _includes/pubs.html
+	jekyll build --baseurl '/group/rexlab'
+	#$(RSYNC) _site/ $(DEPLOY_HOST):$(DEPLOY_PATH)
