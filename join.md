@@ -5,7 +5,7 @@ title: Joining
 
 ## Stanford Graduate Students
 
-If you have been admitted to Stanford and are interested in joining our lab, send Zac an email with your CV/resume and a short description of your background and interests. 
+If you have been admitted to Stanford and are interested in joining our lab, send Zac an email with your CV and a short description of your background and interests. 
 
 ## Stanford Undergraduate Students
 
