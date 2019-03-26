@@ -53,3 +53,4 @@ navigation:
     link: /code.html
   - title: Joining
     link: /join.html
+theme: jekyll-theme-cayman
