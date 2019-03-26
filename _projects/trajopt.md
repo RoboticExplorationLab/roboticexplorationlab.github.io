@@ -10,7 +10,7 @@ people:
   - brian
   
 layout: project
-image: "/img/perch.png"
+image: "/img/quadrotor_maze.png"
 last-updated: 2019-03-26
 ---
 
@@ -22,8 +22,8 @@ Future work includes performance enhancements through more careful implementatio
 
 The code for ALTRO is included in our package [TrajectoryOptimization.jl](https://github.com/RoboticExplorationLab/TrajectoryOptimization.jl.git), a library of solvers for trajectory optimization presented within an easy-to-use, unified framework. 
 
-![ALTRO running a quadcopter through a maze](/img/maze_v2.gif)
+![ALTRO running a quadcopter through a maze](/img/maze_v2.gif =600x)
 
-![ALTRO solving an obstacle avoidance problem with a Kuka arm](/img/kuka_combined.png)
+![ALTRO solving an obstacle avoidance problem with a Kuka arm](/img/kuka_combined.png =600x)
 
 Updated March 26, 2019
