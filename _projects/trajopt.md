@@ -24,8 +24,6 @@ The code for ALTRO is included in our package [TrajectoryOptimization.jl](https:
 
 ![ALTRO running a quadcopter through a maze](/img/maze_v2.gif)
 
-![ALTRO solving an obstacle avoidance problem with a Kuka arm](/img/kuka_combined.png)
-
-<img src="/img/kuka_combined.png" alt="drawing" width="200"/>
+<img src="/img/kuka_combined.png" alt="drawing" width="600"/>
 
 Updated March 26, 2019
