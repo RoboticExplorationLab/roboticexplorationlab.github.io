@@ -28,4 +28,3 @@ The Sprite is a tiny (3.5 by 3.5 centimeter) spacecraft made on a printed circui
 
 KickSat is a 3U CubeSat that will deploy 100 Sprites in low-Earth Orbit. It is set to launch in early 2019 in collaboration with [NASA Ames Research Center](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative).
 
-{% youtube I7xvQgClMf0 640 360 %}
