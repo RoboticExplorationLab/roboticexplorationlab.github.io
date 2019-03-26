@@ -1,5 +1,5 @@
 name: REx Lab
-url: http://rexlab.stanford.edu
+url: https://roboticexplorationlab.github.io/rexlab-website/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
