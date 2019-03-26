@@ -4,7 +4,7 @@ url: https://roboticexplorationlab.github.io
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
 # Base pathname for links. Uncomment this to build for deployment.
-base: /rexlab-website
+# base: /rexlab-website
 
 # colorize code snippets with the pygments module
 highlighter: pygments
