@@ -16,6 +16,7 @@ taylor:
 
 brian:
     display_name: "Brian Jackson"
+    webpage: "https://bjack205.github.io"
     github: bjack205
     role: grad
     image: /img/people/brian.jpg
