@@ -6,8 +6,8 @@ exclude: [bibble, README.md, Makefile, screenshot.png]
 # Base pathname for links. Uncomment this to build for deployment.
 # base: /rexlab-website
 
-# colorize code snippets with the pygments module
-highlighter: pygments
+# colorize code snippets with the rouge module
+highlighter: rouge
 
 # The path structure for blog posts.
 permalink: /blog/:year/:month/:day/:title.html
