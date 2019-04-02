@@ -10,7 +10,7 @@ people:
   - zac
 
 layout: project
-image: "http://stanford.edu/group/rexlab/img/kicksat_logo.png"
+image: "/img/kicksat_logo.png"
 last-updated: 2018-08-06
 ---
 
@@ -20,7 +20,7 @@ The goal of KickSat is to dramatically lower the cost of spaceflight, making it 
 
 ## The Sprite Spacecraft
 
-![Sprite](http://stanford.edu/group/rexlab/img/sprite.jpg){: .center-image }
+![Sprite](/img/sprite.jpg){: .center-image }
 
 The Sprite is a tiny (3.5 by 3.5 centimeter) spacecraft made on a printed circuit board.  It has a microcontroller, radio, and solar cells and is capable of carrying chip-scale sensors like magnetometers, gyroscopes, and radiation sensors.  To lower costs, Sprites are designed to be deployed hundreds at a time in low Earth orbit and to simultaneously communicate with a ground station receiver.
 

@@ -8,7 +8,7 @@ people:
   - zac
 
 layout: project
-image: "http://stanford.edu/group/rexlab/img/littledog.jpg"
+image: "/img/littledog.jpg"
 no-link: true
 last-updated: 2018-08-10
 ---

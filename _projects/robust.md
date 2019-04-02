@@ -8,7 +8,7 @@ people:
   - zac
 
 layout: project
-image: "http://stanford.edu/group/rexlab/img/funnel.jpg"
+image: "/img/funnel.jpg"
 last-updated: 2018-08-09
 ---
 
