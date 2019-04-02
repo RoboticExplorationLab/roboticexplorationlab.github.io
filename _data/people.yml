@@ -22,6 +22,13 @@ brian:
     image: /img/people/brian.jpg
     bio: PhD Candidate
 
+simon:
+    display_name: "Simon Le Cleac'h"
+    webpage: "https://www.linkedin.com/in/simon-lc/"
+    github: simon-lc
+    role: grad
+    image: /img/people/simon.jpg
+    bio: Master's Student
 
 # grad-a:
 #     display_name: "Grad A"
