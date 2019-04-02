@@ -26,4 +26,3 @@ The code for ALTRO is included in our package [TrajectoryOptimization.jl](https:
 
 <img src="/img/kuka_combined.png" alt="drawing" width="600"/>
 
-Updated March 26, 2019
