@@ -30,6 +30,14 @@ simon:
     image: /img/people/simon.jpg
     bio: Master's Student
 
+andrew:
+    display_name: "Andrew Gatherer"
+    webpage: "https://www.linkedin.com/in/andrew-gatherer-72211862/"
+    github: GathererA
+    role: grad
+    image: /img/people/andrew.jpg
+    bio: Master's Student
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
