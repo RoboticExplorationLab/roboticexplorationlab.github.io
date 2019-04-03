@@ -22,6 +22,14 @@ brian:
     image: /img/people/brian.jpg
     bio: PhD Candidate
 
+max:
+    display_name: "Max Holliday"
+    webpage: "https://github.com/maholli"
+    github: maholli
+    role: grad
+    image: /img/people/max.jpg
+    bio: PhD Candidate
+
 simon:
     display_name: "Simon Le Cleac'h"
     webpage: "https://www.linkedin.com/in/simon-lc/"
