@@ -1,8 +1,6 @@
 ---
 title: PyRCubed
 
-notitle: true
-
 description: |
   An open-source, radiation-tested reliable cubesat framework programmable entirely in python.
 
