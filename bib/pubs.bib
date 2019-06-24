@@ -117,17 +117,6 @@
   note = {pubs-journal}
 }
 
-@article{Manchester2018,
-  title = {Contact-{{Implicit Trajectory Optimization}} Using {{Variational Integrators}}},
-  journal = {International Journal of Robotics Research},
-  url = {https://rexlab.stanford.edu/papers/variational-ijrr.pdf},
-  author = {Manchester, Zachary and Doshi, Neel and Wood, Robert J. and Kuindersma, Scott},
-  month = jul,
-  year = {2018},
-  file = {/home/bjack205/Zotero/storage/GSQGX82M/Manchester et al. - 2018 - Contact-Implicit Trajectory Optimization using Var.pdf},
-  note = {In Review}
-}
-
 @article{Manchester2017c,
   title = {Stability of a {{Light Sail Riding}} on a {{Laser Beam}}},
   volume = {837},
@@ -214,17 +203,18 @@
   note = {pubs-other}
 }
 
-@article{Howell2019,
+@inproceedings{Howell2019,
+  address = {Macau, China},
   title = {{{ALTRO}}: {{A Fast Solver}} for {{Constrained Trajectory Optimization}}},
   abstract = {Trajectory optimization is a widely used tool with many important applications in robotic motion planning and control. However, most existing algorithm implementations fall into one of two categories: either they rely on general-purpose off-the-shelf nonlinear programming solvers that are numerically robust and capable of handling arbitrary constraints but tend to be slow, or they use custom numerical methods that are fast but lack robustness and have limited or no ability to deal with constraints. This paper presents ALTRO (Augmented Lagrangian TRajectory Optimizer), a novel algorithm for solving constrained trajectory optimization problems that bridges this gap by offering fast convergence, numerical robustness, and the ability to handle general nonlinear state and input constraints. We demonstrate ALTRO's capabilities on a set of benchmark motion-planning problems and offer comparisons to the standard direct collocation (DIRCOL) method.},
   language = {en},
-  journal = {IROS 2019},
+  booktitle = {{{IEEE}}/{{RSJ International Conference}} on {{Intelligent Robots}} and {{Systems}} ({{IROS}})},
   url = {https://rexlab.stanford.edu/papers/altro-iros.pdf},
   author = {Howell, Taylor A and Jackson, Brian E and Manchester, Zachary},
   month = feb,
   year = {2019},
   file = {/home/bjack205/Zotero/storage/BVZ33HKJ/Howell et al. - ALTRO A Fast Solver for Constrained Trajectory Op.pdf},
-  note = {In Review}
+  note = {Accepted}
 }
 
 @inproceedings{Gupta2019,
@@ -255,6 +245,46 @@
   keywords = {Mathematics - Optimization and Control,Computer Science - Robotics},
   file = {/home/bjack205/Zotero/storage/2B7SYTFJ/Landry et al. - 2019 - A Differentiable Augmented Lagrangian Method for B.pdf},
   note = {In Review}
+}
+
+@inproceedings{Landry2019a,
+  address = {Hanoi, Vietnam},
+  title = {Bilevel {{Optimization}} for {{Planning}} through {{Contact}}: {{A Semidirect Method}}},
+  abstract = {Many robotics applications, from object manipulation to locomotion, require planning methods that are capable of handling the dynamics of contact. Trajectory optimization has been shown to be a viable approach that can be made to support contact dynamics. However, the current state-of-the art methods remain slow and are often difficult to get to converge. In this work, we leverage recent advances in bilevel optimization to design an algorithm capable of efficiently generating trajectories that involve making and breaking contact. We demonstrate our method's efficiency by outperforming an alternative state-of-the-art method on a benchmark problem. We moreover demonstrate the method's ability to design a simple periodic gait for a quadruped with 15 degrees of freedom and four contact points.},
+  language = {en},
+  booktitle = {Int. {{Symp}}. on {{Robotics Research}}},
+  author = {Landry, Benoit and Lorenzetti, Joseph and Manchester, Zachary and Pavone, Marco},
+  year = {2019},
+  pages = {15},
+  file = {/home/bjack205/Zotero/storage/YKHQ4NWN/Landry et al. - Bilevel Optimization for Planning through Contact.pdf}
+}
+
+@inproceedings{Holliday2019,
+  title = {{{PyCubed}}: {{An Open}}-{{Source}}, {{Radiation}}-{{Tested CubeSat Platform Programmable Entirely}} in {{Python}}},
+  abstract = {The hardware and software pitfalls associated with satellite development have led to a nearly 60\% failure rate among first-time CubeSat builders. We believe that a high-quality, community-driven CubeSat avionics platform would dramatically improve mission success rates. PyCubed is an open-source, radiation-tested CubeSat avionics platform that integrates power, computing, communication, and attitude determination and control functionality into a single low-cost PC104-compatible module programmable entirely in Python. PyCubed addresses many hardwarerelated failure modes through component and system-level radiation testing, in-depth design and qualification documentation, and flight heritage on a successful LEO mission. The challenge of flight software development is also mitigated through the use of the Python programming language via CircuitPython. Python enables dramatically simplified CubeSat software development, allowing students and researchers to quickly and reliably integrate new sensors, control algorithms, and payload hardware into their missions. All design files, including additional design justifications and reliability documentation, are available on the project's GitHub site.},
+  language = {en},
+  booktitle = {Proceedings of the {{AIAA}}/{{USU Conference}} on {{Small Satellites}}},
+  author = {Holliday, Maximillian and Ramirez, Andrea and Settle, Connor and Tatum, Tane and Senesky, Debbie and Manchester, Zachary},
+  month = aug,
+  year = {2019},
+  pages = {9},
+  file = {/home/bjack205/Zotero/storage/UBYLVWYD/Holliday et al_2019_PyCubed.pdf}
+}
+
+@article{Manchester2019,
+  title = {Contact-Implicit Trajectory Optimization Using Variational Integrators},
+  issn = {0278-3649, 1741-3176},
+  doi = {10.1177/0278364919849235},
+  abstract = {Contact constraints arise naturally in many robot planning problems. In recent years, a variety of contact-implicit trajectory optimization algorithms have been developed that avoid the pitfalls of mode pre-specification by simultaneously optimizing state, input, and contact force trajectories. However, their reliance on first-order integrators leads to a linear tradeoff between optimization problem size and plan accuracy. To address this limitation, we propose a new family of trajectory optimization algorithms that leverage ideas from discrete variational mechanics to derive higher-order generalizations of the classic time-stepping method of Stewart and Trinkle. By using these dynamics formulations as constraints in direct trajectory optimization algorithms, it is possible to perform contact-implicit trajectory optimization with significantly higher accuracy. For concreteness, we derive a second-order method and evaluate it using several simulated rigidbody systems, including an underactuated biped and a quadruped. In addition, we use this second-order method to plan locomotion trajectories for a complex quadrupedal microrobot. The planned trajectories are evaluated on the physical platform and result in a number of performance improvements.},
+  language = {en},
+  urldate = {2019-05-29},
+  journal = {The International Journal of Robotics Research},
+  url = {http://journals.sagepub.com/doi/10.1177/0278364919849235},
+  author = {Manchester, Zachary and Doshi, Neel and Wood, Robert J and Kuindersma, Scott},
+  month = may,
+  year = {2019},
+  pages = {027836491984923},
+  file = {/home/bjack205/Zotero/storage/828QDVPK/Manchester et al. - 2019 - Contact-implicit trajectory optimization using var.pdf}
 }
 
 
