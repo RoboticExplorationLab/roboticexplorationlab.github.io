@@ -8,6 +8,7 @@ description: |
 
 people:
   - zac
+  - max
 
 layout: project
 image: "/img/kicksat_logo.png"

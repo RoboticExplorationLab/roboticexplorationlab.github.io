@@ -22,6 +22,29 @@ brian:
     image: /img/people/brian.jpg
     bio: PhD Candidate
 
+max:
+    display_name: "Max Holliday"
+    webpage: "https://github.com/maholli"
+    github: maholli
+    role: grad
+    image: /img/people/max.jpg
+    bio: PhD Candidate
+
+simon:
+    display_name: "Simon Le Cleac'h"
+    webpage: "https://www.linkedin.com/in/simon-lc/"
+    github: simon-lc
+    role: grad
+    image: /img/people/simon.jpg
+    bio: Master's Student
+
+andrew:
+    display_name: "Andrew Gatherer"
+    webpage: "https://www.linkedin.com/in/andrew-gatherer-72211862/"
+    github: GathererA
+    role: grad
+    image: /img/people/andrew.jpg
+    bio: Master's Student
 
 # grad-a:
 #     display_name: "Grad A"

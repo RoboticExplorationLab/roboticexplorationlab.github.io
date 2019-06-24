@@ -8,7 +8,8 @@ people:
   - zac
   - taylor
   - brian
-  
+  - andrew
+
 layout: project
 image: "/img/quadrotor_maze.png"
 last-updated: 2019-03-26
