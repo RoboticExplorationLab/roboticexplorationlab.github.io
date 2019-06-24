@@ -9,7 +9,7 @@ _includes/pubs.html: bib/pubs.bib bib/publications.tmpl
 	git submodule init; git submodule update
 	chmod +x bibble/bibble/main.py
 	mkdir -p _includes
-	$(PYTHON3) bibble/bibble/main.py $+ > $@
+	$(PYTHON) bibble/bibble/main.py $+ > $@
 
 build: _includes/pubs.html
 	jekyll build
