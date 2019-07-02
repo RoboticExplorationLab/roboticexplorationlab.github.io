@@ -23,6 +23,8 @@ Future work includes performance enhancements through more careful implementatio
 
 The code for ALTRO is included in our package [TrajectoryOptimization.jl](https://github.com/RoboticExplorationLab/TrajectoryOptimization.jl.git), a library of solvers for trajectory optimization presented within an easy-to-use, unified framework. 
 
+Here's an in-progress tutorial on the mathematical concepts behind the algorithm: [TrajOpt Tutorial](/papers/iLQR_Tutorial.pdf).
+
 ![ALTRO running a quadcopter through a maze](/img/maze_v2.gif)
 
 <img src="/img/kuka_combined.png" alt="drawing" width="600"/>
