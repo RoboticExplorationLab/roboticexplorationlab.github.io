@@ -8,7 +8,7 @@ people:
   - max
 
 layout: project
-image: "/img/pysprites.jpg"
+image: "/img/pycubed.png"
 last-updated: 2019-08-02
 ---
 
