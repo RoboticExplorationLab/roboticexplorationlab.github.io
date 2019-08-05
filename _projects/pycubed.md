@@ -18,8 +18,8 @@ The hardware and software pitfalls associated with satellite development greatly
 
 PyCubed: an open-source, radiation-tested CubeSat framework that cost-effectively integrates ADCS, TT&C, C&DH, and EPS into a single PC104-compatible module programmable entirely in Python. PyRCubed addresses many hardware-related failure modes of CubeSats through component and system-level radiation testing, in-depth design and qualification documentation, and on-orbit flight performance from an ongoing LEO mission (KickSat-2). The challenge of mission-ready software development is also mitigated through low-level implementation of the Python programming language via CircuitPython. 
 
-All documentation, design files, and tutorials are available on GitHub: [https://github.com/PyCubed](https://github.com/pycubed).
+Project Website: [pycubed.org](pycubed.org)
 
-[Interactive PyCubed quick start guide](https://www.notion.so/maholli/PyCubed-4cbfac7e9b684852a2ab2193bd485c4d)
+All documentation, design files, and tutorials are available on GitHub: [https://github.com/PyCubed](https://github.com/pycubed).
 
 [Paper presented at 2019 AIAA/USU Conference on Small Satellites](https://digitalcommons.usu.edu/smallsat/2019/all2019/65/)
