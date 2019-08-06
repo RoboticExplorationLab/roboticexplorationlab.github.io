@@ -36,7 +36,7 @@ simon:
     github: simon-lc
     role: grad
     image: /img/people/simon.jpg
-    bio: Master's Student
+    bio: PhD Candidate
 
 andrew:
     display_name: "Andrew Gatherer"
