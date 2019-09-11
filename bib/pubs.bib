@@ -1,43 +1,67 @@
 
-@inproceedings{Manchester2017a,
-  address = {{Cambridge, MA}},
-  title = {{{DIRTREL}}: {{Robust Trajectory Optimization}} with {{Ellipsoidal Disturbances}} and {{LQR Feedback}}},
-  shorttitle = {{{DIRTREL}}},
-  booktitle = {Robotics: {{Science}} and {{Systems}} ({{RSS}}), {{Cambridge}}, {{MA}}},
-  url = {https://rexlab.stanford.edu/papers/dirtrel.pdf},
-  author = {Manchester, Zachary and Kuindersma, Scott},
-  month = jul,
-  year = {2017},
-  file = {files/484/dirtrel.pdf},
-  note = {pubs-conference}
+@inproceedings{Landry2019b,
+  title = {Bilevel {{Optimization}} for {{Planning}} through {{Contact}}: {{A Semidirect Method}}},
+  abstract = {Many robotics applications, from object manipulation to locomotion, require planning methods that are capable of handling the dynamics of contact. Trajectory optimization has been shown to be a viable approach that can be made to support contact dynamics. However, the current state-of-the art methods remain slow and are often difficult to get to converge. In this work, we leverage recent advances in bilevel optimization to design an algorithm capable of efficiently generating trajectories that involve making and breaking contact. We demonstrate our method's efficiency by outperforming an alternative state-of-the-art method on a benchmark problem. We moreover demonstrate the method's ability to design a simple periodic gait for a quadruped with 15 degrees of freedom and four contact points.},
+  booktitle = {{{ISRR}} 2019 ({{In Review}})},
+  author = {Landry, Benoit and Lorenzetti, Joseph and Manchester, Zachary and Pavone, Marco},
+  year = {2019},
+  pages = {15},
+  file = {/home/taylor/Zotero/storage/UF9AKXSK/Landry et al. - Bilevel Optimization for Planning through Contact.pdf},
+  note = {In Review}
 }
 
-@inproceedings{Manchester2016,
-  address = {{Las Vegas, NV}},
-  title = {Derivative-Free Trajectory Optimization with Unscented Dynamic Programming},
-  booktitle = {Decision and {{Control}} ({{CDC}}), 2016 {{IEEE}} 55th {{Conference}} On},
-  publisher = {{IEEE}},
-  url = {https://rexlab.stanford.edu/papers/udp.pdf},
-  author = {Manchester, Zachary and Kuindersma, Scott},
-  month = dec,
-  year = {2016},
-  file = {files/724/udp.pdf},
-  note = {pubs-conference}
-}
-
-@inproceedings{Doshi2018,
-  address = {{Pittsburgh, PA}},
-  title = {Contact-{{Implicit Optimization}} of {{Locomotion Trajectories}} for a {{Quadrupedal Microrobot}}},
-  abstract = {Planning locomotion trajectories for legged microrobots is challenging because of their complex morphology, high frequency passive dynamics, and discontinuous contact interactions with their environment. Consequently, such research is often driven by time-consuming experimental methods. As an alternative, we present a framework for systematically modeling, planning, and controlling legged microrobots. We develop a threedimensional dynamic model of a 1.5 g quadrupedal microrobot with complexity (e.g., number of degrees of freedom) similar to larger-scale legged robots. We then adapt a recently developed variational contact-implicit trajectory optimization method to generate feasible whole-body locomotion plans for this microrobot, and we demonstrate that these plans can be tracked with simple joint-space controllers. We plan and execute periodic gaits at multiple stride frequencies and on various surfaces. These gaits achieve high per-cycle velocities, including a maximum of 10.87 mm/cycle, which is 15\% faster than previously measured velocities for this microrobot. Furthermore, we plan and execute a vertical jump of 9.96 mm, which is 78\% of the microrobot's center-of-mass height. To the best of our knowledge, this is the first end-to-end demonstration of planning and tracking whole-body dynamic locomotion on a millimeter-scale legged microrobot.},
+@inproceedings{Howell2019,
+  address = {{Macau, China}},
+  title = {{{ALTRO}}: {{A Fast Solver}} for {{Constrained Trajectory Optimization}}},
+  abstract = {Trajectory optimization is a widely used tool with many important applications in robotic motion planning and control. However, most existing algorithm implementations fall into one of two categories: either they rely on general-purpose off-the-shelf nonlinear programming solvers that are numerically robust and capable of handling arbitrary constraints but tend to be slow, or they use custom numerical methods that are fast but lack robustness and have limited or no ability to deal with constraints. This paper presents ALTRO (Augmented Lagrangian TRajectory Optimizer), a novel algorithm for solving constrained trajectory optimization problems that bridges this gap by offering fast convergence, numerical robustness, and the ability to handle general nonlinear state and input constraints. We demonstrate ALTRO's capabilities on a set of benchmark motion-planning problems and offer comparisons to the standard direct collocation (DIRCOL) method.},
   language = {en},
-  booktitle = {Robotics: {{Science}} and {{Systems}} ({{RSS}})},
-  url = {https://rexlab.stanford.edu/papers/hamr-trajopt.pdf},
-  author = {Doshi, Neel and Jayaram, Kaushik and Goldberg, Benjamin and Manchester, Zachary and Wood, Robert J and Kuindersma, Scott},
-  month = jun,
-  year = {2018},
-  pages = {10},
-  file = {files/405/Doshi et al. - Contact-Implicit Optimization of Locomotion Trajec.pdf},
-  note = {pubs-conference}
+  booktitle = {{{IEEE}}/{{RSJ International Conference}} on {{Intelligent Robots}} and {{Systems}} ({{IROS}})},
+  url = {https://rexlab.stanford.edu/papers/altro-iros.pdf},
+  author = {Howell, Taylor A and Jackson, Brian E and Manchester, Zachary},
+  month = nov,
+  year = {2019},
+  file = {/home/taylor/Zotero/storage/WNWXEFDW/IROS19_1603_FI-1.pdf},
+  note = {Accepted}
+}
+
+@inproceedings{Landry2019a,
+  address = {{Hanoi, Vietnam}},
+  title = {Bilevel {{Optimization}} for {{Planning}} through {{Contact}}: {{A Semidirect Method}}},
+  abstract = {Many robotics applications, from object manipulation to locomotion, require planning methods that are capable of handling the dynamics of contact. Trajectory optimization has been shown to be a viable approach that can be made to support contact dynamics. However, the current state-of-the art methods remain slow and are often difficult to get to converge. In this work, we leverage recent advances in bilevel optimization to design an algorithm capable of efficiently generating trajectories that involve making and breaking contact. We demonstrate our method's efficiency by outperforming an alternative state-of-the-art method on a benchmark problem. We moreover demonstrate the method's ability to design a simple periodic gait for a quadruped with 15 degrees of freedom and four contact points.},
+  language = {en},
+  booktitle = {Int. {{Symp}}. on {{Robotics Research}}},
+  author = {Landry, Benoit and Lorenzetti, Joseph and Manchester, Zachary and Pavone, Marco},
+  year = {2019},
+  pages = {15},
+  file = {/home/taylor/Zotero/storage/YKHQ4NWN/Landry et al. - Bilevel Optimization for Planning through Contact.pdf}
+}
+
+@inproceedings{Holliday2019,
+  title = {{{PyCubed}}: {{An Open}}-{{Source}}, {{Radiation}}-{{Tested CubeSat Platform Programmable Entirely}} in {{Python}}},
+  abstract = {The hardware and software pitfalls associated with satellite development have led to a nearly 60\% failure rate among first-time CubeSat builders. We believe that a high-quality, community-driven CubeSat avionics platform would dramatically improve mission success rates. PyCubed is an open-source, radiation-tested CubeSat avionics platform that integrates power, computing, communication, and attitude determination and control functionality into a single low-cost PC104-compatible module programmable entirely in Python. PyCubed addresses many hardwarerelated failure modes through component and system-level radiation testing, in-depth design and qualification documentation, and flight heritage on a successful LEO mission. The challenge of flight software development is also mitigated through the use of the Python programming language via CircuitPython. Python enables dramatically simplified CubeSat software development, allowing students and researchers to quickly and reliably integrate new sensors, control algorithms, and payload hardware into their missions. All design files, including additional design justifications and reliability documentation, are available on the project's GitHub site.},
+  language = {en},
+  booktitle = {Proceedings of the {{AIAA}}/{{USU Conference}} on {{Small Satellites}}},
+  author = {Holliday, Maximillian and Ramirez, Andrea and Settle, Connor and Tatum, Tane and Senesky, Debbie and Manchester, Zachary},
+  month = aug,
+  year = {2019},
+  pages = {9},
+  file = {/home/taylor/Zotero/storage/UBYLVWYD/Holliday et al_2019_PyCubed.pdf}
+}
+
+@article{Manchester2019,
+  title = {Contact-Implicit Trajectory Optimization Using Variational Integrators},
+  issn = {0278-3649, 1741-3176},
+  abstract = {Contact constraints arise naturally in many robot planning problems. In recent years, a variety of contact-implicit trajectory optimization algorithms have been developed that avoid the pitfalls of mode pre-specification by simultaneously optimizing state, input, and contact force trajectories. However, their reliance on first-order integrators leads to a linear tradeoff between optimization problem size and plan accuracy. To address this limitation, we propose a new family of trajectory optimization algorithms that leverage ideas from discrete variational mechanics to derive higher-order generalizations of the classic time-stepping method of Stewart and Trinkle. By using these dynamics formulations as constraints in direct trajectory optimization algorithms, it is possible to perform contact-implicit trajectory optimization with significantly higher accuracy. For concreteness, we derive a second-order method and evaluate it using several simulated rigidbody systems, including an underactuated biped and a quadruped. In addition, we use this second-order method to plan locomotion trajectories for a complex quadrupedal microrobot. The planned trajectories are evaluated on the physical platform and result in a number of performance improvements.},
+  language = {en},
+  urldate = {2019-05-29},
+  journal = {The International Journal of Robotics Research},
+  doi = {10.1177/0278364919849235},
+  url = {http://journals.sagepub.com/doi/10.1177/0278364919849235},
+  author = {Manchester, Zachary and Doshi, Neel and Wood, Robert J and Kuindersma, Scott},
+  month = may,
+  year = {2019},
+  pages = {027836491984923},
+  file = {/home/taylor/Zotero/storage/828QDVPK/Manchester et al. - 2019 - Contact-implicit trajectory optimization using var.pdf}
 }
 
 @inproceedings{Manchester2017d,
@@ -49,11 +73,11 @@
   author = {Manchester, Zachary and Kuindersma, Scott},
   month = dec,
   year = {2017},
-  file = {files/429/variational-isrr-proceedings.pdf},
+  file = {/home/taylor/Zotero/storage/XA3QCXVR/variational-isrr-proceedings.pdf},
   note = {pubs-conference}
 }
 
-@article{Manchester2018a,
+@article{Manchester2018,
   title = {Robust {{Direct Trajectory Optimization Using Approximate Invariant Funnels}}},
   journal = {Autonomous Robots},
   doi = {10.1007/s10514-018-9779-5},
@@ -61,75 +85,7 @@
   author = {Manchester, Zachary and Kuindersma, Scott},
   month = jul,
   year = {2018},
-  file = {files/607/dirtrel-auro.pdf},
-  note = {pubs-journal}
-}
-
-@inproceedings{Plancher2017,
-  address = {{Vancouver, BC}},
-  title = {Constrained {{Unscented Dynamic Programming}}},
-  booktitle = {Proceedings of the {{IEEE}}/{{RSJ International Conference}} on {{Intelligent Robots}} and {{Systems}} ({{IROS}})},
-  url = {https://rexlab.stanford.edu/papers/constrained-udp.pdf},
-  author = {Plancher, Brian and Manchester, Zachary and Kuindersma, Scott},
-  month = sep,
-  year = {2017},
-  file = {files/650/constrained-udp.pdf},
-  note = {pubs-conference}
-}
-
-@inproceedings{Manchester2017,
-  address = {{Grapevine, TX}},
-  title = {A {{Variable Forward}}-{{Sweep Wing Design}} for {{Enhanced Perching}} in {{Micro Aerial Vehicles}}},
-  booktitle = {55th {{AIAA Aerospace Sciences Meeting}}},
-  url = {https://rexlab.stanford.edu/papers/Morphing_Wing.pdf},
-  author = {Manchester, Zachary and Lipton, Jeffrey and Wood, Robert and Kuindersma, Scott},
-  month = jan,
-  year = {2017},
-  file = {files/767/Morphing_Wing.pdf},
-  note = {pubs-conference}
-}
-
-@inproceedings{Manchester2016b,
-  address = {{Long Beach, CA}},
-  title = {Lyapunov-{{Based Control}} for {{Flat}}-{{Spin Recovery}} and {{Spin Inversion}} of {{Spin}}-{{Stabilized Spacecraft}}},
-  booktitle = {{{AIAA}}/{{AAS Astrodynamics Specialist Conference}}},
-  url = {https://rexlab.stanford.edu/papers/Spin_Control.pdf},
-  author = {Manchester, Zachary},
-  month = feb,
-  year = {2016},
-  file = {files/551/Spin_Control.pdf},
-  note = {pubs-conferece}
-}
-
-@article{Lipton2018,
-  title = {Handedness in Shearing Auxetics Creates Rigid and Compliant Structures},
-  volume = {360},
-  language = {en},
-  number = {6389},
-  journal = {Science},
-  doi = {10.1126/science.aar4586},
-  url = {http://science.sciencemag.org/content/360/6389/632},
-  author = {Lipton, Jeffrey Ian and MacCurdy, Robert and Manchester, Zachary and Chin, Lillian and Cellucci, Daniel and Rus, Daniela},
-  month = may,
-  year = {2018},
-  pages = {632--635},
-  file = {files/548/Lipton et al. - 2018 - Handedness in shearing auxetics creates rigid and .pdf},
-  note = {pubs-journal}
-}
-
-@article{Manchester2017c,
-  title = {Stability of a {{Light Sail Riding}} on a {{Laser Beam}}},
-  volume = {837},
-  issn = {2041-8213},
-  number = {2},
-  urldate = {2018-03-12},
-  journal = {The Astrophysical Journal},
-  doi = {10.3847/2041-8213/aa619b},
-  url = {https://arxiv.org/pdf/1609.09506.pdf},
-  author = {Manchester, Zachary and Loeb, Abraham},
-  month = mar,
-  year = {2017},
-  file = {files/407/pdf.pdf},
+  file = {/home/taylor/Zotero/storage/88YWTHU7/dirtrel-auro.pdf},
   note = {pubs-journal}
 }
 
@@ -141,7 +97,7 @@
   author = {Manchester, Zachary and Peck, Mason},
   month = jan,
   year = {2017},
-  file = {files/715/Inertia_Estimation.pdf},
+  file = {/home/taylor/Zotero/storage/F3ENJK4D/Inertia_Estimation.pdf},
   note = {pubs-conference}
 }
 
@@ -158,7 +114,7 @@
   month = jan,
   year = {2016},
   pages = {69-76},
-  file = {files/395/1.pdf},
+  file = {/home/taylor/Zotero/storage/ZWQQJR3Y/1.pdf},
   note = {pubs-journal}
 }
 
@@ -171,7 +127,19 @@
   author = {Lipton, Jeffrey and Manchester, Zachary and Rus, Daniela},
   month = jun,
   year = {2017},
-  file = {files/426/Robot_Saw.pdf},
+  file = {/home/taylor/Zotero/storage/XJRCG6AH/Robot_Saw.pdf},
+  note = {pubs-conferece}
+}
+
+@inproceedings{Manchester2016b,
+  address = {{Long Beach, CA}},
+  title = {Lyapunov-{{Based Control}} for {{Flat}}-{{Spin Recovery}} and {{Spin Inversion}} of {{Spin}}-{{Stabilized Spacecraft}}},
+  booktitle = {{{AIAA}}/{{AAS Astrodynamics Specialist Conference}}},
+  url = {https://rexlab.stanford.edu/papers/Spin_Control.pdf},
+  author = {Manchester, Zachary},
+  month = feb,
+  year = {2016},
+  file = {/home/taylor/Zotero/storage/KIDKIBLE/Spin_Control.pdf},
   note = {pubs-conferece}
 }
 
@@ -184,7 +152,72 @@
   author = {Manchester, Zachary and Peck, Mason and Filo, Andrew},
   month = aug,
   year = {2013},
-  file = {files/540/KickSat_SmallSat.pdf},
+  file = {/home/taylor/Zotero/storage/LKDSTM4J/KickSat_SmallSat.pdf},
+  note = {pubs-conference}
+}
+
+@inproceedings{Manchester2017a,
+  address = {{Cambridge, MA}},
+  title = {{{DIRTREL}}: {{Robust Trajectory Optimization}} with {{Ellipsoidal Disturbances}} and {{LQR Feedback}}},
+  shorttitle = {{{DIRTREL}}},
+  booktitle = {Robotics: {{Science}} and {{Systems}} ({{RSS}}), {{Cambridge}}, {{MA}}},
+  url = {https://rexlab.stanford.edu/papers/dirtrel.pdf},
+  author = {Manchester, Zachary and Kuindersma, Scott},
+  month = jul,
+  year = {2017},
+  file = {/home/taylor/Zotero/storage/S2PVTZUB/dirtrel.pdf},
+  note = {pubs-conference}
+}
+
+@inproceedings{Manchester2016,
+  address = {{Las Vegas, NV}},
+  title = {Derivative-Free Trajectory Optimization with Unscented Dynamic Programming},
+  booktitle = {Decision and {{Control}} ({{CDC}}), 2016 {{IEEE}} 55th {{Conference}} On},
+  publisher = {{IEEE}},
+  url = {https://rexlab.stanford.edu/papers/udp.pdf},
+  author = {Manchester, Zachary and Kuindersma, Scott},
+  month = dec,
+  year = {2016},
+  file = {/home/taylor/Zotero/storage/EKAHV3CF/udp.pdf},
+  note = {pubs-conference}
+}
+
+@inproceedings{Doshi2018,
+  address = {{Pittsburgh, PA}},
+  title = {Contact-{{Implicit Optimization}} of {{Locomotion Trajectories}} for a {{Quadrupedal Microrobot}}},
+  abstract = {Planning locomotion trajectories for legged microrobots is challenging because of their complex morphology, high frequency passive dynamics, and discontinuous contact interactions with their environment. Consequently, such research is often driven by time-consuming experimental methods. As an alternative, we present a framework for systematically modeling, planning, and controlling legged microrobots. We develop a threedimensional dynamic model of a 1.5 g quadrupedal microrobot with complexity (e.g., number of degrees of freedom) similar to larger-scale legged robots. We then adapt a recently developed variational contact-implicit trajectory optimization method to generate feasible whole-body locomotion plans for this microrobot, and we demonstrate that these plans can be tracked with simple joint-space controllers. We plan and execute periodic gaits at multiple stride frequencies and on various surfaces. These gaits achieve high per-cycle velocities, including a maximum of 10.87 mm/cycle, which is 15\% faster than previously measured velocities for this microrobot. Furthermore, we plan and execute a vertical jump of 9.96 mm, which is 78\% of the microrobot's center-of-mass height. To the best of our knowledge, this is the first end-to-end demonstration of planning and tracking whole-body dynamic locomotion on a millimeter-scale legged microrobot.},
+  language = {en},
+  booktitle = {Robotics: {{Science}} and {{Systems}} ({{RSS}})},
+  url = {https://rexlab.stanford.edu/papers/hamr-trajopt.pdf},
+  author = {Doshi, Neel and Jayaram, Kaushik and Goldberg, Benjamin and Manchester, Zachary and Wood, Robert J and Kuindersma, Scott},
+  month = jun,
+  year = {2018},
+  pages = {10},
+  file = {/home/taylor/Zotero/storage/Z9PYKPNG/Doshi et al. - Contact-Implicit Optimization of Locomotion Trajec.pdf},
+  note = {pubs-conference}
+}
+
+@inproceedings{Plancher2017,
+  address = {{Vancouver, BC}},
+  title = {Constrained {{Unscented Dynamic Programming}}},
+  booktitle = {Proceedings of the {{IEEE}}/{{RSJ International Conference}} on {{Intelligent Robots}} and {{Systems}} ({{IROS}})},
+  url = {https://rexlab.stanford.edu/papers/constrained-udp.pdf},
+  author = {Plancher, Brian and Manchester, Zachary and Kuindersma, Scott},
+  month = sep,
+  year = {2017},
+  file = {/home/taylor/Zotero/storage/3UUVDUT3/constrained-udp.pdf},
+  note = {pubs-conference}
+}
+
+@inproceedings{Manchester2017,
+  address = {{Grapevine, TX}},
+  title = {A {{Variable Forward}}-{{Sweep Wing Design}} for {{Enhanced Perching}} in {{Micro Aerial Vehicles}}},
+  booktitle = {55th {{AIAA Aerospace Sciences Meeting}}},
+  url = {https://rexlab.stanford.edu/papers/Morphing_Wing.pdf},
+  author = {Manchester, Zachary and Lipton, Jeffrey and Wood, Robert and Kuindersma, Scott},
+  month = jan,
+  year = {2017},
+  file = {/home/taylor/Zotero/storage/BBPNFRYL/Morphing_Wing.pdf},
   note = {pubs-conference}
 }
 
@@ -199,22 +232,40 @@
   author = {Manchester, Zachary},
   month = jun,
   year = {2016},
-  file = {files/516/how-do-you-fly-to-alpha-centauri-in-just-20-years-ride-a-laser-beam.html},
+  file = {/home/taylor/Zotero/storage/P5P9JHCA/how-do-you-fly-to-alpha-centauri-in-just-20-years-ride-a-laser-beam.html},
   note = {pubs-other}
 }
 
-@inproceedings{Howell2019,
-  address = {{Macau, China}},
-  title = {{{ALTRO}}: {{A Fast Solver}} for {{Constrained Trajectory Optimization}}},
-  abstract = {Trajectory optimization is a widely used tool with many important applications in robotic motion planning and control. However, most existing algorithm implementations fall into one of two categories: either they rely on general-purpose off-the-shelf nonlinear programming solvers that are numerically robust and capable of handling arbitrary constraints but tend to be slow, or they use custom numerical methods that are fast but lack robustness and have limited or no ability to deal with constraints. This paper presents ALTRO (Augmented Lagrangian TRajectory Optimizer), a novel algorithm for solving constrained trajectory optimization problems that bridges this gap by offering fast convergence, numerical robustness, and the ability to handle general nonlinear state and input constraints. We demonstrate ALTRO's capabilities on a set of benchmark motion-planning problems and offer comparisons to the standard direct collocation (DIRCOL) method.},
+@article{Manchester2017c,
+  title = {Stability of a {{Light Sail Riding}} on a {{Laser Beam}}},
+  volume = {837},
+  issn = {2041-8213},
+  number = {2},
+  urldate = {2018-03-12},
+  journal = {The Astrophysical Journal},
+  doi = {10.3847/2041-8213/aa619b},
+  url = {https://arxiv.org/pdf/1609.09506.pdf},
+  author = {Manchester, Zachary and Loeb, Abraham},
+  month = mar,
+  year = {2017},
+  file = {/home/taylor/Zotero/storage/Z7V2WJ8J/pdf.pdf},
+  note = {pubs-journal}
+}
+
+@article{Lipton2018,
+  title = {Handedness in Shearing Auxetics Creates Rigid and Compliant Structures},
+  volume = {360},
   language = {en},
-  booktitle = {{{IEEE}}/{{RSJ International Conference}} on {{Intelligent Robots}} and {{Systems}} ({{IROS}})},
-  url = {https://rexlab.stanford.edu/papers/altro-iros.pdf},
-  author = {Howell, Taylor A and Jackson, Brian E and Manchester, Zachary},
-  month = nov,
-  year = {2019},
-  file = {files/1130/IROS19_1603_FI-1.pdf},
-  note = {Accepted}
+  number = {6389},
+  journal = {Science},
+  doi = {10.1126/science.aar4586},
+  url = {http://science.sciencemag.org/content/360/6389/632},
+  author = {Lipton, Jeffrey Ian and MacCurdy, Robert and Manchester, Zachary and Chin, Lillian and Cellucci, Daniel and Rus, Daniela},
+  month = may,
+  year = {2018},
+  pages = {632--635},
+  file = {/home/taylor/Zotero/storage/KLWLU69J/Lipton et al. - 2018 - Handedness in shearing auxetics creates rigid and .pdf},
+  note = {pubs-journal}
 }
 
 @inproceedings{Gupta2019,
@@ -228,7 +279,7 @@
   month = feb,
   year = {2019},
   keywords = {Computer Science - Robotics,Computer Science - Systems and Control,Computer Science - Artificial Intelligence,Computer Science - Machine Learning},
-  file = {files/1027/Gupta et al. - 2019 - A General Framework for Structured Learning of Mec.pdf},
+  file = {/home/taylor/Zotero/storage/H7FJFD99/Gupta et al. - 2019 - A General Framework for Structured Learning of Mec.pdf},
   note = {In Review}
 }
 
@@ -242,75 +293,8 @@
   author = {Landry, Benoit and Manchester, Zachary and Pavone, Marco},
   month = feb,
   year = {2019},
-  keywords = {Mathematics - Optimization and Control,Computer Science - Robotics},
-  file = {files/1029/Landry et al. - 2019 - A Differentiable Augmented Lagrangian Method for B.pdf},
-  note = {In Review}
-}
-
-@inproceedings{Landry2019a,
-  address = {{Hanoi, Vietnam}},
-  title = {Bilevel {{Optimization}} for {{Planning}} through {{Contact}}: {{A Semidirect Method}}},
-  abstract = {Many robotics applications, from object manipulation to locomotion, require planning methods that are capable of handling the dynamics of contact. Trajectory optimization has been shown to be a viable approach that can be made to support contact dynamics. However, the current state-of-the art methods remain slow and are often difficult to get to converge. In this work, we leverage recent advances in bilevel optimization to design an algorithm capable of efficiently generating trajectories that involve making and breaking contact. We demonstrate our method's efficiency by outperforming an alternative state-of-the-art method on a benchmark problem. We moreover demonstrate the method's ability to design a simple periodic gait for a quadruped with 15 degrees of freedom and four contact points.},
-  language = {en},
-  booktitle = {Int. {{Symp}}. on {{Robotics Research}}},
-  author = {Landry, Benoit and Lorenzetti, Joseph and Manchester, Zachary and Pavone, Marco},
-  year = {2019},
-  pages = {15},
-  file = {files/1074/Landry et al. - Bilevel Optimization for Planning through Contact.pdf}
-}
-
-@inproceedings{Holliday2019,
-  title = {{{PyCubed}}: {{An Open}}-{{Source}}, {{Radiation}}-{{Tested CubeSat Platform Programmable Entirely}} in {{Python}}},
-  abstract = {The hardware and software pitfalls associated with satellite development have led to a nearly 60\% failure rate among first-time CubeSat builders. We believe that a high-quality, community-driven CubeSat avionics platform would dramatically improve mission success rates. PyCubed is an open-source, radiation-tested CubeSat avionics platform that integrates power, computing, communication, and attitude determination and control functionality into a single low-cost PC104-compatible module programmable entirely in Python. PyCubed addresses many hardwarerelated failure modes through component and system-level radiation testing, in-depth design and qualification documentation, and flight heritage on a successful LEO mission. The challenge of flight software development is also mitigated through the use of the Python programming language via CircuitPython. Python enables dramatically simplified CubeSat software development, allowing students and researchers to quickly and reliably integrate new sensors, control algorithms, and payload hardware into their missions. All design files, including additional design justifications and reliability documentation, are available on the project's GitHub site.},
-  language = {en},
-  booktitle = {Proceedings of the {{AIAA}}/{{USU Conference}} on {{Small Satellites}}},
-  author = {Holliday, Maximillian and Ramirez, Andrea and Settle, Connor and Tatum, Tane and Senesky, Debbie and Manchester, Zachary},
-  month = aug,
-  year = {2019},
-  pages = {9}
-}
-
-@article{Manchester2019,
-  title = {Contact-Implicit Trajectory Optimization Using Variational Integrators},
-  issn = {0278-3649, 1741-3176},
-  abstract = {Contact constraints arise naturally in many robot planning problems. In recent years, a variety of contact-implicit trajectory optimization algorithms have been developed that avoid the pitfalls of mode pre-specification by simultaneously optimizing state, input, and contact force trajectories. However, their reliance on first-order integrators leads to a linear tradeoff between optimization problem size and plan accuracy. To address this limitation, we propose a new family of trajectory optimization algorithms that leverage ideas from discrete variational mechanics to derive higher-order generalizations of the classic time-stepping method of Stewart and Trinkle. By using these dynamics formulations as constraints in direct trajectory optimization algorithms, it is possible to perform contact-implicit trajectory optimization with significantly higher accuracy. For concreteness, we derive a second-order method and evaluate it using several simulated rigidbody systems, including an underactuated biped and a quadruped. In addition, we use this second-order method to plan locomotion trajectories for a complex quadrupedal microrobot. The planned trajectories are evaluated on the physical platform and result in a number of performance improvements.},
-  language = {en},
-  urldate = {2019-05-29},
-  journal = {The International Journal of Robotics Research},
-  doi = {10.1177/0278364919849235},
-  url = {http://journals.sagepub.com/doi/10.1177/0278364919849235},
-  author = {Manchester, Zachary and Doshi, Neel and Wood, Robert J and Kuindersma, Scott},
-  month = may,
-  year = {2019},
-  pages = {027836491984923},
-  file = {files/1084/Manchester et al. - 2019 - Contact-implicit trajectory optimization using var.pdf}
-}
-
-@inproceedings{Gatherer,
-  address = {{Portland, ME}},
-  title = {{{Magnetorquer}}-{{only attitude control of small satellites using trajectory optimization}}},
-  abstract = {This paper presents a magnetorquer-only attitude control technique that utilizes
-trajectory optimization methods to circumvent the underactuated nature of satellite magnetic field interactions. Given a known orbit and desired attitude state,
-the method utilizes a nonlinear dynamics model and a fast constrained trajectory optimization solver based on differential dynamic programming to arrive at
-a nominal torque profile that respects the spacecraft's actuator limitations. This
-nominal maneuver is then tracked using a time-varying linear-quadratic regulator
-(LQR). To demonstrate the effectiveness and robustness of the proposed control
-technique, closed-loop Monte-Carlo simulations are performed from a variety of orbits and initial conditions. Our method is shown to significantly outperform
-previous magnetorquer-only control schemes by offering convergence from large initial errors and fast slew rates that exploit the full performance capabilities of the actuators. Computational complexity of the method and future implementation in flight software onboard a CubeSat are also discussed.},
-  booktitle = {2019 {{AAS}}/{{AIAA Astrodynamics Specialist Conference}}},
-  url = {https://rexlab.stanford.edu/papers/magnetorquer_only.pdf},
-  year = {2019},
-  author = {Gatherer, Andrew and Manchester, Zac}
-}
-
-@inproceedings{Landry2019b,
-  title = {Bilevel {{Optimization}} for {{Planning}} through {{Contact}}: {{A Semidirect Method}}},
-  abstract = {Many robotics applications, from object manipulation to locomotion, require planning methods that are capable of handling the dynamics of contact. Trajectory optimization has been shown to be a viable approach that can be made to support contact dynamics. However, the current state-of-the art methods remain slow and are often difficult to get to converge. In this work, we leverage recent advances in bilevel optimization to design an algorithm capable of efficiently generating trajectories that involve making and breaking contact. We demonstrate our method's efficiency by outperforming an alternative state-of-the-art method on a benchmark problem. We moreover demonstrate the method's ability to design a simple periodic gait for a quadruped with 15 degrees of freedom and four contact points.},
-  booktitle = {{{ISRR}} 2019 ({{In Review}})},
-  author = {Landry, Benoit and Lorenzetti, Joseph and Manchester, Zachary and Pavone, Marco},
-  year = {2019},
-  pages = {15},
-  file = {files/1132/Landry et al. - Bilevel Optimization for Planning through Contact.pdf},
+  keywords = {Computer Science - Robotics,Mathematics - Optimization and Control},
+  file = {/home/taylor/Zotero/storage/2B7SYTFJ/Landry et al. - 2019 - A Differentiable Augmented Lagrangian Method for B.pdf},
   note = {In Review}
 }
 
@@ -324,8 +308,34 @@ previous magnetorquer-only control schemes by offering convergence from large in
   author = {Le Cleac'h, Simon and Manchester, Zachary},
   month = nov,
   year = {2019},
-  file = {files/1138/Le Cleac'h and Manchester - 2019 - Fast Solution of Optimal Control Problems with L1 .pdf},
+  file = {/home/taylor/Zotero/storage/XE4BSYLN/Le Cleac'h and Manchester - 2019 - Fast Solution of Optimal Control Problems with L1 .pdf},
   note = {Accepted}
+}
+
+@inproceedings{Gatherer,
+  address = {{Portland, ME}},
+  title = {{{MAGNETORQUER}}-{{ONLY ATTITUDE CONTROL OF SMALL SATELLITES USING TRAJECTORY OPTIMIZATION}}},
+  abstract = {This paper presents a magnetorquer-only attitude control technique that utilizes
+trajectory optimization methods to circumvent the underactuated nature of satellite magnetic field interactions. Given a known orbit and desired attitude state,
+the method utilizes a nonlinear dynamics model and a fast constrained trajectory optimization solver based on differential dynamic programming to arrive at
+a nominal torque profile that respects the spacecraft's actuator limitations. This
+nominal maneuver is then tracked using a time-varying linear-quadratic regulator
+(LQR). To demonstrate the effectiveness and robustness of the proposed control
+technique, closed-loop Monte-Carlo simulations are performed from a variety of orbits and initial conditions. Our method is shown to significantly outperform
+previous magnetorquer-only control schemes by offering convergence from large initial errors and fast slew rates that exploit the full performance capabilities of the actuators. Computational complexity of the method and future implementation in flight software onboard a CubeSat are also discussed.},
+  booktitle = {2019 {{AAS}}/{{AIAA Astrodynamics Specialist Conference}}},
+  url = {https://rexlab.stanford.edu/papers/magnetorquer_only.pdf},
+  author = {Gatherer, Andrew and Manchester, Zac}
+}
+
+@article{Jackson,
+  title = {Scalable {{Cooperative Transport}} of {{Cable}}-{{Suspended Loads}} with {{UAVs}} Using {{Distributed Trajectory Optimization}}},
+  abstract = {Most approaches to multi-robot control either rely on local decentralized control policies that scale well in the number of agents, or on centralized methods that can handle constraints and produce rich system-level behavior, but are typically computationally expensive and scale poorly in the number of agents, relegating them to offline planning. This work presents a scalable approach that uses distributed trajectory optimization to parallelize computation over a group of computationally-limited agents while handling general nonlinear dynamics and non-convex constraints. The approach, including near-real-time onboard trajectory generation, is demonstrated in hardware on a cable-suspended load problem with a team of quadrotors automatically reconfiguring to transport a heavy load through a doorway.},
+  language = {en},
+  url = {https://rexlab.stanford.edu/papers/distributed_quads.pdf},
+  author = {Jackson, Brian E and Howell, Taylor A and Shah, Kunal and Schwager, Mac and Manchester, Zachary},
+  pages = {8},
+  file = {/home/taylor/Zotero/storage/34DLHV6K/Jackson et al. - Scalable Cooperative Transport of Cable-Suspended .pdf}
 }
 
 
