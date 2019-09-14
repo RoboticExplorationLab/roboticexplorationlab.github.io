@@ -46,6 +46,14 @@ andrew:
     image: /img/people/andrew.jpg
     bio: Master's Student
 
+jan:
+    display_name: "Jan Bruedigam"
+    webpage: "https://www.linkedin.com/in/janbruedigam"
+    github: janbruedigam
+    role: grad
+    image: /img/people/jan.jpg
+    bio: Master's Student
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
