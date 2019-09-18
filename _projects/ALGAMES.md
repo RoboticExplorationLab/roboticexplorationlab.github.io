@@ -18,7 +18,7 @@ Dynamic games are an effective paradigm for dealing with the control of multiple
 We propose ALGAMES (Augmented Lagrangian GAME-theoretic Solver), a solver that handles trajectory optimization problems with multiple actors and general nonlinear state and input constraints. We evaluate our solver in the context of autonomous driving on scenarios involving numerous vehicles such as ramp merging, overtaking, and lane changing. We present simulation and timing results demonstrating the speed and the ability of the solver to produce efficient, safe, and natural autonomous behaviors. 
 
 The main results obtained demonstrating ALGAMES performance are presented in this short video. 
-[![ALGAMES](https://img.youtube.com/vi/ZvaVNvw5fYw/1.jpg)](https://www.youtube.com/watch?v=ZvaVNvw5fYw "ALGAMES")
+[![ALGAMES](/img/algames_video.png)](https://www.youtube.com/watch?v=ZvaVNvw5fYw "ALGAMES")
 
 The code for ALGAMES is made available on RexLab's GitHub [ALGAMES.jl](https://github.com/RoboticExplorationLab/ALGAMES.jl.git).
 
