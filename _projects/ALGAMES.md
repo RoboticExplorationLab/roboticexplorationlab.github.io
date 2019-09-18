@@ -1,5 +1,5 @@
 ---
-title: ALGAMES: A Fast Solver for Constrained Dynamic Games
+title: Dynamic Games Solver
 
 description: |
   Developing a general solver for dynamic games aimed at identifying Nash equilibrium strategies specifically tailored to robotics applications. 
