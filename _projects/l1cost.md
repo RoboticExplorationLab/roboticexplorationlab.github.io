@@ -21,4 +21,4 @@ Future work includes implementation of the optimization algorithm  to embedded h
 
 The code for the proposed algorithm is made available on RexLab's GitHub [L1CostOptimizer.jl](https://github.com/RoboticExplorationLab/L1CostOptimizer.jl.git).
 
-![L1CostOptimizer solving a spacecraft rendzvous problem](/img/rendezvous.gif)
+![L1CostOptimizer solving a spacecraft rendezvous problem](/img/rendezvous.gif)
