@@ -3,6 +3,9 @@ layout: default
 title: Joining
 ---
 
+## Lab Meetings
+Lab meetings are held in Durand 032 on Mondays at 11:00 am. Anyone interested is welcome to attend.
+
 ## Stanford Graduate Students
 
 If you have been admitted to Stanford and are interested in joining our lab, send Zac an email with your CV and a short description of your background and interests. 

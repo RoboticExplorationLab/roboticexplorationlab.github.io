@@ -1,4 +1,5 @@
 ---
+title: 2019 AIAA Astrodynamics Conference
 layout: post
 shortnews: false
 icon: newspaper-o
