@@ -9,8 +9,8 @@ people:
   - andrew
 
 layout: project
-image: "/img/pandasat.png"
-last-updated: 2019-04-02
+image: "/img/underactuated_cubesat.gif"
+last-updated: 2019-09-27
 ---
 
 Due to the ever-increasing scope of small satellite missions, there is now significant demand for precise attitude determination and control capabilities onboard CubeSats. Interactions between magnetic torque coils and the Earth’s magnetic field have been used for decades onboard satellites to offload momentum from reaction wheels and control-moment gyroscopes. However, magnetorquers are inherently underactuated, and mechanical actuators like reaction wheels are often prohibitively expensive in terms of mass, volume, power, and cost for CubeSat missions.
