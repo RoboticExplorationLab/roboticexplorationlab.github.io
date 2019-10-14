@@ -54,6 +54,14 @@ jan:
     image: /img/people/jan.jpg
     bio: Master's Student
 
+remy:
+    display_name: "Remy Derollez"
+    webpage: "https://www.linkedin.com/in/r%C3%A9my-derollez-43a60912b/"
+    github: Derollez
+    role: grad
+    image: /img/people/remy.jpg
+    bio: Master's Student
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
