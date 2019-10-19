@@ -1,0 +1,12 @@
+I"�<h2 id="the-big-picture">The Big Picture</h2>
+
+<p>The hardware and software pitfalls associated with satellite development greatly contribute to the nearly 60% failure rates of initial CubeSat missions. As the role of small satellites in commercial and scientific endeavors evolves beyond an “engineering exercise,” basic aspects of the spacecraft design must be matured and made widely available in order to continue advancing this valuable technology for Space exploration.</p>
+
+<p>PyCubed: an open-source, radiation-tested CubeSat framework that cost-effectively integrates ADCS, TT&amp;C, C&amp;DH, and EPS into a single PC104-compatible module programmable entirely in Python. PyRCubed addresses many hardware-related failure modes of CubeSats through component and system-level radiation testing, in-depth design and qualification documentation, and on-orbit flight performance from an ongoing LEO mission (KickSat-2). The challenge of mission-ready software development is also mitigated through low-level implementation of the Python programming language via CircuitPython.</p>
+
+<p>Project Website: <a href="http://pycubed.org">pycubed.org</a></p>
+
+<p>All documentation, design files, and tutorials are available on GitHub: <a href="https://github.com/pycubed">https://github.com/PyCubed</a>.</p>
+
+<p><a href="https://digitalcommons.usu.edu/smallsat/2019/all2019/65/">Paper presented at 2019 AIAA/USU Conference on Small Satellites</a></p>
+:ET
