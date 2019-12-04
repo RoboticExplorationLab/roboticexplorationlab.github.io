@@ -68,8 +68,9 @@ nathan:
 
 tarun:
     display_name: "Tarun Punnoose"
+    webpage: "https://punnoo.se/"
     role: ugrad
-    image: /img/people/scott.png
+    image: /img/people/tarun.jpg
     bio: Undergraduate Student 
 
 aaron:
