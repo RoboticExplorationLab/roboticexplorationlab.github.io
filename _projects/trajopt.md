@@ -28,6 +28,6 @@ The code for ALTRO is included in our package [TrajectoryOptimization.jl](https:
 <img src="/img/kuka_combined.png" alt="drawing" width="600"/>
 
 # Related Papers
-[ALTRO: A Fast Solver for Trajectory Optimization](/papers/altro-iros.pdf)
-[Scalable Cooperative Transport of Cable-Suspended Loads with UAVs Using Distributed Trajectory Optimization](/papers/distributed_quads.pdf)
-[AL-iLQR Tutorial](https://bjack205.github.io/papers/AL_iLQR_Tutorial.pdf)
+* [ALTRO: A Fast Solver for Trajectory Optimization](/papers/altro-iros.pdf)  
+* [Scalable Cooperative Transport of Cable-Suspended Loads with UAVs Using Distributed Trajectory Optimization](/papers/distributed_quads.pdf)
+* [AL-iLQR Tutorial](https://bjack205.github.io/papers/AL_iLQR_Tutorial.pdf)
