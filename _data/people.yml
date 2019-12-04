@@ -10,31 +10,31 @@ taylor:
     display_name: "Taylor Howell"
     webpage: "http://taylorhowell.xyz"
     github: thowell
-    role: grad
+    role: phd 
     image: /img/people/taylor.jpg
-    bio: Optimization with contact interactions  
+    bio: Optimization with contact interactions 
 
 brian:
     display_name: "Brian Jackson"
     webpage: "https://bjack205.github.io"
     github: bjack205
-    role: grad
+    role: phd
     image: /img/people/brian.jpg
-    bio: Julia Evangelist 
+    bio: Real-time motion planning 
 
 max:
     display_name: "Max Holliday"
     webpage: "https://github.com/maholli"
     github: maholli
-    role: grad
+    role: phd 
     image: /img/people/max.jpg
-    bio: Resident Wizard 
+    bio: Space-resilient hardware 
 
 simon:
     display_name: "Simon Le Cleac'h"
     webpage: "https://www.linkedin.com/in/simon-lc/"
     github: simon-lc
-    role: grad
+    role: phd 
     image: /img/people/simon.jpg
     bio: Optimizing game-theoretic interactions
 
@@ -42,21 +42,21 @@ andrew:
     display_name: "Andrew Gatherer"
     webpage: "https://www.linkedin.com/in/andrew-gatherer-72211862/"
     github: GathererA
-    role: grad
+    role: phd 
     image: /img/people/andrew.jpg
-    bio: Space Ethusiast 
+    bio: Improving small-satellites 
 
 jan:
     display_name: "Jan Bruedigam"
     webpage: "https://www.linkedin.com/in/janbruedigam"
     github: janbruedigam
-    role: grad
+    role: masters 
     image: /img/people/jan.jpg
-    bio: Building the next-gen physics engine 
+    bio: Modernizing physics engines 
 
 laura:
     display_name: "Laura Lee"
-    role: grad
+    role: masters 
     image: /img/people/scott.png
     bio: Master's Student
 
@@ -82,9 +82,9 @@ remy:
     display_name: "Remy Derollez"
     webpage: "https://www.linkedin.com/in/r%C3%A9my-derollez-43a60912b/"
     github: Derollez
-    role: grad
+    role: masters 
     image: /img/people/remy.jpg
-    bio: Master's Student
+    bio: Robust motion planning 
 
 # grad-a:
 #     display_name: "Grad A"

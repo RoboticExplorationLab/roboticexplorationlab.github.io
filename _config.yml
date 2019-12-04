@@ -20,8 +20,10 @@ roles:
   #   name: Staff
   # - key: postdoc
   #   name: Researchers
-  - key: grad
-    name: Graduate Students
+  - key: phd 
+    name: PhD Students
+  - key: masters
+    name: Masters Students
   - key: ugrad
     name: Undergraduate Students
   # - key: ugrad-alum
