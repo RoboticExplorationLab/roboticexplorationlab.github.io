@@ -12,7 +12,7 @@ taylor:
     github: thowell
     role: grad
     image: /img/people/taylor.jpg
-    bio: PhD Candidate
+    bio: Optimization with contact interactions  
 
 brian:
     display_name: "Brian Jackson"
@@ -20,7 +20,7 @@ brian:
     github: bjack205
     role: grad
     image: /img/people/brian.jpg
-    bio: PhD Candidate
+    bio: Julia Evangelist 
 
 max:
     display_name: "Max Holliday"
@@ -28,7 +28,7 @@ max:
     github: maholli
     role: grad
     image: /img/people/max.jpg
-    bio: PhD Candidate
+    bio: Resident Wizard 
 
 simon:
     display_name: "Simon Le Cleac'h"
@@ -36,7 +36,7 @@ simon:
     github: simon-lc
     role: grad
     image: /img/people/simon.jpg
-    bio: PhD Candidate
+    bio: Optimizing game-theoretic interactions
 
 andrew:
     display_name: "Andrew Gatherer"
@@ -44,7 +44,7 @@ andrew:
     github: GathererA
     role: grad
     image: /img/people/andrew.jpg
-    bio: Master's Student
+    bio: Space Ethusiast 
 
 jan:
     display_name: "Jan Bruedigam"
@@ -52,7 +52,31 @@ jan:
     github: janbruedigam
     role: grad
     image: /img/people/jan.jpg
+    bio: Building the next-gen physics engine 
+
+laura:
+    display_name: "Laura Lee"
+    role: grad
+    image: /img/people/scott.png
     bio: Master's Student
+
+nathan:
+    display_name: "Nathan Kau"
+    role: ugrad
+    image: /img/people/scott.png
+    bio: Undergraduate Student
+
+tarun:
+    display_name: "Tarun Punnoose"
+    role: ugrad
+    image: /img/people/scott.png
+    bio: Undergraduate Student 
+
+aaron:
+    display_name: "Aaron Shultz"
+    role: ugrad
+    image: /img/people/scott.png
+    bio: Undergraduate Student
 
 # grad-a:
 #     display_name: "Grad A"
