@@ -29,11 +29,6 @@
 				{{ entry.persons['author']|author_list }}.
 			</span><br />
 			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue">{{ entry|venue -}}</span>.
-			{%- if entry.fields['note'] %}
-			<span class="note">
-			{{ entry.fields['note']|note|escape }}
-			</span>
-			{%- endif %}
 			<br />
 			<span class="links">
 			{%- for type, url in (entry|extra_urls).iteritems() %}

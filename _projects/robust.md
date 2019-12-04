@@ -6,6 +6,7 @@ description: |
 
 people:
   - zac
+  - remy
 
 layout: project
 image: "/img/funnel.jpg"
