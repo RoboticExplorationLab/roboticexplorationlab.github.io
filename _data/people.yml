@@ -56,8 +56,9 @@ jan:
 
 laura:
     display_name: "Laura Lee"
+    webpage: "https://www.linkedin.com/in/lauraleeane/"
     role: masters 
-    image: /img/people/scott.png
+    image: /img/people/laura.jpg
     bio: Master's Student
 
 nathan:
@@ -75,6 +76,7 @@ tarun:
 
 aaron:
     display_name: "Aaron Schultz"
+    webpage: "https://www.linkedin.com/in/aaron-s-a4aa2685/"
     role: ugrad
     image: /img/people/aaron.jpg
     bio: Undergraduate Student
