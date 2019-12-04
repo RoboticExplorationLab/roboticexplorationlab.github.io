@@ -6,6 +6,7 @@ description: |
 
 people:
   - zac
+  - taylor
 
 layout: project
 image: "/img/littledog.jpg"

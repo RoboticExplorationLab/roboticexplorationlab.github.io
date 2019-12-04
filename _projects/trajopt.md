@@ -12,7 +12,7 @@ people:
 
 layout: project
 image: "/img/quadrotor_maze.png"
-last-updated: 2019-03-26
+last-updated: 2019-12-04
 ---
 
 Trajectory optimization is a powerful tool for motion planning, enabling the synthesis of dynamic motion for complex underactuated robotic systems. This general framework can be applied to robots with nonlinear dynamics and constraints where other motion planning paradigms---such as sample-based planning, inverse dynamics, or differential flatness---are impractical or ineffective.
@@ -23,9 +23,11 @@ Future work includes performance enhancements through more careful implementatio
 
 The code for ALTRO is included in our package [TrajectoryOptimization.jl](https://github.com/RoboticExplorationLab/TrajectoryOptimization.jl.git), a library of solvers for trajectory optimization presented within an easy-to-use, unified framework. 
 
-Here's an in-progress tutorial on the mathematical concepts behind the algorithm: [TrajOpt Tutorial](/papers/iLQR_Tutorial.pdf).
-
 ![ALTRO running a quadcopter through a maze](/img/maze_v2.gif)
 
 <img src="/img/kuka_combined.png" alt="drawing" width="600"/>
 
+# Related Papers
+[ALTRO: A Fast Solver for Trajectory Optimization](/papers/altro-iros.pdf)
+[Scalable Cooperative Transport of Cable-Suspended Loads with UAVs Using Distributed Trajectory Optimization](/papers/distributed_quads.pdf)
+[AL-iLQR Tutorial](https://bjack205.github.io/papers/AL_iLQR_Tutorial.pdf)
