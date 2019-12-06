@@ -12,7 +12,7 @@ people:
   - aaron
 
 layout: project
-image: "/img/littledog.jpg"
+image: "/img/woofer.jpg"
 no-link: true
 last-updated: 2019-12-04 
 ---
