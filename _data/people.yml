@@ -63,6 +63,7 @@ laura:
 
 nathan:
     display_name: "Nathan Kau"
+    webpage: "https://nathankau.com/"
     role: ugrad
     image: /img/people/scott.png
     bio: Undergraduate Student
