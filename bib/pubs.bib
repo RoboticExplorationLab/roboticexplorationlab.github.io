@@ -77,13 +77,13 @@ previous magnetorquer-only control schemes by offering convergence from large in
   abstract = {Most approaches to multi-robot control either rely on local decentralized control policies that scale well in the number of agents, or on centralized methods that can handle constraints and produce rich system-level behavior, but are typically computationally expensive and scale poorly in the number of agents, relegating them to offline planning. This work presents a scalable approach that uses distributed trajectory optimization to parallelize computation over a group of computationally-limited agents while handling general nonlinear dynamics and non-convex constraints. The approach, including near-real-time onboard trajectory generation, is demonstrated in hardware on a cable-suspended load problem with a team of quadrotors automatically reconfiguring to transport a heavy load through a doorway.},
   address = {{Paris, France}},
   author = {Jackson, Brian E and Howell, Taylor A and Shah, Kunal and Schwager, Mac and Manchester, Zachary},
-  booktitle = {International {{Conference}} on {{Robotics}} and {{Automation}} ({{In Review}})},
+  booktitle = {International {{Conference}} on {{Robotics}} and {{Automation}} {{(ICRA 2020)}}},
   file = {/Users/zac/Zotero/storage/34DLHV6K/Jackson et al. - Scalable Cooperative Transport of Cable-Suspended .pdf},
   language = {en},
-  note = {In Review},
   pages = {8},
   title = {Scalable {{Cooperative Transport}} of {{Cable}}-{{Suspended Loads}} with {{UAVs}} Using {{Distributed Trajectory Optimization}}},
   url = {https://rexlab.stanford.edu/papers/distributed_quads.pdf},
+  month = jun,
   year = {2020}
 }
 
@@ -130,19 +130,6 @@ previous magnetorquer-only control schemes by offering convergence from large in
   year = {2019}
 }
 
-@inproceedings{LeCleach20,
-  abstract = {Dynamic games are an effective paradigm for dealing with the control of multiple interacting actors. Current algorithms for solving these problems either rely on Hamilton-Jacobi-Isaacs (HJI) methods, dynamic programming (DP), differential dynamic programming (DDP), or an iterative best response approach (IBR). The first two approaches have strong theoretical guarantees; however they becomes intractable in high-dimensional real-world applications. The third approach is grounded in the success of iLQR. It is scalable, but it cannot handle constraints. Finally, the iterative best response algorithm is a heuristic approach with unknown convergence properties, and it can suffer from stability and tractability issues. This paper introduces ALGAMES (Augmented Lagrangian GAME-theoretic Solver), a solver that handles trajectory optimization problems with multiple actors and general nonlinear state and input constraints. We evaluate our solver in the context of autonomous driving on scenarios involving numerous vehicles such as ramp merging, overtaking, and lane changing. We present simulation and timing results demonstrating the speed and the ability of the solver to produce efficient, safe, and natural autonomous behaviors.},
-  address = {{Paris, France}},
-  author = {Le Cleac'h, Simon and Schwager, Mac and Manchester, Zachary},
-  booktitle = {International {{Conference}} on {{Robotics}} and {{Automation}} ({{In Review}})},
-  file = {/Users/zac/Zotero/storage/NSWQIJWJ/Le Cleac'h et al. - 2020 - ALGAMES A Fast Solver for Constrained Dynamic Gam.pdf},
-  language = {en},
-  note = {In Review},
-  pages = {7},
-  title = {{{ALGAMES}}: {{A Fast Solver}} for {{Constrained Dynamic Games}}},
-  url = {https://rexlab.stanford.edu/papers/ALGAMES.pdf},
-  year = {2020}
-}
 
 @inproceedings{Lipton17,
   address = {{Singapore}},
@@ -349,4 +336,30 @@ previous magnetorquer-only control schemes by offering convergence from large in
   year = {2017}
 }
 
+
+@inproceedings{Jackson2020,
+  title = {Planning and {{Control}} with {{Attitude}}},
+  abstract = {Planning and controlling trajectories for floating-base robotic systems that experience large attitude changes is challenging due to the nontrivial group structure of 3D rotations. This paper introduces an accessible and unified approach for tracking control and optimization-based planning on the space of rotations based on vector calculus and linear algebra. The methodology is used to derive an extension of the LinearQuadratic Regulator (LQR) to systems with arbitrary attitudes, which we call Multiplicative LQR (MLQR). We compare MLQR to a state-ofthe-art geometric tracking controller designed specifically for quadrotors and demonstrate superior tracking and robustness. An iterative variant of MLQR is compared to existing methods on useveral constrained trajectory optimization problems, again demonstrating improved runtime performance.},
+  language = {en},
+  booktitle = {Workshop on the {{Algorithmic Foundations}} of {{Robotics}} {{(WAFR 2020)}}. {{(Submitted)}}},
+  url = {https://rexlab.stanford.edu/papers/planning_with_attitude.pdf},
+  author = {Jackson, Brian and Manchester, Zachary},
+  note = {Submitted},
+  month = jun,
+  year = {2020},
+  pages = {16},
+}
+
+@inproceedings{Cleach2020,
+  address = {{Corvallis, OR}},
+  title = {{{ALGAMES}}: {{A Fast Solver}} for {{Constrained Dynamic Games}}},
+  language = {en},
+  booktitle = {Robotics: {{Science}} and {{Systems}} {{(RSS 2020)}}. {{(Submitted)}}},
+  url = {https://rexlab.stanford.edu/papers/algames.pdf},
+  author = {Cleac'h, Simon Le and Schwager, Mac and Manchester, Zachary},
+  note = {Submitted},
+  month = jul,
+  year = {2020},
+  pages = {10},
+}
 
