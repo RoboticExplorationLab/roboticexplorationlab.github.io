@@ -27,22 +27,6 @@ role-tables:
 </div>
 
 <section>
-    <h2>Research</h2>
-    <div class="card-columns">
-        {% comment %}
-        Sort the projects by date, putting those without dates last
-        {% endcomment %}
-        {% assign projects_by_date = site.projects | sort: 'last-updated', 'first' %}
-        {% assign projects_by_date = projects_by_date | reverse %}
-        {% for p in projects_by_date %}
-            {% if p.status != "inactive" %}
-                {% include project-card.html project=p %}
-            {% endif %}
-        {% endfor %}
-    </div>
-</section>
-
-<section>
     <h2>News</h2>
     <ul class="news list-unstyled">
         {% for post in site.posts limit: site.front_page_news %}
@@ -56,6 +40,22 @@ role-tables:
             <a href="{{ site.base }}/blog.html">Older posts&hellip;</a>
         </p>
     {% endif %}
+</section>
+
+<section>
+    <h2>Research</h2>
+    <div class="card-columns">
+        {% comment %}
+        Sort the projects by date, putting those without dates last
+        {% endcomment %}
+        {% assign projects_by_date = site.projects | sort: 'last-updated', 'first' %}
+        {% assign projects_by_date = projects_by_date | reverse %}
+        {% for p in projects_by_date %}
+            {% if p.status != "inactive" %}
+                {% include project-card.html project=p %}
+            {% endif %}
+        {% endfor %}
+    </div>
 </section>
 
 <div id="people">
