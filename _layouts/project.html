@@ -4,6 +4,23 @@ layout: default
 
 {{ content }}
 
+<h2> Related Papers </h2>
+{% assign tag = page.path | split: '/' | last | split: '.' | first %}
+{% assign prev_year = 1000 %}
+<table class="table">
+<tbody>
+{% for pub in site.data.pubs %}
+    {% if pub.projects %}
+        {% for project in pub.projects %} 
+            {% if project == tag %}
+                {% include pub_entry.html pub=pub prev_year=prev_year%}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+</tbody>
+</table>
+
 <h2> People </h2>
 <section class="people project-people">
     {% for uname in page.people %}

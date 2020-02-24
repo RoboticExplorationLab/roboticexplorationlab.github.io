@@ -1,0 +1,31 @@
+{% assign authors = include.authors %}
+
+
+{% for author in authors %}
+    {% if forloop.last %}
+        and
+    {% endif %}
+
+    {%- assign name = author -%}
+
+    {% for entry in site.data.people %}
+    {% if author == entry[0] %}
+        {% assign person = entry[1] %}
+        {% if person.webpage %}
+            {% capture name %}
+                <a href="{{ person.webpage | escape }}"> {{- person.display_name -}} </a>
+            {% endcapture %}
+        {% else %}
+            {%- assign name = person.display_name -%}
+        {% endif %}
+    {% endif %}
+    {% endfor %}
+
+    <span class="author">
+        {% if forloop.last %}
+            {{ name | strip }}
+        {% else %}
+            {{ name | strip | append: "," }}
+        {% endif %}
+    </span>
+{% endfor %}

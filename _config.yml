@@ -55,4 +55,6 @@ navigation:
     link: /code.html
   - title: Joining
     link: /join.html
+  - title: Pubs
+    link: /publications2.html
 theme: jekyll-theme-cayman

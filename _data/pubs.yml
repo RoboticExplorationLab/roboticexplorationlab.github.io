@@ -1,0 +1,42 @@
+- title: "ALGAMES: A Fast Solver for Cosntrained Dynamic Games"
+  authors: [simon, Mac Schwager, zac]
+  date: "July 12, 2020"
+  pub-type: conference
+  publisher: "Robotics: Science and Systems"
+  abbrv: RSS
+  pdf: ALGAMES.pdf
+  venue: Corvallis, OR
+  projects: [ALGAMES]
+  status: Submitted
+
+- title: Scalable Cooperative Transport of Cable-Suspended Loads with UAV's using Distributed Trajectory Optimization
+  authors: [brian, taylor, Kunal Shah, Mac Schwager, zac]
+  date: "May 31, 2020"
+  pub-type: conference
+  publisher: International Conference on Robotics and Automation
+  abbrv: ICRA
+  venue: Paris, France
+  pdf: distributed_quads.pdf
+  projects: [multirobot,trajopt]
+
+- title: Planning and Control with Attitude
+  authors: [brian, zac]
+  date: "June 15, 2020"
+  pub-type: conference
+  publisher: Workshop on the Algorithmic Foundations of Robotics
+  abbrv: WAFR
+  venue: Oulu, Finland
+  pdf: planning_with_attitude.pdf
+  projects: [trajopt]
+  status: Submitted
+  
+- title: Linear-Time Variational Integrators in Maximal Coordinates
+  authors: [jan, zac]
+  date: "June 2020"
+  publisher: Workshop on the Algorithmic Foundations of Robotics
+  abbrv: WAFR
+  venue: Oulu, Finland
+  pdf: max_coord_dynamics.pdf
+  projects: [quadrupeds]
+  status: Submitted
+  
