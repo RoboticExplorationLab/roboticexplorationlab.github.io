@@ -8,11 +8,11 @@ zac:
 
 taylor:
     display_name: "Taylor Howell"
-    webpage: "http://taylorhowell.xyz"
+    webpage: "thowell.github.io"
     github: thowell
     role: phd 
     image: /img/people/taylor.jpg
-    bio: Optimization with contact interactions 
+    bio: Optimization through contact
 
 brian:
     display_name: "Brian Jackson"
