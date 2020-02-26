@@ -1,11 +1,16 @@
 {% assign pub = include.pub %}
 
-
 {% if pub.pdf %}
-    {% assign url = "/papers/" | append: pub.pdf %}
+    {% if pub.pdf contains "http" %}
+        {% assign url = pub.pdf %}
+    {% else %}
+        {% assign url = "/papers/" | append: pub.pdf %}
+    {% endif %}
     {% capture title %}
         <span class="pubtitle">
-            <img src={{ "img/pdficon_small.png" | relative_url }} width="20" height="20" alt="PDF" />
+            {% if url contains "pdf" %}
+                <img src={{ "img/pdficon_small.png" | relative_url }} width="20" height="20" alt="PDF" />
+            {% endif %}
             <a href="{{ url | escape }}"> {{ pub.title }} </a>
         </span>
     {% endcapture %}
@@ -43,7 +48,11 @@
             {{ authors }}
         </span><br />
         <span class="publisher">
-            {{ pub.publisher | strip }} ({{ pub.abbrv | strip }}).
+            {% if pub.abbrv %}
+                {{ pub.publisher | strip }} ({{ pub.abbrv | strip }}).
+            {% else %}
+                {{ pub.publisher | strip }}
+            {% endif %}
         </span>
         {% if pub.pub-type == "conference" and pub.venue %}
             <span class="venue">

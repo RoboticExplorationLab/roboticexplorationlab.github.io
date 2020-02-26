@@ -8,7 +8,7 @@ authors: [zac, jan, brian, Kunal Shah]
 </p>
 
 {% assign prev_year = 1000 %}
-{% assign pubs = site.data.pubs | sort: "date" %}
+{% assign pubs = site.data.pubs | sort: "date" | reverse %}
 <table class="table">
     <tbody>
         {% for pub in pubs %}
