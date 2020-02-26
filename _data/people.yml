@@ -61,6 +61,14 @@ laura:
     image: /img/people/laura.jpg
     bio: Master's Student
 
+jared:
+    display_name: "Jared Blanchard"
+    webpage: "https://jaredblanchard.com"
+    github: jared711
+    role: masters
+    image: /img/people/jared.jpg
+    bio: Optimizing Spacecraft Trajectories:
+
 nathan:
     display_name: "Nathan Kau"
     webpage: "https://nathankau.com/"
