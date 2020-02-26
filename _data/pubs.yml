@@ -85,7 +85,7 @@
   abbrv: SmallSat
   venue: Logan, Utah
   pdf: PyCubed-SmallSat.pdf
-  projects: [radiation, kicksat]
+  projects: [radiation, pycubed, kicksat]
 
 - title: A Differentiable Augmented Lagrangian Method for Bilevel Nonlinear Optimization
   authors: [Benoit Landry, zac, Marco Pavone]

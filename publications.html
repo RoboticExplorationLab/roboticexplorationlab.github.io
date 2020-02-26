@@ -1,9 +1,19 @@
 ---
 layout: default
 title: Publications
+authors: [zac, jan, brian, Kunal Shah]
 ---
 <p>
     <a href="{{ site.base }}/bib/pubs.bib">Download BibTeX.</a>
 </p>
 
-{% include pubs.html %}
+{% assign prev_year = 1000 %}
+{% assign pubs = site.data.pubs | sort: "date" | reverse %}
+<table class="table">
+    <tbody>
+        {% for pub in pubs %}
+            {% include pub_entry.html pub=pub prev_year=prev_year%}
+            {% assign prev_year = pub.date | date: "%Y" | to_integer %}
+        {% endfor %}
+    </tbody>
+</table>
