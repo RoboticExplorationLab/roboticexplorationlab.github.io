@@ -37,7 +37,7 @@
   pub-type: conference
   abbrv: WAFR
   venue: Oulu, Finland
-  pdf: max_coord_dynamics.pdf
+  pdf: maximal_coordinate_dynamics.pdf
   projects: [quadrupeds]
   status: Submitted
 
