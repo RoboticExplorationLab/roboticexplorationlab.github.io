@@ -9,6 +9,15 @@
   projects: [ALGAMES]
   status: Submitted
 
+- title: "Sample-Based Robust Uncertainty Propagation for Entry Vehicles"
+  authors: [remy, zac]
+  date: 2020-02-03
+  pub-type: conference
+  publisher: "AAS Guidance, Navigation, and Control Conference"
+  pdf: AAS_GNC_EntryVehicle.pdf
+  venue: Breckenridge, CO
+  projects: [robust]
+
 - title: Scalable Cooperative Transport of Cable-Suspended Loads with UAV's using Distributed Trajectory Optimization
   authors: [brian, taylor, Kunal Shah, Mac Schwager, zac]
   date: 2020-05-31
