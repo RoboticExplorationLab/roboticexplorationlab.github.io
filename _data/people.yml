@@ -98,6 +98,13 @@ jared:
     image: /img/people/jared.jpg
     bio: Optimizing Spacecraft Trajectories
 
+kevin:
+    display_name: "Kevin Tracy"
+    webpage: "https://www.linkedin.com/in/kevin-tracy/"
+    github: kevintracy7
+    role: masters
+    image: /img/people/kevin.jpg
+    bio: Spacecraft dynamics
 
 # grad-a:
 #     display_name: "Grad A"
