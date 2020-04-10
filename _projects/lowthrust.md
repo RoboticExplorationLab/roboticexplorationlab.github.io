@@ -1,5 +1,5 @@
 ---
-title: Low-thrust Trajectory Optimization
+title: Low-Thrust Trajectory Optimization
 
 description: |
   Optimizing long duration spacecraft maneuvers for electric propulsion. 
