@@ -8,7 +8,7 @@ zac:
 
 taylor:
     display_name: "Taylor Howell"
-    webpage: "thowell.github.io"
+    webpage: "http://thowell.github.io"
     github: thowell
     role: phd 
     image: /img/people/taylor.jpg
