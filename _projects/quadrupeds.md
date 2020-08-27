@@ -17,5 +17,5 @@ no-link: true
 last-updated: 2019-12-04 
 ---
 
-We've teamed up with talented students from the Stanford Robotics Club to dedevelop control algorithms for new quadrupeds entirely designed by students of the Club. This project focuses on implementing state-of-the-art control strategies and getting them to run reliably on custom hardware. This project is look for talented and motivated students to contribute, especially undergraduate students. 
+We've teamed up with talented students from the Stanford Robotics Club to dedevelop control algorithms for new quadrupeds entirely designed by students of the Club. This project focuses on implementing state-of-the-art control strategies and getting them to run reliably on custom hardware. This project is looking for talented and motivated students to contribute, especially undergraduate students. 
   

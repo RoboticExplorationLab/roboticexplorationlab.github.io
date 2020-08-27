@@ -22,7 +22,7 @@ Dynamic games are an effective paradigm for dealing with the control of multiple
 
 The code for ALGAMES is made available on RexLab's GitHub [ALGAMES.jl](https://github.com/RoboticExplorationLab/ALGAMES.jl.git).
 
-The paper is available at [ALGAMES](https://rexlab.stanford.edu/papers/ALGAMES.pdf).
+The paper is available at [ALGAMES](https://roboticexplorationlab.org/papers/ALGAMES.pdf).
 
 <!-- ![Nash equilibrium strategies obtained with ALGAMES on a ramp merging scenario.](/img/ramp_merging.gif) -->
 
