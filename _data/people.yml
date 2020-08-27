@@ -42,7 +42,7 @@ andrew:
     display_name: "Andrew Gatherer"
     webpage: "https://www.linkedin.com/in/andrew-gatherer-72211862/"
     github: GathererA
-    role: phd
+    role: alum
     image: /img/people/andrew.jpg
     bio: Improving small-satellites
 
@@ -50,14 +50,14 @@ jan:
     display_name: "Jan Bruedigam"
     webpage: "https://www.linkedin.com/in/janbruedigam"
     github: janbruedigam
-    role: masters
+    role: alum
     image: /img/people/jan.jpg
     bio: Modernizing physics engines
 
 laura:
     display_name: "Laura Lee"
     webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: masters
+    role: alum
     image: /img/people/laura.jpg
     bio: Master's Student
 
@@ -86,7 +86,7 @@ remy:
     display_name: "Remy Derollez"
     webpage: "https://www.linkedin.com/in/r%C3%A9my-derollez-43a60912b/"
     github: Derollez
-    role: masters
+    role: alum
     image: /img/people/remy.jpg
     bio: Robust motion planning
 
