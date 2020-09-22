@@ -15,7 +15,6 @@
   pdf: ALGAMES.pdf
   venue: Corvallis, OR
   projects: [ALGAMES]
-  status: Submitted
 
   title: "Structured Mechanical Models for Robot Learning and Control"
   authors: [Jayesh Gupta, Kunal Menda, zac, Mykel Kochenderfer]
@@ -65,7 +64,6 @@
   venue: Oulu, Finland
   pdf: maximal_coordinate_dynamics.pdf
   projects: [quadrupeds]
-  status: Submitted
 
 - title: "ALTRO: A Fast Solver for Constrained Trajectory Optimization"
   authors: [taylor, brian, zac]
