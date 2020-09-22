@@ -17,6 +17,15 @@
   projects: [ALGAMES]
   status: Submitted
 
+  title: "Structured Mechanical Models for Robot Learning and Control"
+  authors: [Jayesh Gupta, Kunal Menda, zac, Mykel Kochenderfer]
+  date: 2020-06-11
+  pub-type: conference
+  publisher: "Conference on Learning for Dynamics and Control"
+  abbrv: L4DC
+  pdf: "https://arxiv.org/pdf/2004.10301.pdf"
+  venue: Berkeley, CA
+
 - title: "Sample-Based Robust Uncertainty Propagation for Entry Vehicles"
   authors: [remy, zac]
   date: 2020-02-03
