@@ -1,3 +1,14 @@
+- title: Linear-Quadratic Optimal Control in Maximal Coordinates
+  authors: [jan, zac]
+  date: 2021-05-30
+  publisher: International Conference on Robotics and Automation
+  pub-type: conference
+  abbrv: ICRA
+  venue: Xi'an, China
+  pdf: maximal_coordinate_control.pdf
+  projects: [quadrupeds]
+  status: Submitted
+
 - title: "Model-Predictive Attitude Control for Flexible Spacecraft During Thruster Firings"
   authors: [kevin, zac]
   date: 2020-08-09
