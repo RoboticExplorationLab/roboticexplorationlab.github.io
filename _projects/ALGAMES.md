@@ -2,7 +2,7 @@
 title: Dynamic Games Solver
 
 description: |
-  Developing a fast and robust solver for constrained dynamic games aimed at identifying Nash equilibrium strategies. 
+  Developing a fast and robust solver for constrained dynamic games aimed at identifying Nash equilibrium strategies.
 
 people:
   - zac
@@ -17,7 +17,7 @@ Dynamic games are an effective paradigm for dealing with the control of multiple
 
 
 
-<!-- The main results obtained demonstrating ALGAMES performance are presented in this short video. 
+<!-- The main results obtained demonstrating ALGAMES performance are presented in this short video.
 [![ALGAMES](/img/algames_video.png)](https://www.youtube.com/watch?v=ZvaVNvw5fYw "ALGAMES") -->
 
 The code for ALGAMES is made available on RexLab's GitHub [ALGAMES.jl](https://github.com/RoboticExplorationLab/ALGAMES.jl.git).
@@ -28,5 +28,4 @@ The paper is available at [ALGAMES](https://roboticexplorationlab.org/papers/ALG
 
 <!-- ![Nash equilibrium strategies obtained with ALGAMES on a lane changing scenario.](/img/lane_changing.gif) -->
 
-![Nash equilibrium strategies obtained with ALGAMES for an overtaking maneuver.](/img/ALGAMES/overtaking_landscape.gif)
-
+<!-- ![Nash equilibrium strategies obtained with ALGAMES for an overtaking maneuver.](/img/ALGAMES/overtaking_landscape.gif) -->
