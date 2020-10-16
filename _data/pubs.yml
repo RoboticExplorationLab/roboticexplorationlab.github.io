@@ -1,3 +1,14 @@
+- title: Direct Policy Optimization using Deterministic Sampling and Collocation
+  authors: [taylor, Chunjiang Fu, zac]
+  date: 2021-10-15
+  publisher: International Conference on Robotics and Automation
+  pub-type: conference
+  abbrv: ICRA
+  venue: Xi'an, China
+  pdf: dpo.pdf
+  projects: [dpo]
+  status: Submitted
+
 - title: Linear-Quadratic Optimal Control in Maximal Coordinates
   authors: [jan, zac]
   date: 2021-05-30

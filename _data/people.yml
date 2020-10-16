@@ -12,7 +12,7 @@ taylor:
     github: thowell
     role: phd
     image: /img/people/taylor.jpg
-    bio: Optimization through contact
+    bio: Robust feedback motion planning and optimization through contact
 
 brian:
     display_name: "Brian Jackson"

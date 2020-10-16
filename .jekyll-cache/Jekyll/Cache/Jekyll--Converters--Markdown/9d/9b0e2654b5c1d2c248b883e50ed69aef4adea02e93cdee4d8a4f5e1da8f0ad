@@ -1,5 +1,0 @@
-I"Y<p>Brian Jackson presented our fast trajectory optimization solver, ALTRO, at IROS 2019 in Macao, China. ALTRO is a state-of-the-art solver for trajectory optimization, written in the Julia programming language, that uses Augmented Lagrangian with iLQR, along with some new tricks, to get fast performance on very general class of problems. A new version of the code, which was teased during the presentation, will be release in the upcoming weeks. We got a lot of fantastic feedback and interest and look forward to some future collaborations as a result of the conference.</p>
-
-<p>The paper is available <a href="https://roboticexplorationlab.org/papers/altro-iros.pdf">here</a> and the code can be downloaded directly from the Julia package repository or from <a href="https://github.com/RoboticExplorationLab/TrajectoryOptimization.jl">GitHub</a>.</p>
-
-:ET
