@@ -1,6 +1,28 @@
+- title: Robust Entry Vehicle Guidance with Sampling-Based Invariant Funnels
+  authors: [remy, simon, zac]
+  date: 2021-03-06
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  abbrv: AeroConf2021
+  venue: Big Sky, MT
+  pdf: sampling_funnnel.pdf
+  projects: [robust]
+  status: Submitted
+
+# - title: LUCIDGames: Online Unscented Inverse Dynamic Games for Adaptive Trajectory Prediction and Planning
+#   authors: [simon, Mac Schwager, zac]
+#   date: 2021-05-30
+#   publisher: International Conference on Robotics and Automation
+#   pub-type: conference
+#   abbrv: ICRA
+#   venue: Xi'an, China
+#   pdf: LUCIDgames.pdf
+#   projects: [LUCIDGames]
+#   status: Submitted
+
 - title: Direct Policy Optimization using Deterministic Sampling and Collocation
   authors: [taylor, Chunjiang Fu, zac]
-  date: 2021-10-15
+  date: 2021-05-30
   publisher: International Conference on Robotics and Automation
   pub-type: conference
   abbrv: ICRA
