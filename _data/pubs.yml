@@ -5,7 +5,7 @@
   pub-type: conference
   abbrv: AeroConf2021
   venue: Big Sky, MT
-  pdf: sampling_funnnel.pdf
+  pdf: sampling_funnel.pdf
   projects: [robust]
   status: Submitted
 
