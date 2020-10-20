@@ -84,11 +84,11 @@ aaron:
 
 remy:
     display_name: "Remy Derollez"
-    webpage: "https://www.linkedin.com/in/r%C3%A9my-derollez-43a60912b/"
+    webpage: "https://www.linkedin.com/in/derollez-remy/"
     github: Derollez
     role: alum
     image: /img/people/remy.jpg
-    bio: Robust motion planning
+    bio: Robust Motion Planning and Optimization for Space
 
 jared:
     display_name: "Jared Blanchard"
