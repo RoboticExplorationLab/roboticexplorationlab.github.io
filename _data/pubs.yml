@@ -42,6 +42,16 @@
   projects: [quadrupeds]
   status: Submitted
 
+- title: A Dynamics Simulator for Soft Growing Robots
+  authors: [Rianna Jitosho, Nathaniel Agharese, Allison Okamura, zac]
+  date: 2021-05-30
+  publisher: International Conference on Robotics and Automation
+  pub-type: conference
+  abbrv: ICRA
+  venue: Xi'an, China
+  pdf: Vine_Simulator.pdf
+  status: Submitted
+
 - title: "Model-Predictive Attitude Control for Flexible Spacecraft During Thruster Firings"
   authors: [kevin, zac]
   date: 2020-08-09
