@@ -1,3 +1,23 @@
+- title: Planning with Attitude
+  authors: [brian, kevin, zac]
+  date: 2021-05-30
+  pub-type: conference
+  publisher: International Conference on Robotics and Automation
+  abbrv: ICRA 
+  pdf: planning_with_attitude.pdf
+  projects: [trajopt]
+  status: Submitted
+  
+- title: "ALTRO-C: A Fast Solver for Conic Model-Predictive Control"
+  authors: [brian, tarun, Daniel Neamati, kevin, rianna, zac]
+  date: 2021-05-30
+  pub-type: conference
+  publisher: International Conference on Robotics and Automation
+  abbrv: ICRA 
+  pdf: ALTRO_MPC.pdf
+  projects: [trajopt]
+  status: Submitted
+
 - title: Robust Entry Vehicle Guidance with Sampling-Based Invariant Funnels
   authors: [remy, simon, zac]
   date: 2021-03-06
@@ -97,17 +117,6 @@
   venue: Paris, France
   pdf: distributed_quads.pdf
   projects: [multirobot,trajopt]
-
-- title: Planning and Control with Attitude
-  authors: [brian, zac]
-  date: 2020-06-15
-  pub-type: conference
-  publisher: Workshop on the Algorithmic Foundations of Robotics
-  abbrv: WAFR
-  venue: Oulu, Finland
-  pdf: planning_with_attitude.pdf
-  projects: [trajopt]
-  status: Submitted
 
 - title: Linear-Time Variational Integrators in Maximal Coordinates
   authors: [jan, zac]
