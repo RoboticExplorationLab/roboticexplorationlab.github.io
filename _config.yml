@@ -57,4 +57,4 @@ navigation:
     link: /calendar.html
   - title: Joining
     link: /join.html
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
