@@ -3,17 +3,17 @@
   date: 2021-05-30
   pub-type: conference
   publisher: International Conference on Robotics and Automation
-  abbrv: ICRA 
+  abbrv: ICRA
   pdf: planning_with_attitude.pdf
   projects: [trajopt]
   status: Submitted
-  
+
 - title: "ALTRO-C: A Fast Solver for Conic Model-Predictive Control"
   authors: [brian, tarun, Daniel Neamati, kevin, Rianna Jitosho, zac]
   date: 2021-05-30
   pub-type: conference
   publisher: International Conference on Robotics and Automation
-  abbrv: ICRA 
+  abbrv: ICRA
   pdf: ALTRO_MPC.pdf
   projects: [trajopt]
   status: Submitted
@@ -29,16 +29,16 @@
   projects: [robust]
   status: Submitted
 
-# - title: LUCIDGames: Online Unscented Inverse Dynamic Games for Adaptive Trajectory Prediction and Planning
-#   authors: [simon, Mac Schwager, zac]
-#   date: 2021-05-30
-#   publisher: International Conference on Robotics and Automation
-#   pub-type: conference
-#   abbrv: ICRA
-#   venue: Xi'an, China
-#   pdf: LUCIDgames.pdf
-#   projects: [LUCIDGames]
-#   status: Submitted
+- title: "LUCIDGames: Online Unscented Inverse Dynamic Games for Adaptive Trajectory Prediction and Planning"
+  authors: [simon, Mac Schwager, zac]
+  date: 2021-05-30
+  publisher: International Conference on Robotics and Automation
+  pub-type: conference
+  abbrv: ICRA
+  venue: Xi'an, China
+  pdf: LUCIDgames.pdf
+  projects: [ALGAMES]
+  status: Submitted
 
 - title: Direct Policy Optimization using Deterministic Sampling and Collocation
   authors: [taylor, Chunjiang Fu, zac]
