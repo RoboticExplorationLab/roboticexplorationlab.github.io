@@ -106,6 +106,14 @@ kevin:
     image: /img/people/kevin.jpg
     bio: Spacecraft dynamics
 
+swamig:
+    display_name: "Swaminathan Gurumurthy"
+    webpage: "https://swami1995.github.io/"
+    github: swami1995
+    role: phd
+    image: /img/people/swamig.png
+    bio: Deep Equilibrium Models
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
