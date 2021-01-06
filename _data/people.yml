@@ -114,6 +114,14 @@ swamig:
     image: /img/people/swamig.png
     bio: Deep Equilibrium Models
 
+benj:
+    display_name: "Benjamin Jensen"
+    webpage: www.linkedin.com/in/benj-jensen
+    github: benjjensen
+    role: masters
+    image: /img/people/benj.jpg
+    bio: Masters Student
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
