@@ -116,7 +116,7 @@ swamig:
 
 benj:
     display_name: "Benjamin Jensen"
-    webpage: www.linkedin.com/in/benj-jensen
+    webpage: "www.linkedin.com/in/benj-jensen/"
     github: benjjensen
     role: masters
     image: /img/people/benj.jpg
