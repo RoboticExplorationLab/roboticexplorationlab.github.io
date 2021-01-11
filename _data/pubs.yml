@@ -1,12 +1,12 @@
 - title: Planning with Attitude
   authors: [brian, kevin, zac]
   date: 2021-05-30
-  pub-type: conference
-  publisher: International Conference on Robotics and Automation
-  abbrv: ICRA
+  pub-type: journal 
+  publisher: Robotics Automation and Letters 
+  abbrv: RAL 
   pdf: planning_with_attitude.pdf
   projects: [trajopt]
-  status: Submitted
+  status: Accepted 
 
 - title: "ALTRO-C: A Fast Solver for Conic Model-Predictive Control"
   authors: [brian, tarun, Daniel Neamati, kevin, Rianna Jitosho, zac]
