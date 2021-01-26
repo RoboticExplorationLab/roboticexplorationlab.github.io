@@ -2,7 +2,7 @@
   authors: [kevin, zac]
   date: 2021-02-01
   pub-type: conference
-  publisher: AAS/AIAA Space Flight Mechanics Meeting 
+  publisher: AAS/AIAA Space Flight Mechanics Meeting. 
   venue: Charlotte, NC
   pdf: ks_low_thrust.pdf
   projects: [lowthrust]
