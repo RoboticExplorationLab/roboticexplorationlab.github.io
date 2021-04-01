@@ -69,7 +69,6 @@
   venue: Xi'an, China
   pdf: maximal_coordinate_control.pdf
   projects: [quadrupeds]
-  status: Submitted
 
 - title: A Dynamics Simulator for Soft Growing Robots
   authors: [Rianna Jitosho, Nathaniel Agharese, Allison Okamura, zac]
