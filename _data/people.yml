@@ -121,6 +121,14 @@ benj:
     role: masters
     image: /img/people/benj.jpg
     bio: Masters Student
+    
+rianna:
+    display_name: "Rianna Jitosho"
+    webpage: "http://rjitosho.github.io/"
+    github: rjitosho
+    role: collab
+    image: /img/people/rianna.jpeg
+    bio: Motion planning for soft robots
 
 # grad-a:
 #     display_name: "Grad A"

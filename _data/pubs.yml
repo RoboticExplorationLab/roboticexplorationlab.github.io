@@ -18,7 +18,7 @@
   status: Accepted 
 
 - title: "ALTRO-C: A Fast Solver for Conic Model-Predictive Control"
-  authors: [brian, tarun, Daniel Neamati, kevin, Rianna Jitosho, zac]
+  authors: [brian, tarun, Daniel Neamati, kevin, rianna, zac]
   date: 2021-05-30
   pub-type: conference
   publisher: International Conference on Robotics and Automation
@@ -71,14 +71,14 @@
   projects: [quadrupeds]
 
 - title: A Dynamics Simulator for Soft Growing Robots
-  authors: [Rianna Jitosho, Nathaniel Agharese, Allison Okamura, zac]
+  authors: [rianna, Nathaniel Agharese, Allison Okamura, zac]
   date: 2021-05-30
   publisher: International Conference on Robotics and Automation
   pub-type: conference
   abbrv: ICRA
   venue: Xi'an, China
   pdf: Vine_Simulator.pdf
-  status: Submitted
+  projects: [vinerobot]
 
 - title: "Model-Predictive Attitude Control for Flexible Spacecraft During Thruster Firings"
   authors: [kevin, zac]
