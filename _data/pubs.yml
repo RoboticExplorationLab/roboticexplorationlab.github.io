@@ -1,3 +1,13 @@
+- title: "Dynamic Biasing for Improved On-Orbit Total-Dose Lifetimes of Commercial Semiconductor Devices"
+  authors: [max, Thomas Heuser, zac, Debbie Senesky]
+  date: 2021-03-31
+  pub-type: journal
+  publisher: IEEE Transactions on Nuclear Science
+  abbrv: TNS
+  pdf: "https://doi.org/10.36227/techrxiv.14346839.v1"
+  projects: [radiation, pycubed]
+  status: Submitted
+
 - title: Low-Thrust Trajectory Optimization Using the Kustaanheimo-Stiefel Transformation
   authors: [kevin, zac]
   date: 2021-02-01
@@ -25,7 +35,6 @@
   abbrv: ICRA
   pdf: ALTRO_MPC.pdf
   projects: [trajopt]
-  status: Submitted
 
 - title: Robust Entry Vehicle Guidance with Sampling-Based Invariant Funnels
   authors: [remy, simon, zac]
@@ -36,7 +45,6 @@
   venue: Big Sky, MT
   pdf: sampling_funnel.pdf
   projects: [robust]
-  status: Submitted
 
 - title: "LUCIDGames: Online Unscented Inverse Dynamic Games for Adaptive Trajectory Prediction and Planning"
   authors: [simon, Mac Schwager, zac]
@@ -47,7 +55,6 @@
   venue: Xi'an, China
   pdf: LUCIDgames.pdf
   projects: [ALGAMES]
-  status: Submitted
 
 - title: Direct Policy Optimization using Deterministic Sampling and Collocation
   authors: [taylor, Chunjiang Fu, zac]
@@ -58,7 +65,6 @@
   venue: Xi'an, China
   pdf: dpo.pdf
   projects: [dpo]
-  status: Submitted
 
 - title: Linear-Quadratic Optimal Control in Maximal Coordinates
   authors: [jan, zac]
