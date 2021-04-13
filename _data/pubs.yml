@@ -1,3 +1,4 @@
+
 - title: "Dynamic Biasing for Improved On-Orbit Total-Dose Lifetimes of Commercial Semiconductor Devices"
   authors: [max, Thomas Heuser, zac, Debbie Senesky]
   date: 2021-03-31
@@ -7,6 +8,14 @@
   pdf: "https://doi.org/10.36227/techrxiv.14346839.v1"
   projects: [radiation, pycubed]
   status: Submitted
+
+- title: "Robust Quantum Optimal Control with Trajectory Optimization"
+  authors: [Thomas Propson, brian, Jens Koch, zac, David I Schuster]
+  date: 2021-03-29
+  pub-type: journal
+  publisher: arXiv
+  abbrv: arXiv
+  pdf: "https://arxiv.org/abs/2103.15716"
 
 - title: Low-Thrust Trajectory Optimization Using the Kustaanheimo-Stiefel Transformation
   authors: [kevin, zac]
