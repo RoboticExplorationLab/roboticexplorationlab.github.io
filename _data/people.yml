@@ -36,7 +36,7 @@ simon:
     github: simon-lc
     role: phd
     image: /img/people/simon.jpg
-    bio: Optimizing game-theoretic interactions
+    bio: Game-theoretic optimization and optimization through contact
 
 andrew:
     display_name: "Andrew Gatherer"

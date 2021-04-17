@@ -17,6 +17,17 @@
   abbrv: arXiv
   pdf: "https://arxiv.org/abs/2103.15716"
 
+
+- title: "ALGAMES: A Fast Augmented Lagrangian Solver for Constrained Dynamic Games"
+  authors: [simon, Mac Schwager, zac]
+  date: 2021-04-16
+  publisher: Autonomous Robots
+  pub-type: journal
+  abbrv: AuRo
+  pdf: algames_auro.pdf
+  projects: [ALGAMES]
+  status: Under Review 
+
 - title: Low-Thrust Trajectory Optimization Using the Kustaanheimo-Stiefel Transformation
   authors: [kevin, zac]
   date: 2021-02-01
@@ -58,12 +69,12 @@
 - title: "LUCIDGames: Online Unscented Inverse Dynamic Games for Adaptive Trajectory Prediction and Planning"
   authors: [simon, Mac Schwager, zac]
   date: 2021-05-30
-  publisher: International Conference on Robotics and Automation
-  pub-type: conference
-  abbrv: ICRA
-  venue: Xi'an, China
+  publisher: Robotics Automation and Letters 
+  pub-type: journal
+  abbrv: RAL
   pdf: LUCIDgames.pdf
   projects: [ALGAMES]
+  status: Accepted 
 
 - title: Direct Policy Optimization using Deterministic Sampling and Collocation
   authors: [taylor, Chunjiang Fu, zac]
