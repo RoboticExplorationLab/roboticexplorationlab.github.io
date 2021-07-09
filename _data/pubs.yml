@@ -1,3 +1,11 @@
+- title: "Linear Contact-Implicit Model-Predictive Control"
+  authors: [simon, taylor, Mac Schwager, zac]
+  date: 2021-07-09
+  pub-type: journal
+  publisher: arXiv
+  pdf: lci_mpc.pdf
+  projects: [lci_mpc]
+  status: Submitted 
 
 - title: "Dynamic Biasing for Improved On-Orbit Total-Dose Lifetimes of Commercial Semiconductor Devices"
   authors: [max, Thomas Heuser, zac, Debbie Senesky]
