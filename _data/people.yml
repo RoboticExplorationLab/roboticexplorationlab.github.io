@@ -130,6 +130,14 @@ rianna:
     image: /img/people/rianna.jpeg
     bio: Motion planning for soft robots
 
+suvansh:
+    display_name: "Suvansh Sanjeev"
+    webpage: "https://suvan.sh"
+    github: suvansh
+    role: phd
+    image: /img/people/suvansh.jpg
+    bio: Reinforcement Learning and Control
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
