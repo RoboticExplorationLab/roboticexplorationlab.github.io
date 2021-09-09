@@ -137,6 +137,14 @@ suvansh:
     role: phd
     image: /img/people/suvansh.jpg
     bio: Reinforcement Learning and Control
+    
+bbokser:
+    display_name: "Ben Bokser"
+    webpage: "https://benbokser.com"
+    github: bbokser
+    role: masters
+    image: /img/people/bbokser.jpg
+    bio: Masters Student
 
 # grad-a:
 #     display_name: "Grad A"
