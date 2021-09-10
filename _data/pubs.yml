@@ -1,3 +1,12 @@
+- title: "Trajectory Optimization with Optimization-Based Dynamics"
+  authors: [taylor, simon, Sumeet Singh, Pete Florence, zac, Vikas Sindhwani]
+  date: 2021-09-10
+  pub-type: journal
+  publisher: arXiv
+  pdf: optimization_based_dynamics.pdf
+  projects: [optimization_based_dynamics]
+  status: Submitted 
+  
 - title: "Linear Contact-Implicit Model-Predictive Control"
   authors: [simon, taylor, Mac Schwager, zac]
   date: 2021-07-09
