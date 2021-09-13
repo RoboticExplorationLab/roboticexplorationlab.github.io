@@ -146,6 +146,15 @@ bbokser:
     image: /img/people/bbokser.jpg
     bio: Masters Student
 
+
+shuo:
+    display_name: "Shuo Yang"
+    webpage: "https://github.com/paulyang1990"
+    github: paulyang1990
+    role: phd
+    image: /img/people/shuo.jpg
+    bio: Legged Robots State Estimation, Mapping and Control
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
