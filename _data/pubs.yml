@@ -43,7 +43,7 @@
   abbrv: AuRo
   pdf: algames_auro.pdf
   projects: [ALGAMES]
-  status: Under Review 
+  status: Accepted
 
 - title: Low-Thrust Trajectory Optimization Using the Kustaanheimo-Stiefel Transformation
   authors: [kevin, zac]
