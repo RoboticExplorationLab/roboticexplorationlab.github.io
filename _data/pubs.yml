@@ -1,3 +1,21 @@
+- title: "CPEG: A Convex Predictor-corrector Entry Guidance Algorithm"
+  authors: [kevin, zac]
+  date: 2022-03-05
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  abbrv: AeroConf2022
+  venue: Big Sky, MT
+  pdf: ktracy_cpeg.pdf
+
+- title: "Ultra-Fine Pointing for Nanosatellite Telescopes with Actuated Booms"
+  authors: [kevin, zac, Ewan Douglas]
+  date: 2022-03-05
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  abbrv: AeroConf2022
+  venue: Big Sky, MT
+  pdf: ktracy_finepointing.pdf
+
 - title: "Trajectory Optimization with Optimization-Based Dynamics"
   authors: [taylor, simon, Sumeet Singh, Pete Florence, zac, Vikas Sindhwani]
   date: 2021-09-10
