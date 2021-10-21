@@ -1,7 +1,7 @@
 - title: "CPEG: A Convex Predictor-corrector Entry Guidance Algorithm"
   authors: [kevin, zac]
   date: 2022-03-05
-  publisher: IEEE Aerospace Conference
+  publisher: IEEE Aerospace Conference.
   pub-type: conference
   venue: Big Sky, MT
   pdf: ktracy_cpeg.pdf
@@ -9,7 +9,7 @@
 - title: "Ultra-Fine Pointing for Nanosatellite Telescopes with Actuated Booms"
   authors: [kevin, zac, Ewan Douglas]
   date: 2022-03-05
-  publisher: IEEE Aerospace Conference
+  publisher: IEEE Aerospace Conference.
   pub-type: conference
   venue: Big Sky, MT
   pdf: ktracy_finepointing.pdf
