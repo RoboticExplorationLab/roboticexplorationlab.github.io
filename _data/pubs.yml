@@ -1,3 +1,66 @@
+- title: "CPEG: A Convex Predictor-corrector Entry Guidance Algorithm"
+  authors: [kevin, zac]
+  date: 2022-03-05
+  publisher: IEEE Aerospace Conference.
+  pub-type: conference
+  venue: Big Sky, MT
+  pdf: ktracy_cpeg.pdf
+
+- title: "Ultra-Fine Pointing for Nanosatellite Telescopes with Actuated Booms"
+  authors: [kevin, zac, Ewan Douglas]
+  date: 2022-03-05
+  publisher: IEEE Aerospace Conference.
+  pub-type: conference
+  venue: Big Sky, MT
+  pdf: ktracy_finepointing.pdf
+
+- title: "Trajectory Optimization with Optimization-Based Dynamics"
+  authors: [taylor, simon, Sumeet Singh, Pete Florence, zac, Vikas Sindhwani]
+  date: 2021-09-10
+  pub-type: journal
+  publisher: arXiv
+  pdf: optimization_based_dynamics.pdf
+  projects: [optimization_based_dynamics]
+  status: Submitted 
+  
+- title: "Fast Contact-Implicit Model-Predictive Control"
+  authors: [simon, taylor, Mac Schwager, zac]
+  date: 2021-07-09
+  pub-type: journal
+  publisher: arXiv
+  pdf: ci_mpc.pdf
+  projects: [ci_mpc]
+  status: Submitted 
+
+- title: "Dynamic Biasing for Improved On-Orbit Total-Dose Lifetimes of Commercial Semiconductor Devices"
+  authors: [max, Thomas Heuser, zac, Debbie Senesky]
+  date: 2021-03-31
+  pub-type: journal
+  publisher: IEEE Transactions on Nuclear Science
+  abbrv: TNS
+  pdf: "https://doi.org/10.36227/techrxiv.14346839.v1"
+  projects: [radiation, pycubed]
+  status: Submitted
+
+- title: "Robust Quantum Optimal Control with Trajectory Optimization"
+  authors: [Thomas Propson, brian, Jens Koch, zac, David I Schuster]
+  date: 2021-03-29
+  pub-type: journal
+  publisher: arXiv
+  abbrv: arXiv
+  pdf: "https://arxiv.org/abs/2103.15716"
+
+
+- title: "ALGAMES: A Fast Augmented Lagrangian Solver for Constrained Dynamic Games"
+  authors: [simon, Mac Schwager, zac]
+  date: 2021-04-16
+  publisher: Autonomous Robots
+  pub-type: journal
+  abbrv: AuRo
+  pdf: algames_auro.pdf
+  projects: [ALGAMES]
+  status: Accepted
+
 - title: Low-Thrust Trajectory Optimization Using the Kustaanheimo-Stiefel Transformation
   authors: [kevin, zac]
   date: 2021-02-01
@@ -18,14 +81,13 @@
   status: Accepted 
 
 - title: "ALTRO-C: A Fast Solver for Conic Model-Predictive Control"
-  authors: [brian, tarun, Daniel Neamati, kevin, Rianna Jitosho, zac]
+  authors: [brian, tarun, Daniel Neamati, kevin, rianna, zac]
   date: 2021-05-30
   pub-type: conference
   publisher: International Conference on Robotics and Automation
   abbrv: ICRA
   pdf: ALTRO_MPC.pdf
   projects: [trajopt]
-  status: Submitted
 
 - title: Robust Entry Vehicle Guidance with Sampling-Based Invariant Funnels
   authors: [remy, simon, zac]
@@ -36,18 +98,16 @@
   venue: Big Sky, MT
   pdf: sampling_funnel.pdf
   projects: [robust]
-  status: Submitted
 
 - title: "LUCIDGames: Online Unscented Inverse Dynamic Games for Adaptive Trajectory Prediction and Planning"
   authors: [simon, Mac Schwager, zac]
   date: 2021-05-30
-  publisher: International Conference on Robotics and Automation
-  pub-type: conference
-  abbrv: ICRA
-  venue: Xi'an, China
+  publisher: Robotics Automation and Letters 
+  pub-type: journal
+  abbrv: RAL
   pdf: LUCIDgames.pdf
   projects: [ALGAMES]
-  status: Submitted
+  status: Accepted 
 
 - title: Direct Policy Optimization using Deterministic Sampling and Collocation
   authors: [taylor, Chunjiang Fu, zac]
@@ -58,7 +118,6 @@
   venue: Xi'an, China
   pdf: dpo.pdf
   projects: [dpo]
-  status: Submitted
 
 - title: Linear-Quadratic Optimal Control in Maximal Coordinates
   authors: [jan, zac]
@@ -69,17 +128,16 @@
   venue: Xi'an, China
   pdf: maximal_coordinate_control.pdf
   projects: [quadrupeds]
-  status: Submitted
 
 - title: A Dynamics Simulator for Soft Growing Robots
-  authors: [Rianna Jitosho, Nathaniel Agharese, Allison Okamura, zac]
+  authors: [rianna, Nathaniel Agharese, Allison Okamura, zac]
   date: 2021-05-30
   publisher: International Conference on Robotics and Automation
   pub-type: conference
   abbrv: ICRA
   venue: Xi'an, China
   pdf: Vine_Simulator.pdf
-  status: Submitted
+  projects: [vinerobot]
 
 - title: "Model-Predictive Attitude Control for Flexible Spacecraft During Thruster Firings"
   authors: [kevin, zac]

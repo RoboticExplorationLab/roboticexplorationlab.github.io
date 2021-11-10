@@ -36,7 +36,7 @@ simon:
     github: simon-lc
     role: phd
     image: /img/people/simon.jpg
-    bio: Optimizing game-theoretic interactions
+    bio: Game-theoretic optimization and optimization through contact
 
 andrew:
     display_name: "Andrew Gatherer"
@@ -120,6 +120,55 @@ benj:
     github: benjjensen
     role: masters
     image: /img/people/benj.jpg
+    bio: Masters Student
+    
+rianna:
+    display_name: "Rianna Jitosho"
+    webpage: "http://rjitosho.github.io/"
+    github: rjitosho
+    role: collab
+    image: /img/people/rianna.jpeg
+    bio: Motion planning for soft robots
+
+suvansh:
+    display_name: "Suvansh Sanjeev"
+    webpage: "https://suvan.sh"
+    github: suvansh
+    role: phd
+    image: /img/people/suvansh.jpg
+    bio: Reinforcement Learning and Control
+    
+bbokser:
+    display_name: "Ben Bokser"
+    webpage: "https://benbokser.com"
+    github: bbokser
+    role: masters
+    image: /img/people/bbokser.jpg
+    bio: Masters Student
+
+
+shuo:
+    display_name: "Shuo Yang"
+    webpage: "https://github.com/paulyang1990"
+    github: paulyang1990
+    role: phd
+    image: /img/people/shuo.jpg
+    bio: Legged Robots State Estimation, Mapping and Control
+
+fausto:
+    display_name: "Fausto Vega"
+    webpage: "https://www.linkedin.com/in/fausto-vega/"
+    github: vegaf1
+    role: masters
+    image: /img/people/fausto.jpg
+    bio: Masters Student
+
+chiyen:
+    display_name: "Chiyen Lee"
+    webpage: "https://www.linkedin.com/in/chiyen-lee/" 
+    github: ChiyenLee
+    role: masters 
+    image: /img/people/chiyen.jpeg 
     bio: Masters Student
 
 # grad-a:
