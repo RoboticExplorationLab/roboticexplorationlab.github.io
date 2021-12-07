@@ -171,6 +171,14 @@ chiyen:
     image: /img/people/chiyen.jpeg 
     bio: Masters Student
 
+brandon:
+    display_name: "Brandon Hung"
+    webpage: "https://brandonh.dev" 
+    github: BrandonHung343
+    role: masters 
+    image: /img/people/brandonhung.jpeg 
+    bio: Masters Student
+    
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
