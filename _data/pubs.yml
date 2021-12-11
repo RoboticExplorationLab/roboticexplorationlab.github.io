@@ -19,8 +19,8 @@
   date: 2021-09-10
   pub-type: journal
   publisher: arXiv
-  pdf: optimization_based_dynamics.pdf
-  projects: [optimization_based_dynamics]
+  pdf: optimization_dynamics.pdf
+  projects: [optimization_dynamics]
   status: Submitted 
   
 - title: "Fast Contact-Implicit Model-Predictive Control"
