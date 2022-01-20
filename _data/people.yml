@@ -44,7 +44,7 @@ andrew:
     github: GathererA
     role: alum
     image: /img/people/andrew.jpg
-    bio: Improving small-satellites
+    bio: Now at SpaceX
 
 jan:
     display_name: "Jan Bruedigam"
@@ -52,35 +52,35 @@ jan:
     github: janbruedigam
     role: alum
     image: /img/people/jan.jpg
-    bio: Modernizing physics engines
+    bio: PhD student at TU Munich
 
 laura:
     display_name: "Laura Lee"
     webpage: "https://www.linkedin.com/in/lauraleeane/"
     role: alum
     image: /img/people/laura.jpg
-    bio: Master's Student
+    bio: Now at Boston Dynamics
 
 nathan:
     display_name: "Nathan Kau"
     webpage: "https://nathankau.com/"
     role: ugrad-alum
     image: /img/people/nathankau.jpg
-    bio: Undergraduate Student
+    bio: Legged Robots
 
 tarun:
     display_name: "Tarun Punnoose"
     webpage: "https://punnoo.se/"
     role: ugrad-alum
     image: /img/people/tarun.jpg
-    bio: Undergraduate Student
+    bio: Legged Robots
 
 aaron:
     display_name: "Aaron Schultz"
     webpage: "https://www.linkedin.com/in/aaron-s-a4aa2685/"
     role: ugrad-alum
     image: /img/people/aaron.jpg
-    bio: Undergraduate Student
+    bio: Legged Robots
 
 remy:
     display_name: "Remy Derollez"
@@ -96,7 +96,7 @@ jared:
     github: jared711
     role: alum
     image: /img/people/jared.jpg
-    bio: Optimizing Spacecraft Trajectories
+    bio: PhD Student at Stanford
 
 kevin:
     display_name: "Kevin Tracy"
@@ -104,7 +104,7 @@ kevin:
     github: kevintracy7
     role: phd
     image: /img/people/kevin.jpg
-    bio: Spacecraft dynamics
+    bio: Spacecraft dynamics and control
 
 swamig:
     display_name: "Swaminathan Gurumurthy"
@@ -144,7 +144,7 @@ bbokser:
     github: bbokser
     role: masters
     image: /img/people/bbokser.jpg
-    bio: Masters Student
+    bio: Legged Robots
 
 
 shuo:
@@ -161,7 +161,7 @@ fausto:
     github: vegaf1
     role: masters
     image: /img/people/fausto.jpg
-    bio: Masters Student
+    bio: Small spacecraft and navigation
 
 chiyen:
     display_name: "Chiyen Lee"
@@ -169,7 +169,7 @@ chiyen:
     github: ChiyenLee
     role: masters 
     image: /img/people/chiyen.jpeg 
-    bio: Masters Student
+    bio: Legged Robots
 
 brandon:
     display_name: "Brandon Hung"
@@ -177,7 +177,7 @@ brandon:
     github: BrandonHung343
     role: masters 
     image: /img/people/brandonhung.jpg 
-    bio: Masters Student
+    bio: Legged Robots
 
 # grad-a:
 #     display_name: "Grad A"
