@@ -64,21 +64,21 @@ laura:
 nathan:
     display_name: "Nathan Kau"
     webpage: "https://nathankau.com/"
-    role: ugrad
+    role: alum
     image: /img/people/nathankau.jpg
     bio: Undergraduate Student
 
 tarun:
     display_name: "Tarun Punnoose"
     webpage: "https://punnoo.se/"
-    role: ugrad
+    role: alum
     image: /img/people/tarun.jpg
     bio: Undergraduate Student
 
 aaron:
     display_name: "Aaron Schultz"
     webpage: "https://www.linkedin.com/in/aaron-s-a4aa2685/"
-    role: ugrad
+    role: alum
     image: /img/people/aaron.jpg
     bio: Undergraduate Student
 
@@ -94,7 +94,7 @@ jared:
     display_name: "Jared Blanchard"
     webpage: "https://jaredblanchard.com"
     github: jared711
-    role: masters
+    role: alum
     image: /img/people/jared.jpg
     bio: Optimizing Spacecraft Trajectories
 
