@@ -179,6 +179,14 @@ brandon:
     image: /img/people/brandonhung.jpg 
     bio: Legged Robots
 
+jbwillis:
+    display_name: "Jacob Willis"
+    webpage: "https://www.linkedin.com/in/jacob-willis/"
+    github: jbwillis
+    role: phd
+    image: /img/people/jacobwillis.jpg
+    bio: Small spacecraft systems and control
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
