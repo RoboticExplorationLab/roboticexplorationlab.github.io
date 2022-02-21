@@ -187,6 +187,14 @@ jbwillis:
     image: /img/people/jacobwillis.jpg
     bio: Small spacecraft systems and control
 
+jj:
+    display_name: "Jeong Hun (JJ) Lee"
+    webpage: "https://www.linkedin.com/in/jeonghun-jj-lee"
+    github: jhlee0997
+    role: phd
+    image: /img/people/jj.jpg
+    bio: Swimming Dynamics and Control
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
