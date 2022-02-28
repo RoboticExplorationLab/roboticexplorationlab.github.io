@@ -12,7 +12,7 @@ taylor:
     github: thowell
     role: phd
     image: /img/people/taylor.jpg
-    bio: Robust feedback motion planning and optimization through contact
+    bio: Model-predictive control and differentiable simulators for contact
 
 brian:
     display_name: "Brian Jackson"
