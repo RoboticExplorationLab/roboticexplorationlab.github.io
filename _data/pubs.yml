@@ -1,3 +1,11 @@
+- title: "Dojo: A Differentiable Simulator for Robotics"
+  authors: [taylor, simon, Zico Kolter, Mac Schwager, zac]
+  date: 2022-03-07
+  publisher: arXiv
+  pub-type: conference
+  pdf: dojo.pdf
+  status: submitted
+
 - title: "CPEG: A Convex Predictor-corrector Entry Guidance Algorithm"
   authors: [kevin, zac]
   date: 2022-03-05
@@ -18,10 +26,9 @@
   authors: [taylor, simon, Sumeet Singh, Pete Florence, zac, Vikas Sindhwani]
   date: 2021-09-10
   pub-type: journal
-  publisher: arXiv
+  publisher: Robotics and Automation Letters
   pdf: optimization_dynamics.pdf
   projects: [optimization_dynamics]
-  status: Submitted 
   
 - title: "Fast Contact-Implicit Model-Predictive Control"
   authors: [simon, taylor, Mac Schwager, zac]
