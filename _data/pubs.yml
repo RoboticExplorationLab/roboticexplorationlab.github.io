@@ -1,3 +1,11 @@
+- title: "CALIPSO: A Differentiable Solver for Trajectory Optimization with Conic and Complementarity Constraints"
+  authors: [taylor, kevin, simon, zac]
+  date: 2022-05-08
+  publisher: arXiv
+  pub-type: conference
+  pdf: calipso.pdf
+  status: submitted
+
 - title: "Dojo: A Differentiable Simulator for Robotics"
   authors: [taylor, simon, Zico Kolter, Mac Schwager, zac]
   date: 2022-03-07
