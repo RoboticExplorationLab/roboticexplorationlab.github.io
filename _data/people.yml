@@ -195,6 +195,13 @@ jj:
     image: /img/people/jj.jpg
     bio: Swimming Dynamics and Control
 
+paulo:
+    display_name: "Paulo Fisch"
+    webpage: "https://www.linkedin.com/in/paulo-fisch"
+    github: Pfisch23
+    role: phd
+    bio: Small satellite vision and localization
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
