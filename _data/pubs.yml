@@ -1,3 +1,11 @@
+- title: "The V-R3x Mission: Towards Autonomous Networking and Navigation for CubeSat Swarms"
+  authors: [max, kevin, zac, Anh Nguyen]
+  date: 2022-05-19
+  publisher: The 4S Symposium.
+  pub-type: conference
+  venue: Vilamoura, Portugal
+  pdf: vr3x.pdf
+
 - title: "CALIPSO: A Differentiable Solver for Trajectory Optimization with Conic and Complementarity Constraints"
   authors: [taylor, kevin, simon, zac]
   date: 2022-05-08
