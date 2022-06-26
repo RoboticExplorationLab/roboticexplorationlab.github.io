@@ -26,9 +26,9 @@ max:
     display_name: "Max Holliday"
     webpage: "https://github.com/maholli"
     github: maholli
-    role: phd
+    role: alum
     image: /img/people/max.jpg
-    bio: Space-resilient hardware
+    bio: Now at NASA Ames
 
 simon:
     display_name: "Simon Le Cleac'h"
@@ -88,7 +88,7 @@ remy:
     github: Derollez
     role: alum
     image: /img/people/remy.jpg
-    bio: Robust Motion Planning and Optimization for Space
+    bio: Now at Loft Orbital
 
 jared:
     display_name: "Jared Blanchard"
