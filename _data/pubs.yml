@@ -1,3 +1,12 @@
+- title: "Online Kinematic Calibration for Legged Robots"
+  authors: [shuo, Howie Choset, zac]
+  date: 2022-06-14
+  publisher: IEEE
+  pub-type: journal
+  publisher: IEEE Robotics and Automation Letters & IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  pdf: onlinecalib.pdf
+  projects: [quad_estimation]
+
 - title: "The V-R3x Mission: Towards Autonomous Networking and Navigation for CubeSat Swarms"
   authors: [max, kevin, zac, Anh Nguyen]
   date: 2022-05-19

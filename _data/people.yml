@@ -149,8 +149,8 @@ bbokser:
 
 shuo:
     display_name: "Shuo Yang"
-    webpage: "https://github.com/paulyang1990"
-    github: paulyang1990
+    webpage: "https://shuoyangrobotics.github.io/"
+    github: ShuoYangRobotics
     role: phd
     image: /img/people/shuo.jpg
     bio: Legged Robots State Estimation, Mapping and Control
