@@ -1,5 +1,5 @@
 ---
-title: Differentiable Collision Detection for a Set of Convex Primitives
+title: Differentiable Collision Detection
 description: |
   Smooth and differentiable collision detection between pairs of convex primitives, enabled by differentiable convex optimization.
 
