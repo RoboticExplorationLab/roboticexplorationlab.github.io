@@ -100,11 +100,11 @@ jared:
 
 kevin:
     display_name: "Kevin Tracy"
-    webpage: "https://www.linkedin.com/in/kevin-tracy/"
+    webpage: "https://www.kevintracy.info"
     github: kevintracy7
     role: phd
     image: /img/people/kevin.jpg
-    bio: Spacecraft dynamics and control
+    bio: Optimization and control
 
 swamig:
     display_name: "Swaminathan Gurumurthy"
