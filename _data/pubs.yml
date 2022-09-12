@@ -1,3 +1,12 @@
+- title: "Data-Efficient Model Learning for Model Predictive Control with Jacobian-Regularized Dynamic Mode Decomposition"
+  authors: [brian, jj, kevin, zac]
+  date: 2022-09-12
+  publisher: The Conference on Robot Learning (CoRL)
+  pub-type: conference
+  pdf: koopman_mpc.pdf
+  projects: [koopman]
+
+
 - title: "Online Kinematic Calibration for Legged Robots"
   authors: [shuo, Howie Choset, zac]
   date: 2022-06-14
