@@ -203,6 +203,14 @@ paulo:
     image: /img/people/Paulo.jpg
     bio: Small satellite vision and localization
 
+mitch:
+    display_name: "Mitchell Fogelson"
+    webpage: "https://www.mitchellfogelson.com"
+    github: mfogelson
+    role: phd
+    image: /img/people/mitch.png
+    bio: Design and Control Optimization
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
