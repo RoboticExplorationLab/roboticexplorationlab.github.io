@@ -211,6 +211,15 @@ mitch:
     image: /img/people/mitch.png
     bio: Design and Control Optimization
 
+sofia:
+    display_name: "Sofia Kwok"
+    webpage: "https://sites.google.com/view/sofiakwok/"
+    github: sofiakwok
+    role: masters
+    image: /img/people/sofia.jpg
+    bio: Flying vehicle optimization and control
+
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
