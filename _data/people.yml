@@ -219,6 +219,13 @@ sofia:
     image: /img/people/sofia.jpg
     bio: Flying vehicle optimization and control
 
+zixin:
+    display_name: "Zixin Zhang"
+    webpage: "https://sites.google.com/view/zixinatom990/home"
+    github: Atom990
+    role: masters
+    image: /img/people/zixin.jpg
+    bio: Legged robots
 
 # grad-a:
 #     display_name: "Grad A"
