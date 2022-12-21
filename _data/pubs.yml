@@ -1,3 +1,11 @@
+- title: "Robust Entry Guidance with Atmospheric Adaptation"
+  authors: [kevin, Giusy Falcone, zac]
+  date: 2023-01-23
+  publisher: AIAA SciTech
+  pub-type: conference
+  venue: National Harbor, MD
+  pdf: robust_edl_ktracy.pdf
+
 - title: "Data-Efficient Model Learning for Model Predictive Control with Jacobian-Regularized Dynamic Mode Decomposition"
   authors: [brian, jj, kevin, zac]
   date: 2022-09-12
