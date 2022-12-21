@@ -6,8 +6,8 @@ description: |
 
 people:
   - zac
-  - remy
-  - simon
+  - kevin
+  - giusy
 
 layout: project
 image: "/img/funnel.jpg"

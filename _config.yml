@@ -18,9 +18,9 @@ roles:
     name: Faculty
   # - key: staff
   #   name: Staff
-  # - key: postdoc
-  #   name: Researchers
-  - key: phd 
+  - key: postdoc
+    name: Researchers
+  - key: phd
     name: PhD Students
   - key: masters
     name: Masters Students

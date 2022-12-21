@@ -226,6 +226,15 @@ zixin:
     role: masters
     image: /img/people/zixin.jpg
     bio: Legged robots
+    
+
+giusy:
+    display_name: "Giusy Falcone"
+    webpage: "https://gfalcon2.web.illinois.edu/"
+    github: gfalcon2
+    role: postdoc
+    image: /img/people/giusy.jpg
+    bio: Postdoctoral Fellow
 
 # grad-a:
 #     display_name: "Grad A"
