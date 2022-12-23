@@ -236,6 +236,14 @@ giusy:
     image: /img/people/giusy.jpg
     bio: Postdoctoral Fellow
 
+john:
+    display_name: "John Zhang"
+    webpage: "https://johnzhang3.github.io/"
+    github: johnzhang3
+    role: masters
+    image: /img/people/john.jpg
+    bio: Optimization and control through contact
+    
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
