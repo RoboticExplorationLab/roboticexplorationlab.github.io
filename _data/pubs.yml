@@ -1,3 +1,11 @@
+- title: "Convex Optimization of Relative Orbit Maneuvers Using the Kustaanheimo-Stiefel Transformation"
+  authors: [jbwillis, zac]
+  date: 2023-03-04
+  publisher: IEEE Aerospace Conference.
+  pub-type: conference
+  venue: Big Sky, MT
+  pdf: ks_relative.pdf
+
 - title: "Robust Entry Guidance with Atmospheric Adaptation"
   authors: [kevin, Giusy Falcone, zac]
   date: 2023-01-23
