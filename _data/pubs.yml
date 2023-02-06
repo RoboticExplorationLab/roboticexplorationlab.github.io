@@ -1,3 +1,12 @@
+- title: "Differentiable Collision Detection for a Set of Convex Primitives"
+  authors: [kevin, taylor, zac]
+  date: 2023-05-29
+  pub-type: conference
+  publisher: International Conference on Robotics and Automation
+  abbrv: ICRA
+  venue: London 
+  pdf: dcol.pdf
+  
 - title: "Convex Optimization of Relative Orbit Maneuvers Using the Kustaanheimo-Stiefel Transformation"
   authors: [jbwillis, zac]
   date: 2023-03-04
