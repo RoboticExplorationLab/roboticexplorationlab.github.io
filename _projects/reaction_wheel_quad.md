@@ -2,7 +2,7 @@
 title: Enhanced Balance for Legged Robots Using Reaction Wheels
 
 description: |
-  Real-time simulation and trajectory optimization for soft robots.
+  Novel hardware design to enhace quadruped robots
 
 people:
   - shuo

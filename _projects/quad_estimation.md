@@ -2,7 +2,7 @@
 title: Online Kinematics Calibration in Visual-Inertial-Leg Odometry
 
 description: |
-   
+  A open source visual-inertial-leg odometry with high estiation accuracy
 
 people:
   - zac
