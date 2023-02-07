@@ -1,3 +1,26 @@
+
+- title: "Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion"
+  authors: [shuo, zixin, Zhengyu Fu, zac]
+  date: 2023-05-29
+  publisher: IEEE
+  pub-type: conference
+  publisher: International Conference on Robotics and Automation
+  abbrv: ICRA
+  venue: London 
+  pdf: cerberus.pdf
+  projects: [quad_estimation]
+
+- title: "Enhanced Balance for Legged Robots Using Reaction Wheels"
+  authors: [chiyen, shuo, bbokser, zac]
+  date: 2023-05-29
+  publisher: IEEE
+  pub-type: conference
+  publisher: International Conference on Robotics and Automation
+  abbrv: ICRA
+  venue: London 
+  pdf: reaction_wheel.pdf
+  projects: [reaction_wheel_quad]
+
 - title: "Differentiable Collision Detection for a Set of Convex Primitives"
   authors: [kevin, taylor, zac]
   date: 2023-05-29
