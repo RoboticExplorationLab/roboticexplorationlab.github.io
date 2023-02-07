@@ -1,12 +1,13 @@
 ---
-title: Online Kinematics Calibration in Visual-Inertial-Leg Odometry
+title: Visual-Inertial-Leg Odometry With Online Parameter Adaptation
 
 description: |
-  A open source visual-inertial-leg odometry with high estiation accuracy
+  An open source visual-inertial-leg odometry with high estiation accuracy
 
 people:
   - zac
   - shuo
+  - zixin
 
 layout: project
 image: "/img/vilo.gif"
