@@ -2,7 +2,7 @@
 title: Visual-Inertial-Leg Odometry With Online Parameter Adaptation
 
 description: |
-  An open source visual-inertial-leg odometry with high estiation accuracy
+  An open source visual-inertial-leg odometry with high estimation accuracy
 
 people:
   - zac
