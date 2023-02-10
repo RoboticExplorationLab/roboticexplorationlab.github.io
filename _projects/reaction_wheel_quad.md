@@ -2,7 +2,7 @@
 title: Enhanced Balance for Legged Robots Using Reaction Wheels
 
 description: |
-  Novel hardware design to enhace quadruped robots
+  Novel hardware design to enhance quadruped robots
 
 people:
   - shuo

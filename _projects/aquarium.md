@@ -2,11 +2,11 @@
 title: Differentiable Fluid-Structure Interaction for Robotics
 
 description: |
-  A fully differentiable solver for simulating coupled fluid-robot dynamics
+  A fully differentiable solver for simulating coupled fluid-solid dynamics
 
 people:
-  - zac
-  - jj 
+  - jj
+  - zac 
 
 layout: project
 image: "/img/aquarium/aquarium.gif"
