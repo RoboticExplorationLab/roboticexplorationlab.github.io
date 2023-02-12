@@ -118,7 +118,7 @@ benj:
     display_name: "Benjamin Jensen"
     webpage: "https://www.linkedin.com/in/benj-jensen/"
     github: benjjensen
-    role: masters
+    role: alum
     image: /img/people/benj.jpg
     bio: Masters Student
     
@@ -167,7 +167,7 @@ chiyen:
     display_name: "Chiyen Lee"
     webpage: "https://www.linkedin.com/in/chiyen-lee/" 
     github: ChiyenLee
-    role: masters 
+    role: alum 
     image: /img/people/chiyen.jpeg 
     bio: Legged Robots
 
@@ -243,6 +243,14 @@ john:
     role: masters
     image: /img/people/john.jpg
     bio: Optimization and control through contact
+ 
+khai:
+    display_name: "Khai Nguyen"
+    webpage: "https://xkhainguyen.github.io/"
+    github: xkhainguyen
+    role: masters
+    image: /img/people/khai.jpg
+    bio: Optimization-based planning and control
     
 # grad-a:
 #     display_name: "Grad A"
