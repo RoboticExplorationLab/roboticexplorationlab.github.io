@@ -251,6 +251,14 @@ khai:
     role: masters
     image: /img/people/khai.jpg
     bio: Optimization-based planning and control
+ 
+sam:
+    display_name: "Sam Schoedel"
+    webpage: "https://samschoedel.com/"
+    github: sschoedel
+    role: masters
+    image: /img/people/sam.jpg
+    bio: Optimization-based planning and control
     
 # grad-a:
 #     display_name: "Grad A"
