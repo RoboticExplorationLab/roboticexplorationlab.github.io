@@ -20,3 +20,4 @@ We present Aquarium, a differentiable fluid-structure interaction solver for rob
 
 # Resources
 * [Code Repository](https://github.com/RoboticExplorationLab/Aquarium.jl)
+* [Supplemental Video](https://www.youtube.com/watch?v=vDr03uDEUL0)
