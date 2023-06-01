@@ -10,7 +10,7 @@ taylor:
     display_name: "Taylor Howell"
     webpage: "https://thowell.github.io"
     github: thowell
-    role: phd
+    role: alum
     image: /img/people/taylor.jpg
     bio: Model-predictive control and differentiable simulators for contact
 
@@ -18,9 +18,9 @@ brian:
     display_name: "Brian Jackson"
     webpage: "https://bjack205.github.io"
     github: bjack205
-    role: phd
+    role: alum
     image: /img/people/brian.jpg
-    bio: Real-time motion planning
+    bio: Albedo Space
 
 max:
     display_name: "Max Holliday"
@@ -28,15 +28,15 @@ max:
     github: maholli
     role: alum
     image: /img/people/max.jpg
-    bio: Now at NASA Ames
+    bio: NASA Ames
 
 simon:
     display_name: "Simon Le Cleac'h"
     webpage: "https://simon-lc.github.io/"
     github: simon-lc
-    role: phd
+    role: alum
     image: /img/people/simon.jpg
-    bio: Game-theoretic optimization and optimization through contact
+    bio: Boston Dynamics AI Institute
 
 andrew:
     display_name: "Andrew Gatherer"
@@ -44,7 +44,7 @@ andrew:
     github: GathererA
     role: alum
     image: /img/people/andrew.jpg
-    bio: Now at SpaceX
+    bio: SpaceX
 
 jan:
     display_name: "Jan Bruedigam"
@@ -52,35 +52,35 @@ jan:
     github: janbruedigam
     role: alum
     image: /img/people/jan.jpg
-    bio: PhD student at TU Munich
+    bio: PhD at TU Munich
 
 laura:
     display_name: "Laura Lee"
     webpage: "https://www.linkedin.com/in/lauraleeane/"
     role: alum
     image: /img/people/laura.jpg
-    bio: Now at Boston Dynamics
+    bio: Boston Dynamics
 
 nathan:
     display_name: "Nathan Kau"
     webpage: "https://nathankau.com/"
     role: ugrad-alum
     image: /img/people/nathankau.jpg
-    bio: Legged Robots
+    bio: Woven Planet 
 
 tarun:
     display_name: "Tarun Punnoose"
     webpage: "https://punnoo.se/"
     role: ugrad-alum
     image: /img/people/tarun.jpg
-    bio: Legged Robots
+    bio: Waymo
 
 aaron:
     display_name: "Aaron Schultz"
     webpage: "https://www.linkedin.com/in/aaron-s-a4aa2685/"
     role: ugrad-alum
     image: /img/people/aaron.jpg
-    bio: Legged Robots
+    bio: Dexterity
 
 remy:
     display_name: "Remy Derollez"
@@ -88,7 +88,7 @@ remy:
     github: Derollez
     role: alum
     image: /img/people/remy.jpg
-    bio: Now at Loft Orbital
+    bio: Loft Orbital
 
 jared:
     display_name: "Jared Blanchard"
@@ -96,7 +96,7 @@ jared:
     github: jared711
     role: alum
     image: /img/people/jared.jpg
-    bio: PhD Student at Stanford
+    bio: PhD at Stanford
 
 kevin:
     display_name: "Kevin Tracy"
@@ -120,7 +120,7 @@ benj:
     github: benjjensen
     role: alum
     image: /img/people/benj.jpg
-    bio: Masters Student
+    bio: Johns Hopkins APL 
     
 rianna:
     display_name: "Rianna Jitosho"
@@ -134,17 +134,17 @@ suvansh:
     display_name: "Suvansh Sanjeev"
     webpage: "https://suvan.sh"
     github: suvansh
-    role: phd
+    role: alum
     image: /img/people/suvansh.jpg
-    bio: Reinforcement Learning and Control
+    bio: Brilliantly
     
 bbokser:
     display_name: "Ben Bokser"
     webpage: "https://benbokser.com"
     github: bbokser
-    role: masters
+    role: alum
     image: /img/people/bbokser.jpg
-    bio: Legged Robots
+    bio: Boston Dynamics AI Institute
 
 
 shuo:
@@ -169,7 +169,7 @@ chiyen:
     github: ChiyenLee
     role: alum 
     image: /img/people/chiyen.jpeg 
-    bio: Legged Robots
+    bio: Dextrous 
 
 brandon:
     display_name: "Brandon Hung"
@@ -177,7 +177,7 @@ brandon:
     github: BrandonHung343
     role: alum 
     image: /img/people/brandonhung.jpg 
-    bio: Now at Everyday Robots
+    bio: Boston Dynamics AI Institute
 
 jbwillis:
     display_name: "Jacob Willis"
