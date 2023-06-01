@@ -10,7 +10,7 @@ taylor:
     display_name: "Taylor Howell"
     webpage: "https://thowell.github.io"
     github: thowell
-    role: phd-alum
+    role: alum
     image: /img/people/taylor.jpg
     bio: Model-predictive control and differentiable simulators for contact
 
@@ -18,7 +18,7 @@ brian:
     display_name: "Brian Jackson"
     webpage: "https://bjack205.github.io"
     github: bjack205
-    role: phd-alum
+    role: alum
     image: /img/people/brian.jpg
     bio: Albedo Space
 
@@ -26,7 +26,7 @@ max:
     display_name: "Max Holliday"
     webpage: "https://github.com/maholli"
     github: maholli
-    role: phd-alum
+    role: alum
     image: /img/people/max.jpg
     bio: NASA Ames
 
@@ -34,7 +34,7 @@ simon:
     display_name: "Simon Le Cleac'h"
     webpage: "https://simon-lc.github.io/"
     github: simon-lc
-    role: phd-alum
+    role: alum
     image: /img/people/simon.jpg
     bio: Boston Dynamics AI Institute
 
@@ -42,7 +42,7 @@ andrew:
     display_name: "Andrew Gatherer"
     webpage: "https://www.linkedin.com/in/andrew-gatherer-72211862/"
     github: GathererA
-    role: ms-alum
+    role: alum
     image: /img/people/andrew.jpg
     bio: SpaceX
 
@@ -50,14 +50,14 @@ jan:
     display_name: "Jan Bruedigam"
     webpage: "https://www.ei.tum.de/en/itr/bruedigam/"
     github: janbruedigam
-    role: ms-alum
+    role: alum
     image: /img/people/jan.jpg
     bio: PhD at TU Munich
 
 laura:
     display_name: "Laura Lee"
     webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: ms-alum
+    role: alum
     image: /img/people/laura.jpg
     bio: Boston Dynamics
 
@@ -86,7 +86,7 @@ remy:
     display_name: "Remy Derollez"
     webpage: "https://www.linkedin.com/in/derollez-remy/"
     github: Derollez
-    role: ms-alum
+    role: alum
     image: /img/people/remy.jpg
     bio: Loft Orbital
 
@@ -94,7 +94,7 @@ jared:
     display_name: "Jared Blanchard"
     webpage: "https://jaredblanchard.com"
     github: jared711
-    role: ms-alum
+    role: alum
     image: /img/people/jared.jpg
     bio: PhD at Stanford
 
@@ -118,7 +118,7 @@ benj:
     display_name: "Benjamin Jensen"
     webpage: "https://www.linkedin.com/in/benj-jensen/"
     github: benjjensen
-    role: ms-alum
+    role: alum
     image: /img/people/benj.jpg
     bio: Johns Hopkins APL 
     
@@ -134,7 +134,7 @@ suvansh:
     display_name: "Suvansh Sanjeev"
     webpage: "https://suvan.sh"
     github: suvansh
-    role: ms-alum
+    role: alum
     image: /img/people/suvansh.jpg
     bio: Brilliantly
     
@@ -142,7 +142,7 @@ bbokser:
     display_name: "Ben Bokser"
     webpage: "https://benbokser.com"
     github: bbokser
-    role: ms-alum
+    role: alum
     image: /img/people/bbokser.jpg
     bio: Boston Dynamics AI Institute
 
@@ -167,14 +167,14 @@ chiyen:
     display_name: "Chiyen Lee"
     webpage: "https://www.linkedin.com/in/chiyen-lee/" 
     github: ChiyenLee
-    role: ms-alum 
+    role: alum 
     image: /img/people/chiyen.jpeg 
     bio: Dextrous Robotics
     
 chiyen:
     display_name: "Alexander Bouman"
     github: aabouman
-    role: ms-alum 
+    role: alum 
     image: /img/people/chiyen.jpeg 
     bio: Dextrous Robotics
 
@@ -182,7 +182,7 @@ brandon:
     display_name: "Brandon Hung"
     webpage: "https://brandonh.dev" 
     github: BrandonHung343
-    role: ms-alum
+    role: alum
     image: /img/people/brandonhung.jpg 
     bio: Boston Dynamics AI Institute
 
