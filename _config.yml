@@ -28,12 +28,14 @@ roles:
     name: Undergraduate Students
   - key: ugrad-alum
     name: Past Undergraduate Students
+  - key: alum
+    name: Alumni
   # - key: collab
   #   name: Collaborators
-  - key: ms-alum
-    name: MS Alumni
-  - key: phd-alum
-    name: PhD Alumni
+#   - key: ms-alum
+#     name: MS Alumni
+#   - key: phd-alum
+#     name: PhD Alumni
 
 # Number of news stories on the front page.
 front_page_news: 3
