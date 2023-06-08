@@ -266,6 +266,14 @@ sam:
     role: masters
     image: /img/people/sam.jpg
     bio: Optimization-based planning and control
+
+arun:
+    display_name: "Arun Bishop"
+    webpage: "https://www.linkedin.com/in/arun-bishop"
+    github: abot98
+    role: phd
+    image: /img/people/arun.jpg
+    bio: Optimization and control through contact
     
 # grad-a:
 #     display_name: "Grad A"
