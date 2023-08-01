@@ -1,3 +1,14 @@
+- title: "Multi-IMU Proprioceptive Odometry for Legged Robots"
+  authors: [shuo, zixin, bbokser, zac]
+  date: 2023-10-02
+  publisher: IEEE
+  pub-type: conference
+  publisher: International Conference on Intelligent Robots and Systems
+  abbrv: IROS
+  venue: Detriot, MI 
+  pdf: foot_imu_iros2023.pdf
+  projects: [quad_estimation]
+
 - title: "Aquarium: A Fully Differentiable Fluid-Structure Interaction Solver for Robotics Applications"
   authors: [jj, Mike Y. Michelis, Robert Katzschmann, zac]
   date: 2023-05-29
