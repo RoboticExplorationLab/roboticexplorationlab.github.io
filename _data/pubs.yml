@@ -1,3 +1,14 @@
+- title: "PPR: Physically Plausible Reconstruction from Monocular Videos"
+  authors: [Gengshan Yang, shuo, john, zac, Deva Ramanan]
+  date: 2023-10-04
+  publisher: IEEE
+  pub-type: conference
+  publisher: International Conference on Computer Vision
+  abbrv: ICCV
+  venue: Paris, France 
+  pdf: ppr_physics_recon.pdf
+  projects: [vision_imitation]
+
 - title: "Multi-IMU Proprioceptive Odometry for Legged Robots"
   authors: [shuo, zixin, bbokser, zac]
   date: 2023-10-02
