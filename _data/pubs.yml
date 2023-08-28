@@ -7,7 +7,7 @@
   abbrv: ICCV
   venue: Paris, France 
   pdf: ppr_physics_recon.pdf
-  projects: [vision_imitation]
+  projects: [video_imitation]
 
 - title: "Multi-IMU Proprioceptive Odometry for Legged Robots"
   authors: [shuo, zixin, bbokser, zac]

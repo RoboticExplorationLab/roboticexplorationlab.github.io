@@ -12,7 +12,7 @@ people:
 
 layout: project
 image: "/img/video_imitation/dog_reach_compiled.gif"
-last-updated: 2023-02-09
+last-updated: 2023-08-26
 ---
 
 We present SLoMo: a first-of-its-kind framework for transferring skilled motions from casually captured “in-
