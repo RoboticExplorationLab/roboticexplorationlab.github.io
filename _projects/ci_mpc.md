@@ -7,6 +7,10 @@ description: |
 people:
   - simon
   - taylor
+  - shuo
+  - chiyen
+  - john
+  - arun
   - zac
 
 layout: project

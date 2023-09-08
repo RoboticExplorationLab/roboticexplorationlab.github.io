@@ -1,3 +1,12 @@
+- title: "Fast Contact-Implicit Model-Predictive Control"
+  authors: [simon, taylor, shuo, chiyen, john, arun, Mac Schwager, zac]
+  date: 2023-08-23
+  pub-type: journal
+  publisher: IEEE Transactions on Robotics
+  pdf: contact_implicit_mpc_paper.pdf
+  projects: [ci_mpc]
+  status: Conditionally Accepted
+
 - title: "SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos"
   authors: [john, shuo, Gengshan Yang, arun, swamig, Deva Ramanan, zac]
   date: 2024-05-15
@@ -153,15 +162,6 @@
   publisher: Robotics and Automation Letters
   pdf: optimization_dynamics.pdf
   projects: [optimization_dynamics]
-  
-- title: "Fast Contact-Implicit Model-Predictive Control"
-  authors: [simon, taylor, Mac Schwager, zac]
-  date: 2021-07-09
-  pub-type: journal
-  publisher: arXiv
-  pdf: ci_mpc.pdf
-  projects: [ci_mpc]
-  status: Submitted 
 
 - title: "Dynamic Biasing for Improved On-Orbit Total-Dose Lifetimes of Commercial Semiconductor Devices"
   authors: [max, Thomas Heuser, zac, Debbie Senesky]
