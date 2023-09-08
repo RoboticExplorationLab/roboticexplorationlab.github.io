@@ -8,6 +8,7 @@ people:
   - john
   - shuo
   - arun
+  - swamig
   - zac 
 
 layout: project

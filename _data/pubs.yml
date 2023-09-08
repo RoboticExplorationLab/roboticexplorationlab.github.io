@@ -1,9 +1,19 @@
+- title: "SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos"
+  authors: [john, shuo, Gengshan Yang, arun, swamig, Deva Ramanan, zac]
+  date: 2024-05-15
+  publisher: IEEE
+  pub-type: journal
+  publisher: Robotics and Automation Letters (RA-L) & International Conference on Robotics and Automation (ICRA)
+  venue: Yokohama, Japan
+  pdf: slomo.pdf
+  projects: [video_imitation]
+
 - title: "PPR: Physically Plausible Reconstruction from Monocular Videos"
   authors: [Gengshan Yang, shuo, john, zac, Deva Ramanan]
   date: 2023-10-04
   publisher: IEEE
   pub-type: conference
-  publisher: International Conference on Computer Vision
+  publisher: IEEE International Conference on Computer Vision
   abbrv: ICCV
   venue: Paris, France 
   pdf: ppr_physics_recon.pdf
