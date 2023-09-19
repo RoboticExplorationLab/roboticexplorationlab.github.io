@@ -159,7 +159,7 @@ fausto:
     display_name: "Fausto Vega"
     webpage: "https://www.linkedin.com/in/fausto-vega/"
     github: vegaf1
-    role: masters
+    role: phd
     image: /img/people/fausto.jpg
     bio: Small spacecraft and navigation
 
@@ -230,9 +230,9 @@ zixin:
     display_name: "Zixin Zhang"
     webpage: "https://sites.google.com/view/zixinatom990/home"
     github: Atom990
-    role: masters
+    role: alum
     image: /img/people/zixin.jpg
-    bio: Legged robots
+    bio: PhD at Northwestern University
     
 
 giusy:
