@@ -28,7 +28,7 @@
   pdf: ppr_physics_recon.pdf
   projects: [video_imitation]
 
-- title: "Multi-IMU Proprioceptive Odometry for Legged Robots"
+- title: "Multi-IMU Proprioceptive Odometry for Legged Robots (Best Paper Award Finalist)"
   authors: [shuo, zixin, bbokser, zac]
   date: 2023-10-02
   publisher: IEEE
