@@ -16,8 +16,8 @@ permalink: /blog/:year/:month/:day/:title.html
 roles:
   - key: faculty
     name: Faculty
-  # - key: staff
-  #   name: Staff
+  - key: staff
+    name: Staff
   - key: postdoc
     name: Researchers
   - key: phd
