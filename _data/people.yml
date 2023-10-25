@@ -283,6 +283,38 @@ ibrahima:
     image: /img/people/ibrahima.jpg
     bio: Planning and control for space robotics
 
+aaronT:
+    display_name: "Aaron Trowbridge"
+    webpage: "https://aarontrowbridge.github.io/"
+    github: aarontrowbridge 
+    role: staff
+    image: /img/people/AaronT.jpeg
+    bio: Quantum Optimal Control
+
+anoushka:
+    display_name: "Anoushka Alavilli"
+    # webpage: "https://www.linkedin.com/in/ibrasw/"
+    # github:  
+    role: masters
+    image: /img/people/Anoushka.jpg
+    bio: Optimization and learning-based control
+
+willK:
+    display_name: "Will Kraus"
+    webpage: "https://willkraus9.github.io/"
+    github: willkraus9 
+    role: masters
+    image: /img/people/WillKraus.png
+    bio: Planning and control for Legged Robots
+
+juan:
+    display_name: "Juan Alvarez Padilla"
+    webpage: "https://www.linkedin.com/in/juan-alvarez-padilla/"
+    # github: Ibrassow 
+    role: phd
+    image: /img/people/Juan.png
+    bio: Planning and control for space robotics
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
