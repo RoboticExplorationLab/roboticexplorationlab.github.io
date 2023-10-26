@@ -249,7 +249,7 @@ john:
     github: johnzhang3
     role: masters
     image: /img/people/john.jpg
-    bio: Optimization and control through contact
+    bio: Contact-rich simulation and control
 
 khai:
     display_name: "Khai Nguyen"
