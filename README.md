@@ -114,7 +114,7 @@ directory. To preview the site, run `jekyll serve`` and head to
 http://0.0.0.0:5000.
 
 
-Deploying to Your Sever
+Deploying to Your Server
 -----------------------
 
 To set up deployments, edit the Makefile and look for the lines where `HOST` and `DIR` are defined. Change these to the host where your HTML files should be copied to.
