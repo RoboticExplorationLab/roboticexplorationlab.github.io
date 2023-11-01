@@ -224,7 +224,7 @@ sofia:
     github: sofiakwok
     role: masters
     image: /img/people/sofia.jpg
-    bio: Flying vehicle optimization and control
+    bio: Bipedal optimization and control
 
 zixin:
     display_name: "Zixin Zhang"
