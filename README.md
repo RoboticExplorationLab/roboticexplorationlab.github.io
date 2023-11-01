@@ -111,7 +111,7 @@ The requirements for building the site are:
 
 `make` compiles the bibliography and the website content to the `_site`
 directory. To preview the site, run `jekyll serve`` and head to
-http://0.0.0.0:5000.
+http://0.0.0.0:4000.
 
 
 Deploying to Your Server
