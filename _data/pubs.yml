@@ -5,7 +5,7 @@
   pub-type: conference
   date: 2023-10-25
   pdf: https://arxiv.org/abs/2310.16985
-  status: submitted
+  status: In Review
 
 - title: "Fast Contact-Implicit Model-Predictive Control"
   authors: [simon, taylor, shuo, chiyen, john, arun, Mac Schwager, zac]
