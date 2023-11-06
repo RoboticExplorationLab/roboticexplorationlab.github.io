@@ -1,3 +1,12 @@
+- title: "TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers"
+  authors: [anoushka, khai, sam, Brian Plancher, zac]
+  projects: [tinympc]
+  publisher: arXiv
+  pub-type: conference
+  date: 2023-10-25
+  pdf: https://arxiv.org/abs/2310.16985
+  status: In Review
+
 - title: "Fast Contact-Implicit Model-Predictive Control"
   authors: [simon, taylor, shuo, chiyen, john, arun, Mac Schwager, zac]
   date: 2023-08-23
