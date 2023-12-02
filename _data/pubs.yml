@@ -7,6 +7,15 @@
   pdf: https://arxiv.org/abs/2310.16985
   status: In Review
 
+- title: "ReLU-QP: A GPU-Accelerated Quadratic Programming Solver for Model-Predictive Control"
+  authors: [arun, john, swamig, kevin, zac]
+  projects: [relu-qp]
+  publisher: arXiv
+  pub-type: conference
+  date: 2023-11-29
+  pdf: https://arxiv.org/abs/2311.18056
+  status: In Review
+
 - title: "Fast Contact-Implicit Model-Predictive Control"
   authors: [simon, taylor, shuo, chiyen, john, arun, Mac Schwager, zac]
   date: 2023-08-23

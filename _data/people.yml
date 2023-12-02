@@ -234,7 +234,6 @@ zixin:
     image: /img/people/zixin.jpg
     bio: PhD at Northwestern University
     
-
 giusy:
     display_name: "Giusy Falcone"
     webpage: "https://gfalcon2.web.illinois.edu/"
@@ -270,10 +269,10 @@ sam:
 arun:
     display_name: "Arun Bishop"
     webpage: "https://www.linkedin.com/in/arun-bishop"
-    github: abot98
+    github: arunleob
     role: phd
     image: /img/people/arun.jpg
-    bio: Optimization and control through contact
+    bio: Contact-rich optimization and control
 
 ibrahima:
     display_name: "Ibrahima S. Sow"
