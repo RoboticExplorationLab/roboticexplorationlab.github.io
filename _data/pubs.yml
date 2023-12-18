@@ -1,3 +1,11 @@
+- title: "Efficient Online Learning of Contact Force Models for Connector Insertion"
+  authors: [kevin, zac, Ajinkya Jain, Keegan Go, Stefan Schaal, Tom Erez, Yuval Tassa]
+  publisher: arXiv
+  pub-type: conference
+  date: 2023-12-11
+  pdf: https://model-based-plugging.github.io/
+  status: In Review
+
 - title: "TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers"
   authors: [anoushka, khai, sam, Brian Plancher, zac]
   projects: [tinympc]
