@@ -280,7 +280,8 @@ ibrahima:
     github: Ibrassow 
     role: masters
     image: /img/people/ibrahima.jpg
-    bio: Planning and control for space robotics
+    bio: Spacecraft Planning, Control, and Systems
+
 
 aaronT:
     display_name: "Aaron Trowbridge"
@@ -314,6 +315,13 @@ juan:
     image: /img/people/JuanRodolfoRexLab.jpg
     bio: Learning and Optimization Based Controls
 
+pedro:
+    display_name: "Pedro Andrade"
+    webpage: "https://www.linkedin.com/in/pedronrandrade/"
+    github:  
+    role: masters
+    image: /img/people/pedro.jpg
+    bio: Small satellite avionics and control
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
