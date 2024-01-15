@@ -190,9 +190,9 @@ jbwillis:
     display_name: "Jacob Willis"
     webpage: "https://www.linkedin.com/in/jacob-willis/"
     github: jbwillis
-    role: phd
+    role: alum
     image: /img/people/jacobwillis.jpg
-    bio: Small spacecraft systems and control
+    bio: Albedo Space
 
 jj:
     display_name: "Jeong Hun (JJ) Lee"
@@ -238,9 +238,9 @@ giusy:
     display_name: "Giusy Falcone"
     webpage: "https://gfalcon2.web.illinois.edu/"
     github: gfalcon2
-    role: postdoc
+    role: alum
     image: /img/people/giusy.jpg
-    bio: Postdoctoral Fellow
+    bio: Assistant Professor at Universtiy of Michigan
 
 john:
     display_name: "John Zhang"
@@ -295,9 +295,9 @@ anoushka:
     display_name: "Anoushka Alavilli"
     # webpage: "https://www.linkedin.com/in/ibrasw/"
     # github:  
-    role: masters
+    role: alum
     image: /img/people/Anoushka.jpg
-    bio: Optimization and learning-based control
+    bio: NASA Jet Propulsion Laboratory (JPL)
 
 willK:
     display_name: "Will Kraus"
@@ -319,9 +319,18 @@ pedro:
     display_name: "Pedro Andrade"
     webpage: "https://www.linkedin.com/in/pedronrandrade/"
     github:  
-    role: masters
+    role: alum
     image: /img/people/pedro.jpg
     bio: Small satellite avionics and control
+
+ashley:
+    display_name: "Ashley Kline"
+    webpage: "www.linkedin.com/in/ankline"
+    github:  
+    role: masters
+    image: /img/people/ashley.jpg
+    bio: Small spacecraft design and navigation
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
