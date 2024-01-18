@@ -325,7 +325,7 @@ pedro:
 
 ashley:
     display_name: "Ashley Kline"
-    webpage: "www.linkedin.com/in/ankline"
+    webpage: "https://www.linkedin.com/in/ankline/"
     github:  
     role: masters
     image: /img/people/ashley.jpeg
