@@ -331,6 +331,14 @@ ashley:
     image: /img/people/ashley.jpeg
     bio: Small spacecraft design and navigation
 
+pedro2:
+    display_name: "Pedro Cachim"
+    webpage: "https://www.linkedin.com/in/pedro-rocha-cachim/"
+    github: prchall123
+    role: phd
+    image: /img/people/pedro2.jpg
+    bio: Spacecraft guidance, navigation and control
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
