@@ -1,4 +1,12 @@
 
+- title: "A Massively Parallel Method for Fast Computation of Invariant Manifolds"
+  authors: [fausto, Martin Lo, zac, Jon Sims]
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  date: 2024-03-02
+  pdf: invmanifolds_ieee24.pdf
+  status: Accepted
+
 - title: "An Architecture Study for Low-Power Satellite-Based Wildlife Tracking"
   authors: [fausto, James Phillips, Kathryn Lampo, Roberty MacCurdy, zac]
   publisher: IEEE Aerospace Conference
