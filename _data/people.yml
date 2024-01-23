@@ -331,6 +331,37 @@ ashley:
     image: /img/people/ashley.jpeg
     bio: Small spacecraft design and navigation
 
+tae: 
+    display_name: "Tae Rugh"
+    webpage: "http://www.taerugh.com/"
+    github: taerugh
+    role: masters
+    image: /img/people/tae.jpg
+    bio: Robotic State Estimation and Control
+
+jon_arrizabalaga:
+    display_name: "Jon Arrizabalaga"
+    webpage: "https://jonarriza96.github.io/"
+    github:  
+    role: postdoc
+    image: /img/people/jonarrizabalaga.jpg
+    bio: Visiting from Technical University of Munich | Differential Geometry, Optimization and Control
+
+siddhartha:
+    display_name: "Siddhartha Saha"
+    webpage: "https://cs.cmu.edu/~ssaha3"
+    github:  
+    role: masters
+    image: /img/people/saha_image.jpeg
+    bio: Planning over Locomotion Skills
+
+elakhya:
+    display_name: "Elakhya Nedumaran"
+    webpage: "https://www.linkedin.com/in/elakhya-nedumaran/ "
+    github:  
+    role: masters
+    image: /img/people/elakhya.png
+    bio: Optimization-based control
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
