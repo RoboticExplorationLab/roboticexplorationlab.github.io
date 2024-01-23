@@ -1,4 +1,12 @@
 
+- title: "An Architecture Study for Low-Power Satellite-Based Wildlife Tracking"
+  authors: [fausto, James Phillips, Kathryn Lampo, Roberty MacCurdy, zac]
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  date: 2024-03-02
+  pdf: wildlife_ieee24.pdf
+  status: Accepted
+
 - title: "High-Expansion-Ratio Deployable Structures for Long Duration Space Missions"
   authors: [mitch, Sawyer Thomas, giusy, Jeffery Lipton, zac]
   projects: [herds]
