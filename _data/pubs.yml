@@ -8,6 +8,39 @@
   projects: [quantum]
   status: Best Paper Award
 
+- title: "A Massively Parallel Method for Fast Computation of Invariant Manifolds"
+  authors: [fausto, Martin Lo, zac, Jon Sims]
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  date: 2024-03-02
+  pdf: invmanifolds_ieee24.pdf
+  status: Accepted
+
+- title: "An Architecture Study for Low-Power Satellite-Based Wildlife Tracking"
+  authors: [fausto, James Phillips, Kathryn Lampo, Robert MacCurdy, zac]
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  date: 2024-03-02
+  pdf: wildlife_ieee24.pdf
+  status: Accepted
+
+- title: "High-Expansion-Ratio Deployable Structures for Long Duration Space Missions"
+  authors: [mitch, Sawyer Thomas, giusy, Jeffery Lipton, zac]
+  projects: [herds]
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  date: 2024-03-02
+  pdf: /HERDs_Fogelson_Thomas_Manchester_Lipton_Falcon_IEEE_Aero_01_12_24.pdf
+  status: Accepted
+
+- title: "Efficient Online Learning of Contact Force Models for Connector Insertion"
+  authors: [kevin, zac, Ajinkya Jain, Keegan Go, Stefan Schaal, Tom Erez, Yuval Tassa]
+  publisher: arXiv
+  pub-type: conference
+  date: 2023-12-11
+  pdf: https://model-based-plugging.github.io/
+  status: In Review
+
 - title: "TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers"
   authors: [anoushka, khai, sam, Brian Plancher, zac]
   projects: [tinympc]
@@ -15,6 +48,15 @@
   pub-type: conference
   date: 2023-10-25
   pdf: https://arxiv.org/abs/2310.16985
+  status: In Review
+
+- title: "ReLU-QP: A GPU-Accelerated Quadratic Programming Solver for Model-Predictive Control"
+  authors: [arun, john, swamig, kevin, zac]
+  projects: [relu-qp]
+  publisher: arXiv
+  pub-type: conference
+  date: 2023-11-29
+  pdf: https://arxiv.org/abs/2311.18056
   status: In Review
 
 - title: "Fast Contact-Implicit Model-Predictive Control"
