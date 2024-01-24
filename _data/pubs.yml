@@ -1,3 +1,12 @@
+- title: "Direct Collocation for Quantum Optimal Control"
+  authors: [aaron, Aditya Bhardwaj, Kevin He, David I. Schuster, zac]
+  date: 2023-05-05
+  pub-type: conference
+  publisher: IEEE International Conference on Quantum Computing and Engineering 
+  pdf: https://arxiv.org/abs/2305.03261
+  venue: Seattle, WA
+  projects: [quantum]
+  status: Best Paper Award
 
 - title: "A Massively Parallel Method for Fast Computation of Invariant Manifolds"
   authors: [fausto, Martin Lo, zac, Jon Sims]
