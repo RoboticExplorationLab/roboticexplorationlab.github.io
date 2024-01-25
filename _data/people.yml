@@ -12,7 +12,7 @@ taylor:
     github: thowell
     role: alum
     image: /img/people/taylor.jpg
-    bio: Model-predictive control and differentiable simulators for contact
+    bio: Model-predictive Control and Differentiable Simulators for Contact
 
 brian:
     display_name: "Brian Jackson"
@@ -104,7 +104,7 @@ kevin:
     github: kevintracy7
     role: phd
     image: /img/people/kevin.jpg
-    bio: Optimization and control
+    bio: Optimization and Control
 
 swamig:
     display_name: "Swaminathan Gurumurthy"
@@ -128,7 +128,7 @@ rianna:
     github: rjitosho
     role: phd
     image: /img/people/rianna.jpeg
-    bio: Motion planning for soft robots
+    bio: Motion Planning for Soft Robots
 
 suvansh:
     display_name: "Suvansh Sanjeev"
@@ -161,7 +161,7 @@ fausto:
     github: vegaf1
     role: phd
     image: /img/people/fausto.jpg
-    bio: Small spacecraft and navigation
+    bio: Small Spacecraft and Navigation
 
 chiyen:
     display_name: "Chiyen Lee"
@@ -208,7 +208,7 @@ paulo:
     github: Pfisch23
     role: phd
     image: /img/people/Paulo.jpg
-    bio: Small satellite vision and localization
+    bio: Small Satellite Vision and Localization
 
 mitch:
     display_name: "Mitchell Fogelson"
@@ -224,7 +224,7 @@ sofia:
     github: sofiakwok
     role: masters
     image: /img/people/sofia.jpg
-    bio: Bipedal optimization and control
+    bio: Bipedal Optimization and Control
 
 zixin:
     display_name: "Zixin Zhang"
@@ -248,7 +248,7 @@ john:
     github: johnzhang3
     role: masters
     image: /img/people/john.jpg
-    bio: Contact-rich simulation and control
+    bio: Contact-rich Simulation and Control
 
 khai:
     display_name: "Khai Nguyen"
@@ -256,7 +256,7 @@ khai:
     github: xkhainguyen
     role: masters
     image: /img/people/khai.jpg
-    bio: Optimization-based planning and control
+    bio: Optimization-based Planning and Control
  
 sam:
     display_name: "Sam Schoedel"
@@ -264,7 +264,7 @@ sam:
     github: sschoedel
     role: masters
     image: /img/people/sam.jpg
-    bio: Optimization-based planning and control
+    bio: Optimization-based Planning and Control
 
 arun:
     display_name: "Arun Bishop"
@@ -272,7 +272,7 @@ arun:
     github: arunleob
     role: phd
     image: /img/people/arun.jpg
-    bio: Contact-rich optimization and control
+    bio: Contact-rich Optimization and Control
 
 ibrahima:
     display_name: "Ibrahima S. Sow"
@@ -289,7 +289,7 @@ aaronT:
     github: aarontrowbridge 
     role: staff
     image: /img/people/AaronT.jpg
-    bio: Quantum optimal control
+    bio: Quantum Optimal Control
 
 anoushka:
     display_name: "Anoushka Alavilli"
@@ -305,7 +305,7 @@ willK:
     github: willkraus9 
     role: masters
     image: /img/people/WillKraus.png
-    bio: Planning and control for Legged Robots
+    bio: Planning and Control for Legged Robots
 
 juan:
     display_name: "Juan Alvarez Padilla"
@@ -321,7 +321,7 @@ pedro:
     github:  
     role: alum
     image: /img/people/pedro.jpg
-    bio: Small satellite avionics and control
+    bio: Small Satellite Avionics and Control
 
 ashley:
     display_name: "Ashley Kline"
@@ -329,7 +329,7 @@ ashley:
     github:  
     role: masters
     image: /img/people/ashley.jpeg
-    bio: Small spacecraft design and navigation
+    bio: Small Spacecraft Design and Navigation
 
 pedro2:
     display_name: "Pedro Cachim"
@@ -337,7 +337,7 @@ pedro2:
     github: prchall123
     role: phd
     image: /img/people/pedro2.jpg
-    bio: Spacecraft guidance, navigation and control
+    bio: Spacecraft Guidance, Navigation and Control
 
 tae: 
     display_name: "Tae Rugh"
@@ -355,21 +355,13 @@ jon_arrizabalaga:
     image: /img/people/jonarrizabalaga.jpg
     bio: Visiting from Technical University of Munich | Differential Geometry, Optimization and Control
 
-siddhartha:
-    display_name: "Siddhartha Saha"
-    webpage: "https://cs.cmu.edu/~ssaha3"
-    github:  
-    role: masters
-    image: /img/people/saha_image.jpeg
-    bio: Planning over Locomotion Skills
-
 elakhya:
     display_name: "Elakhya Nedumaran"
     webpage: "https://www.linkedin.com/in/elakhya-nedumaran/ "
     github:  
     role: masters
     image: /img/people/elakhya.png
-    bio: Optimization-based control
+    bio: Optimization-based Control
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
