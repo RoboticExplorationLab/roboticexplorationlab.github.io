@@ -282,6 +282,13 @@ ibrahima:
     image: /img/people/ibrahima.jpg
     bio: Spacecraft Planning, Control, and Systems
 
+prakrit:
+    display_name: "Prakrit Tyagi"
+    webpage: "https://prakrittyagi.github.io/"
+    github: prakrittyagi
+    role: masters
+    image: /img/people/prakrit.jpg
+    bio: Optimization and Control
 
 aaronT:
     display_name: "Aaron Trowbridge"
