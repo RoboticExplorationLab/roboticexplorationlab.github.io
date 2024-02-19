@@ -369,6 +369,14 @@ elakhya:
     role: masters
     image: /img/people/elakhya.png
     bio: Optimization-based Control
+
+neil:
+    display_name: "Neil Khera"
+    webpage: "https://www.linkedin.com/in/neilkhera/"
+    github: NeilKhera 
+    role: staff
+    image: /img/people/Neil.jpg
+    bio: Small Satellite Hardware and Avionics
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
