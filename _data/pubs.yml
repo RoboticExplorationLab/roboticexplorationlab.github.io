@@ -8,6 +8,14 @@
   projects: [quantum]
   status: Best Paper Award
 
+- title: "Building a Better B-Dot: Fast Detumbling with Non-Monotonic Lyapunov Functions"
+  authors:[jbwillis, paulo, Aleksei Seletskiy, zac]
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  date: 2024-03-02
+  pdf: nonmonotonic_detumbling_ieee24.pdf
+  status: Accepted
+
 - title: "A Massively Parallel Method for Fast Computation of Invariant Manifolds"
   authors: [fausto, Martin Lo, zac, Jon Sims]
   publisher: IEEE Aerospace Conference
