@@ -9,7 +9,7 @@
   status: Best Paper Award
 
 - title: "Building a Better B-Dot: Fast Detumbling with Non-Monotonic Lyapunov Functions"
-  authors:[jbwillis, paulo, Aleksei Seletskiy, zac]
+  authors: [jbwillis, paulo, Aleksei Seletskiy, zac]
   publisher: IEEE Aerospace Conference
   pub-type: conference
   date: 2024-03-02
