@@ -4,7 +4,7 @@ title: Joining
 ---
 
 ### Lab Meetings
-Anyone is welcome to attend our lab meetings, which are currently being held virtually. See the [lab calendar](http://roboticexplorationlab.org/calendar.html) for details.
+Anyone is welcome to attend our lab meetings, which are currently being held in-person (zoom available). See the [lab calendar](http://roboticexplorationlab.org/calendar.html) for details.
 
 ### Prospective Graduate Students
 If you are interested in working in our lab, please apply to one of the [graduate programs offered by the Robotics Institute](https://www.ri.cmu.edu/ri-education/). Please contact Zac after you have been admitted.
