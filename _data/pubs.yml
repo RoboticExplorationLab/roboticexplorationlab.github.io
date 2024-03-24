@@ -1,3 +1,14 @@
+- title: "Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC"
+  authors: [sam, khai, elakhya, Brian Plancher, zac]
+  projects: [tinympc]
+  publisher: Conference on Decision and Control
+  abbrv: CDC
+  pub-type: conference
+  venue: Milan, Italy
+  date: 2024-12-16
+  pdf: tinympc_cdc24.pdf
+  status: In Review
+  
 - title: "Direct Collocation for Quantum Optimal Control"
   authors: [aaronT, Aditya Bhardwaj, Kevin He, David I. Schuster, zac]
   date: 2023-05-05
@@ -50,22 +61,26 @@
   status: In Review
 
 - title: "TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers"
-  authors: [anoushka, khai, sam, Brian Plancher, zac]
+  authors: [khai, sam, anoushka, Brian Plancher, zac]
   projects: [tinympc]
-  publisher: arXiv
+  publisher: International Conference on Robotics and Automation
+  abbrv: ICRA
   pub-type: conference
-  date: 2023-10-25
+  venue: Yokohama, Japan
+  date: 2024-05-15
   pdf: https://arxiv.org/abs/2310.16985
-  status: In Review
+  status: Accepted
 
 - title: "ReLU-QP: A GPU-Accelerated Quadratic Programming Solver for Model-Predictive Control"
   authors: [arun, john, swamig, kevin, zac]
   projects: [relu-qp]
-  publisher: arXiv
+  publisher: International Conference on Robotics and Automation
+  abbrv: ICRA
   pub-type: conference
-  date: 2023-11-29
+  venue: Yokohama, Japan
+  date: 2024-05-15
   pdf: https://arxiv.org/abs/2311.18056
-  status: In Review
+  status: Accepted
 
 - title: "Fast Contact-Implicit Model-Predictive Control"
   authors: [simon, taylor, shuo, chiyen, john, arun, Mac Schwager, zac]
