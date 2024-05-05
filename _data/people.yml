@@ -276,11 +276,12 @@ arun:
 
 ibrahima:
     display_name: "Ibrahima S. Sow"
-    webpage: "https://www.linkedin.com/in/ibrasw/"
+    webpage: "https://ibrassow.github.io/"
     github: Ibrassow 
     role: masters
     image: /img/people/ibrahima.jpg
-    bio: Spacecraft Planning, Navigation, and Control
+    bio: Optimization and Spacecraft Guidance, Navigation, and Control
+
 
 prakrit:
     display_name: "Prakrit Tyagi"
