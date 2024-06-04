@@ -1,4 +1,4 @@
--title: "Contingency-Aware Station-Keeping Control of Halo Orbits"
+- title: "Contingency-Aware Station-Keeping Control of Halo Orbits"
   authors: [fausto, zac, Martin Lo, Ricardo Restrepo]
   publisher: Conference on Decision and Control
   abbrv: CDC
@@ -8,15 +8,15 @@
   pdf: https://arxiv.org/pdf/2405.20458
   status: In Review
 
-# -title: "VINSat: Solving the Lost-in-Space Problem with Visual Inertial Navigation"
-#   authors: [Kyle McCleary, Swaminathan Gurumurthy, Paulo Fisch, Saral Tayal, zac, Brandon Lucia]
-#   publisher: IEEE International Conference on Robotics and Automation
-#   abbrv: ICRA
-#   pub-type: conference
-#   venue: Yokohama, Japan
-#   date: 2024-05-15
-#   pdf: Vinsat.pdf
-#   status: Accepted
+- title: "VINSat: Solving the Lost-in-Space Problem with Visual Inertial Navigation"
+  authors: [Kyle McCleary, Swaminathan Gurumurthy, Paulo Fisch, Saral Tayal, zac, Brandon Lucia]
+  publisher: IEEE International Conference on Robotics and Automation
+  abbrv: ICRA
+  pub-type: conference
+  venue: Yokohama, Japan
+  date: 2024-05-15
+  pdf: Vinsat.pdf
+  status: Accepted
   
 -title: "A Convex Formulation of the Soft-Capture Problem"
   authors: [ibrahima, Geordan Gutow, Howie Choset, zac]
