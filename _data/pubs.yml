@@ -18,7 +18,7 @@
   pdf: Vinsat.pdf
   status: Accepted
   
--title: "A Convex Formulation of the Soft-Capture Problem"
+- title: "A Convex Formulation of the Soft-Capture Problem"
   authors: [ibrahima, Geordan Gutow, Howie Choset, zac]
   projects: [soft_capture]
   publisher: IEEE International Conference on Space Robotics
