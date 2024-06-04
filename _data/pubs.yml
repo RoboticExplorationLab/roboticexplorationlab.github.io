@@ -1,3 +1,13 @@
+- title: "Contingency-Aware Station-Keeping Control of Halo Orbits"
+  authors: [fausto, zac, Martin Lo, Ricardo Restrepo]
+  publisher: Conference on Decision and Control
+  abbrv: CDC
+  pub-type: conference
+  venue: Milan, Italy
+  date: 2024-12-16
+  pdf: https://arxiv.org/pdf/2405.20458
+  status: In Review
+
 -title: "VINSat: Solving the Lost-in-Space Problem with Visual Inertial Navigation"
   authors: [Kyle McCleary, Swaminathan Gurumurthy, Paulo Fisch, Saral Tayal, zac, Brandon Lucia]
   publisher: IEEE International Conference on Robotics and Automation
