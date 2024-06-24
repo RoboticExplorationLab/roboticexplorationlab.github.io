@@ -287,7 +287,7 @@ prakrit:
     display_name: "Prakrit Tyagi"
     webpage: "https://prakrittyagi.github.io/"
     github: prakrittyagi
-    role: masters
+    role: alum
     image: /img/people/prakrit.jpg
     bio: Optimization and Control
 
@@ -351,7 +351,7 @@ tae:
     display_name: "Tae Rugh"
     webpage: "http://www.taerugh.com/"
     github: taerugh
-    role: masters
+    role: alum
     image: /img/people/tae.jpg
     bio: Robotic State Estimation and Control
 
@@ -367,7 +367,7 @@ elakhya:
     display_name: "Elakhya Nedumaran"
     webpage: "https://www.linkedin.com/in/elakhya-nedumaran/ "
     github:  
-    role: masters
+    role: alum
     image: /img/people/elakhya.png
     bio: Optimization-based Control
 
