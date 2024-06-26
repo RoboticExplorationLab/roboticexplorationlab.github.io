@@ -1,3 +1,14 @@
+- title: "From Pixels to Torques with Linear Feedback"
+  authors: [Jeong Hun Lee, Sam Schoedel, Aditya Bhardwaj, Zachary Manchester]
+  projects: [linear_pixels_to_torques]
+  publisher: International Workshop on the Algorithmic Foundations of Robotics
+  abbrv: WAFR
+  pub-type: conference
+  venue: Chicago, IL
+  date: 2024-10-07
+  pdf: linear_pixels_to_torques.pdf
+  status: In Review
+
 - title: "Contingency-Aware Station-Keeping Control of Halo Orbits"
   authors: [fausto, zac, Martin Lo, Ricardo Restrepo]
   publisher: Conference on Decision and Control
