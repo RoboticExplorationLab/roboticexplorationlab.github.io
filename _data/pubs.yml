@@ -1,3 +1,14 @@
+- title: "Differentiable Collision-Free Parametric Corridors"
+  authors: [Jon Arrizabalaga, Zachary Manchester, Markus Ryll]
+  projects: [linear_pixels_to_torques]
+  publisher: International Conf. on Intelligent Robots and Systems
+  abbrv: IROS
+  pub-type: conference
+  venue: Abu Dhabi, UAE
+  date: 2024-10-14
+  pdf: https://arxiv.org/pdf/2407.12283
+  status: Accepted
+  
 - title: "From Pixels to Torques with Linear Feedback"
   authors: [Jeong Hun Lee, Sam Schoedel, Aditya Bhardwaj, Zachary Manchester]
   projects: [linear_pixels_to_torques]
