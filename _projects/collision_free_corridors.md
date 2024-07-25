@@ -9,7 +9,7 @@ people:
   - zac 
 
 layout: project
-image: "img/corrgen.gif"
+image: "/img/corrgen.gif"
 last-updated: 2024-07-24
 ---
 
