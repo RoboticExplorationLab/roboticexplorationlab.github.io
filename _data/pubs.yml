@@ -31,17 +31,17 @@
   status: In Review
 
 - title: "From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers"
-  authors: [Swaminathan Gurumurthy, Karnik Ram, Bingqing Chen, Zachary Manchester, Zico Kolter]
+  authors: [swamig, Karnik Ram, Bingqing Chen, zac, Zico Kolter]
   publisher: Conference on Computer Vision and Pattern Recognition
   abbrv: CVPR
   pub-type: conference
   venue: Seattle, WA
-  date: 2024-6-13
+  date: 2024-06-13
   pdf : https://arxiv.org/abs/2406.07785
   status : Accepted
 
 - title: "VINSat: Solving the Lost-in-Space Problem with Visual Inertial Navigation"
-  authors: [Kyle McCleary, Swaminathan Gurumurthy, Paulo Fisch, Saral Tayal, zac, Brandon Lucia]
+  authors: [Kyle McCleary, swamig, Paulo Fisch, Saral Tayal, zac, Brandon Lucia]
   publisher: IEEE International Conference on Robotics and Automation
   abbrv: ICRA
   pub-type: conference
@@ -187,22 +187,22 @@
   projects: [quad_estimation]
 
 - title: "Deep Off-Policy Iterative Learning Control"
-  authors: [Swaminathan Gurumurthy, Zachary Manchester, Zico Kolter]
+  authors: [swamig, Zico Kolter, zac]
   publisher: Learning for Dynamics and Control Conference
   abbrv: L4DC
   pub-type: conference
   venue: Philadelphia, PA
-  date: 2024-6-14
+  date: 2023-06-14
   pdf : https://proceedings.mlr.press/v211/gurumurthy23b.html
   status : Accepted
 
 - title: "Practical Critic Gradient based Actor Critic for On-Policy Reinforcement Learning"
-  authors: [Swaminathan Gurumurthy, Zachary Manchester, Zico Kolter]
+  authors: [swamig, zac, Zico Kolter]
   publisher: Learning for Dynamics and Control Conference
   abbrv: L4DC
   pub-type: conference
   venue: Philadelphia, PA
-  date: 2024-6-14
+  date: 2023-06-14
   pdf : https://proceedings.mlr.press/v211/gurumurthy23a.html
   status : Accepted
 
