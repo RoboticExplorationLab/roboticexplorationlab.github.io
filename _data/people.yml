@@ -12,7 +12,7 @@ taylor:
     github: thowell
     role: alum
     image: /img/people/taylor.jpg
-    bio: Deepmind
+    bio: Google Deepmind
 
 brian:
     display_name: "Brian Jackson"
