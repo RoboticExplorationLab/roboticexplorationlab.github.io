@@ -12,7 +12,7 @@ taylor:
     github: thowell
     role: alum
     image: /img/people/taylor.jpg
-    bio: Model-predictive Control and Differentiable Simulators for Contact
+    bio: Deepmind
 
 brian:
     display_name: "Brian Jackson"
@@ -59,7 +59,7 @@ laura:
     webpage: "https://www.linkedin.com/in/lauraleeane/"
     role: alum
     image: /img/people/laura.jpg
-    bio: Boston Dynamics
+    bio: Boston Dynamics AI Institute
 
 nathan:
     display_name: "Nathan Kau"
@@ -126,7 +126,7 @@ rianna:
     display_name: "Rianna Jitosho"
     webpage: "http://rjitosho.github.io/"
     github: rjitosho
-    role: phd
+    role: alum
     image: /img/people/rianna.jpeg
     bio: Motion Planning for Soft Robots
 
@@ -136,7 +136,7 @@ suvansh:
     github: suvansh
     role: alum
     image: /img/people/suvansh.jpg
-    bio: Brilliantly
+    bio: OpenAI
     
 bbokser:
     display_name: "Ben Bokser"
@@ -151,9 +151,9 @@ shuo:
     display_name: "Shuo Yang"
     webpage: "https://shuoyangrobotics.github.io/"
     github: ShuoYangRobotics
-    role: phd
+    role: alum
     image: /img/people/shuo.jpg
-    bio: Legged Robots State Estimation, Mapping and Control
+    bio: Tesla Optimus Humanoid
 
 fausto:
     display_name: "Fausto Vega"
@@ -169,7 +169,7 @@ chiyen:
     github: ChiyenLee
     role: alum 
     image: /img/people/chiyen.jpeg 
-    bio: Dextrous Robotics
+    bio: Applied Intuition
     
 alex:
     display_name: "Alexander Bouman"
@@ -222,9 +222,9 @@ sofia:
     display_name: "Sofia Kwok"
     webpage: "https://sites.google.com/view/sofiakwok/"
     github: sofiakwok
-    role: masters
+    role: alum
     image: /img/people/sofia.jpg
-    bio: Bipedal Optimization and Control
+    bio: Starfish Space
 
 zixin:
     display_name: "Zixin Zhang"
@@ -246,15 +246,15 @@ john:
     display_name: "John Zhang"
     webpage: "https://johnzhang3.github.io/"
     github: johnzhang3
-    role: masters
+    role: phd
     image: /img/people/john.jpg
-    bio: Contact-rich Simulation and Control
+    bio: Optimization and Contact Simulation
 
 khai:
     display_name: "Khai Nguyen"
     webpage: "https://xkhainguyen.github.io/"
     github: xkhainguyen
-    role: masters
+    role: alum
     image: /img/people/khai.jpg
     bio: Optimization-based Planning and Control
  
@@ -262,9 +262,9 @@ sam:
     display_name: "Sam Schoedel"
     webpage: "https://samschoedel.com/"
     github: sschoedel
-    role: masters
+    role: alum
     image: /img/people/sam.jpg
-    bio: Optimization-based Planning and Control
+    bio: Apptronik
 
 arun:
     display_name: "Arun Bishop"
@@ -303,9 +303,9 @@ anoushka:
     display_name: "Anoushka Alavilli"
     # webpage: "https://www.linkedin.com/in/ibrasw/"
     # github:  
-    role: alum
+    role: phd
     image: /img/people/Anoushka.jpg
-    bio: NASA Jet Propulsion Laboratory (JPL)
+    bio: Optimization-based Planning and Control
 
 willK:
     display_name: "Will Kraus"
@@ -353,7 +353,7 @@ tae:
     github: taerugh
     role: alum
     image: /img/people/tae.jpg
-    bio: Robotic State Estimation and Control
+    bio: startup
 
 jon_arrizabalaga:
     display_name: "Jon Arrizabalaga"
