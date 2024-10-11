@@ -303,9 +303,9 @@ anoushka:
     display_name: "Anoushka Alavilli"
     # webpage: "https://www.linkedin.com/in/ibrasw/"
     # github:  
-    role: phd
+    role: alum
     image: /img/people/Anoushka.jpg
-    bio: Optimization-based Planning and Control
+    bio: Ph.D. at CMU
 
 willK:
     display_name: "Will Kraus"

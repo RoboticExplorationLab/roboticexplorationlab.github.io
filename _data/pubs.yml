@@ -1,3 +1,19 @@
+- title: "Real-Time Whole-Body Control of Legged Robots with Model-Predictive Path Integral Control"
+  authors: [juan, john, sofia, John M. Dolan, zac]
+  publisher: arXiv
+  pub-type: conference
+  date: 2024-10-11
+  pdf: https://whole-body-mppi.github.io//
+  status: In Review
+
+- title: "Robots with Attitude: Singularity-Free Quaternion-Based Model-Predictive Control for Agile Legged Robots"
+  authors: [zixin, john, shuo, zac]
+  publisher: arXiv
+  pub-type: conference
+  date: 2024-10-11
+  pdf: https://arxiv.org/pdf/2409.09940
+  status: In Review
+
 - title: "Differentiable Collision-Free Parametric Corridors"
   authors: [Jon Arrizabalaga, Zachary Manchester, Markus Ryll]
   projects: [collision_free_corridors]
