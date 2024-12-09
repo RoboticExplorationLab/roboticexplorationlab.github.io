@@ -24,7 +24,18 @@
   date: 2024-10-14
   pdf: https://arxiv.org/pdf/2407.12283
   status: Accepted
-  
+
+- title: "CAPO: Control and Actuator Placement Optimization for Large-Scale Problems with Nonlinear Dynamics"
+  authors: [Mitchell B. Fogelson, Giusy Falcone, Zachary Manchester]
+  projects: [capo]
+  publisher: International Workshop on the Algorithmic Foundations of Robotics
+  abbrv: WAFR
+  pub-type: conference
+  venue: Chicago, IL
+  date: 2024-10-07
+  pdf: CAPO_WAFR_2024.pdf
+  status: Accepted
+
 - title: "From Pixels to Torques with Linear Feedback"
   authors: [Jeong Hun Lee, Sam Schoedel, Aditya Bhardwaj, Zachary Manchester]
   projects: [linear_pixels_to_torques]
