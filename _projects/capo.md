@@ -10,7 +10,7 @@ people:
   - zac
 
 layout: project
-image: "/img/capo/capo_motivation.png"
+image: "/img/capo/Presentation.gif"
 last-updated: 2024-12-09
 ---
 
