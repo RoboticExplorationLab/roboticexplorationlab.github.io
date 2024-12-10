@@ -45,7 +45,7 @@
   venue: Chicago, IL
   date: 2024-10-07
   pdf: linear_pixels_to_torques.pdf
-  status: In Review
+  status: Accepted
 
 - title: "Contingency-Aware Station-Keeping Control of Halo Orbits"
   authors: [fausto, zac, Martin Lo, Ricardo Restrepo]
