@@ -102,9 +102,9 @@ kevin:
     display_name: "Kevin Tracy"
     webpage: "https://www.kevintracy.info"
     github: kevintracy7
-    role: phd
+    role: alum
     image: /img/people/kevin.jpg
-    bio: Optimization and Control
+    bio: Gridmatic
 
 swamig:
     display_name: "Swaminathan Gurumurthy"
@@ -278,9 +278,9 @@ ibrahima:
     display_name: "Ibrahima S. Sow"
     webpage: "https://ibrassow.github.io/"
     github: Ibrassow 
-    role: masters
+    role: alum
     image: /img/people/ibrahima.jpg
-    bio: Optimization and Spacecraft Guidance, Navigation, and Control
+    bio: Tesla
 
 
 prakrit:
@@ -353,7 +353,7 @@ tae:
     github: taerugh
     role: alum
     image: /img/people/tae.jpg
-    bio: startup
+    bio: clippership
 
 jon_arrizabalaga:
     display_name: "Jon Arrizabalaga"
