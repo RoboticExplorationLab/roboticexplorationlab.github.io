@@ -1,3 +1,11 @@
+- title: "On-Orbit Demonstration of Range-Only Navigation for Small Satellite Formations"
+  authors: [ibrahima, max, Jan Stupl, Roger Hunter, zac]
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  date: 2025-03-06
+  pdf: relative_ranging_aero25.pdf
+  status: Accepted
+
 - title: "Real-Time Whole-Body Control of Legged Robots with Model-Predictive Path Integral Control"
   authors: [juan, john, sofia, John M. Dolan, zac]
   publisher: arXiv
@@ -57,6 +65,15 @@
   pdf: https://arxiv.org/pdf/2405.20458
   status: In Review
 
+- title: "The PY4 Mission: A Low-Cost Demonstration of CubeSat Formation-Flying Technologies"
+  authors: [max, Rachel Ticknor, Jan Stupl, Roger Hunter, paulo, ibrahima, jbwillis, zac]
+  date: 2024-08-04
+  pub-type: conference
+  publisher: AIAA/USU Conference on Small Satellites
+  abbrv: SmallSat
+  venue: Logan, Utah
+  pdf: py4_smallsat.pdf
+
 - title: "From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers"
   authors: [swamig, Karnik Ram, Bingqing Chen, zac, Zico Kolter]
   publisher: Conference on Computer Vision and Pattern Recognition
@@ -68,7 +85,7 @@
   status : Accepted
 
 - title: "VINSat: Solving the Lost-in-Space Problem with Visual Inertial Navigation"
-  authors: [Kyle McCleary, swamig, Paulo Fisch, Saral Tayal, zac, Brandon Lucia]
+  authors: [Kyle McCleary, swamig, paulo, saral, zac, Brandon Lucia]
   publisher: IEEE International Conference on Robotics and Automation
   abbrv: ICRA
   pub-type: conference

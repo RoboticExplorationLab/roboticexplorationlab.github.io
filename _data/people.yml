@@ -173,6 +173,7 @@ chiyen:
     
 alex:
     display_name: "Alexander Bouman"
+    webpage: https://www.linkedin.com/in/alexander-bouman-93622629a/
     github: aabouman
     role: alum 
     image: /img/people/chiyen.jpeg 
@@ -250,6 +251,14 @@ john:
     image: /img/people/john.jpg
     bio: Optimization and Contact Simulation
 
+saral:
+    display_name: "Saral Tayal"
+    webpage: "https://www.linkedin.com/in/saraltayal/"
+    github: 
+    role: alum
+    image: 
+    bio: Tesla
+    
 khai:
     display_name: "Khai Nguyen"
     webpage: "https://xkhainguyen.github.io/"
@@ -280,8 +289,7 @@ ibrahima:
     github: Ibrassow 
     role: alum
     image: /img/people/ibrahima.jpg
-    bio: Tesla
-
+    bio: Tesla AI
 
 prakrit:
     display_name: "Prakrit Tyagi"
@@ -301,7 +309,7 @@ aaronT:
 
 anoushka:
     display_name: "Anoushka Alavilli"
-    # webpage: "https://www.linkedin.com/in/ibrasw/"
+    webpage: "https://www.linkedin.com/in/anoushka-alavilli-89586b178/"
     # github:  
     role: alum
     image: /img/people/Anoushka.jpg
@@ -378,6 +386,10 @@ neil:
     role: staff
     image: /img/people/Neil.jpg
     bio: Small Satellite Hardware and Avionics
+
+
+
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
