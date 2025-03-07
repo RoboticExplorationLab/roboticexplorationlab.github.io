@@ -2,7 +2,7 @@
   authors: [john, taylor, Zeji Yi, Chaoyi Pan, Guanya Shi, Quannan Qu, Tom Erez, Yuval Tassa, zac]
   publsiher: arxiv
   pub-type: conference
-  date: 2025-09-01
+  date: 2025-03-07
   pdf: https://arxiv.org/pdf/2410.01939
   projects: [mujoco_mpc]
   status: In Review
