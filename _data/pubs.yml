@@ -4,6 +4,7 @@
   pub-type: conference
   date: 2025-09-01
   pdf: https://arxiv.org/pdf/2410.01939
+  projects: [mujoco_mpc]
   status: In Review
 
 - title: "On-Orbit Demonstration of Range-Only Navigation for Small Satellite Formations"
@@ -21,6 +22,7 @@
   pub-type: conference
   date: 2025-05-19
   pdf: https://arxiv.org/pdf/2409.10469
+  projects: [mujoco_mpc]
   # status: In Review
 
 - title: "Robots with Attitude: Singularity-Free Quaternion-Based Model-Predictive Control for Agile Legged Robots"
