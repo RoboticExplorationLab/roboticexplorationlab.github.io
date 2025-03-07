@@ -1,3 +1,11 @@
+- title: "Whole-Body Model-Predictive Control of Legged Robots with MuJoCo"
+  authors: [john, taylor, Zeji Yi, Chaoyi Pan, Guanya Shi, Quannan Qu, Tom Erez, Yuval Tassa, zac]
+  publsiher: arxiv
+  pub-type: conference
+  date: 2025-09-01
+  pdf: https://arxiv.org/pdf/2410.01939
+  status: In Review
+
 - title: "On-Orbit Demonstration of Range-Only Navigation for Small Satellite Formations"
   authors: [ibrahima, max, Jan Stupl, Roger Hunter, zac]
   publisher: IEEE Aerospace Conference
@@ -8,19 +16,29 @@
 
 - title: "Real-Time Whole-Body Control of Legged Robots with Model-Predictive Path Integral Control"
   authors: [juan, john, sofia, John M. Dolan, zac]
-  publisher: arXiv
+  publisher: IEEE International Conference on Robotics and Automation
+  abbrv: ICRA
   pub-type: conference
-  date: 2024-10-11
-  pdf: https://whole-body-mppi.github.io//
-  status: In Review
+  date: 2025-05-19
+  pdf: https://arxiv.org/pdf/2409.10469
+  # status: In Review
 
 - title: "Robots with Attitude: Singularity-Free Quaternion-Based Model-Predictive Control for Agile Legged Robots"
   authors: [zixin, john, shuo, zac]
-  publisher: arXiv
+  publisher: IEEE International Conference on Robotics and Automation
+  abbrv: ICRA
   pub-type: conference
-  date: 2024-10-11
+  date: 2025-05-19
   pdf: https://arxiv.org/pdf/2409.09940
-  status: In Review
+  # status: In Review
+
+- title: "Wallbounce : Push wall to navigate with Contact-Implicit MPC"
+  authors: [Xiaohan Liu, Cunxi Dai, john, arun, zac, Ralph Hollis]
+  publisher: IEEE International Conference on Robotics and Automation
+  abbrv: ICRA
+  pub-type: conference
+  date: 2025-05-19
+  pdf: https://arxiv.org/pdf/2411.01387
 
 - title: "Differentiable Collision-Free Parametric Corridors"
   authors: [Jon Arrizabalaga, Zachary Manchester, Markus Ryll]
@@ -196,7 +214,7 @@
   publisher: IEEE Transactions on Robotics
   pdf: contact_implicit_mpc_paper.pdf
   projects: [ci_mpc]
-  status: Conditionally Accepted
+  status: Accepted
 
 - title: "SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos"
   authors: [john, shuo, Gengshan Yang, arun, swamig, Deva Ramanan, zac]
