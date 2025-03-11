@@ -3,7 +3,9 @@
   publsiher: IEEE Aerospace Conference
   pub-type: conference
   date: 2025-03-11
+  venue: Big Sky, MT
   pdf: cvx_mpc_solarsailing.pdf
+  projects: [cvx_mpc_stationkeeping]
   status: Accepted
 
 - title: "Contingency-Aware Station-Keeping Control of Halo Orbits"
@@ -11,7 +13,9 @@
   publsiher: IEEE Aerospace Conference
   pub-type: conference
   date: 2025-03-11
+  venue: Big Sky, MT
   pdf: cvx_mpc_stationkeeping.pdf
+  projects: [cvx_mpc_stationkeeping]
   status: Accepted
 
 - title: "Whole-Body Model-Predictive Control of Legged Robots with MuJoCo"
