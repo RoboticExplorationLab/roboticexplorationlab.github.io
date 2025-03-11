@@ -1,6 +1,6 @@
 - title: "A Convex Optimization Approach to Solar Sail Station-Keeping Control in Halo Orbits"
   authors: [fausto, zac, Martin Lo]
-  publsiher: IEEE Aerospace Conference
+  publisher: IEEE Aerospace Conference
   pub-type: conference
   date: 2025-03-11
   venue: Big Sky, MT
@@ -10,7 +10,7 @@
 
 - title: "Contingency-Aware Station-Keeping Control of Halo Orbits"
   authors: [fausto, zac, Martin Lo]
-  publsiher: IEEE Aerospace Conference
+  publisher: IEEE Aerospace Conference
   pub-type: conference
   date: 2025-03-11
   venue: Big Sky, MT
@@ -20,7 +20,7 @@
 
 - title: "Whole-Body Model-Predictive Control of Legged Robots with MuJoCo"
   authors: [john, taylor, Zeji Yi, Chaoyi Pan, Guanya Shi, Quannan Qu, Tom Erez, Yuval Tassa, zac]
-  publsiher: arxiv
+  publisher: arxiv
   pub-type: conference
   date: 2025-03-07
   pdf: https://arxiv.org/pdf/2410.01939
