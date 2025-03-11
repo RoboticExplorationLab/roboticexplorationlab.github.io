@@ -95,16 +95,6 @@
   pdf: linear_pixels_to_torques.pdf
   status: Accepted
 
-- title: "Contingency-Aware Station-Keeping Control of Halo Orbits"
-  authors: [fausto, zac, Martin Lo, Ricardo Restrepo]
-  publisher: Conference on Decision and Control
-  abbrv: CDC
-  pub-type: conference
-  venue: Milan, Italy
-  date: 2024-12-16
-  pdf: https://arxiv.org/pdf/2405.20458
-  status: In Review
-
 - title: "The PY4 Mission: A Low-Cost Demonstration of CubeSat Formation-Flying Technologies"
   authors: [max, Rachel Ticknor, Jan Stupl, Roger Hunter, paulo, ibrahima, jbwillis, zac]
   date: 2024-08-04
