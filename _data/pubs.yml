@@ -1,22 +1,26 @@
 - title: "A Convex Optimization Approach to Solar Sail Station-Keeping Control in Halo Orbits"
   authors: [fausto, zac, Martin Lo]
-  publsiher: IEEE Aerospace Conference
+  publisher: IEEE Aerospace Conference
   pub-type: conference
   date: 2025-03-11
+  venue: Big Sky, MT
   pdf: cvx_mpc_solarsailing.pdf
+  projects: [cvx_mpc_stationkeeping]
   status: Accepted
 
 - title: "Contingency-Aware Station-Keeping Control of Halo Orbits"
   authors: [fausto, zac, Martin Lo]
-  publsiher: IEEE Aerospace Conference
+  publisher: IEEE Aerospace Conference
   pub-type: conference
   date: 2025-03-11
+  venue: Big Sky, MT
   pdf: cvx_mpc_stationkeeping.pdf
+  projects: [cvx_mpc_stationkeeping]
   status: Accepted
 
 - title: "Whole-Body Model-Predictive Control of Legged Robots with MuJoCo"
   authors: [john, taylor, Zeji Yi, Chaoyi Pan, Guanya Shi, Quannan Qu, Tom Erez, Yuval Tassa, zac]
-  publsiher: arxiv
+  publisher: arxiv
   pub-type: conference
   date: 2025-03-07
   pdf: https://arxiv.org/pdf/2503.04613
@@ -94,16 +98,6 @@
   date: 2024-10-07
   pdf: linear_pixels_to_torques.pdf
   status: Accepted
-
-- title: "Contingency-Aware Station-Keeping Control of Halo Orbits"
-  authors: [fausto, zac, Martin Lo, Ricardo Restrepo]
-  publisher: Conference on Decision and Control
-  abbrv: CDC
-  pub-type: conference
-  venue: Milan, Italy
-  date: 2024-12-16
-  pdf: https://arxiv.org/pdf/2405.20458
-  status: In Review
 
 - title: "The PY4 Mission: A Low-Cost Demonstration of CubeSat Formation-Flying Technologies"
   authors: [max, Rachel Ticknor, Jan Stupl, Roger Hunter, paulo, ibrahima, jbwillis, zac]
