@@ -319,9 +319,9 @@ willK:
     display_name: "Will Kraus"
     webpage: "https://willkraus9.github.io/"
     github: willkraus9 
-    role: masters
+    role: alum
     image: /img/people/WillKraus.png
-    bio: Planning and Control for Legged Robots
+    bio: Roboligent
 
 juan:
     display_name: "Juan Alvarez Padilla"
