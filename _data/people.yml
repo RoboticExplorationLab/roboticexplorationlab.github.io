@@ -28,7 +28,7 @@ max:
     github: maholli
     role: alum
     image: /img/people/max.jpg
-    bio: CEO and Co-Founder EarthTraq
+    bio: CEO and Co-Founder at EarthTraq
 
 simon:
     display_name: "Simon Le Cleac'h"
@@ -387,7 +387,13 @@ neil:
     image: /img/people/Neil.jpg
     bio: Small Satellite Hardware and Avionics
 
-
+chase:
+    display_name: "Chase Dunaway"
+    webpage: "https://www.linkedin.com/in/chase-dunaway-bb91612a8/"
+    github: 
+    role: phd
+    image: /img/people/chase.jpg
+    bio: Spacecraft Orbit Determination
 
 
 # grad-a:
