@@ -4,7 +4,7 @@ zac:
     github: zacmanchester
     role: faculty
     image: /img/people/zac.jpg
-    bio: Assistant Professor
+    bio: Associate Professor
 
 taylor:
     display_name: "Taylor Howell"
@@ -12,7 +12,7 @@ taylor:
     github: thowell
     role: alum
     image: /img/people/taylor.jpg
-    bio: Google Deepmind
+    bio: Google DeepMind
 
 brian:
     display_name: "Brian Jackson"
@@ -20,7 +20,7 @@ brian:
     github: bjack205
     role: alum
     image: /img/people/brian.jpg
-    bio: Albedo Space
+    bio: Nvidia
 
 max:
     display_name: "Max Holliday"
@@ -28,7 +28,7 @@ max:
     github: maholli
     role: alum
     image: /img/people/max.jpg
-    bio: NASA Ames
+    bio: CEO and Co-Founder EarthTraq
 
 simon:
     display_name: "Simon Le Cleac'h"
@@ -36,7 +36,7 @@ simon:
     github: simon-lc
     role: alum
     image: /img/people/simon.jpg
-    bio: Boston Dynamics AI Institute
+    bio: RAI Institute
 
 andrew:
     display_name: "Andrew Gatherer"
@@ -52,14 +52,14 @@ jan:
     github: janbruedigam
     role: alum
     image: /img/people/jan.jpg
-    bio: PhD at TU Munich
+    bio: RAI Institute
 
 laura:
     display_name: "Laura Lee"
     webpage: "https://www.linkedin.com/in/lauraleeane/"
     role: alum
     image: /img/people/laura.jpg
-    bio: Boston Dynamics AI Institute
+    bio: RAI Institute
 
 nathan:
     display_name: "Nathan Kau"
@@ -144,7 +144,7 @@ bbokser:
     github: bbokser
     role: alum
     image: /img/people/bbokser.jpg
-    bio: Boston Dynamics AI Institute
+    bio: RAI Institute
 
 
 shuo:
@@ -153,7 +153,7 @@ shuo:
     github: ShuoYangRobotics
     role: alum
     image: /img/people/shuo.jpg
-    bio: Tesla Optimus Humanoid
+    bio: Founder and CTO at Mondo Technology
 
 fausto:
     display_name: "Fausto Vega"
@@ -185,7 +185,7 @@ brandon:
     github: BrandonHung343
     role: alum
     image: /img/people/brandonhung.jpg 
-    bio: Boston Dynamics AI Institute
+    bio: RAI Institute
 
 jbwillis:
     display_name: "Jacob Willis"
@@ -215,9 +215,9 @@ mitch:
     display_name: "Mitchell Fogelson"
     webpage: "https://www.mitchellfogelson.com"
     github: mfogelson
-    role: phd
+    role: alum
     image: /img/people/mitch.png
-    bio: Design and Control Optimization
+    bio: Founder at Beyond Reach Labs
 
 sofia:
     display_name: "Sofia Kwok"
@@ -249,7 +249,7 @@ john:
     github: johnzhang3
     role: phd
     image: /img/people/john.jpg
-    bio: Optimization and Contact Simulation
+    bio: GPU Accelerated Optmization and Control through Contact
 
 saral:
     display_name: "Saral Tayal"
@@ -265,7 +265,7 @@ khai:
     github: xkhainguyen
     role: alum
     image: /img/people/khai.jpg
-    bio: Optimization-based Planning and Control
+    bio: PhD at MIT
  
 sam:
     display_name: "Sam Schoedel"
@@ -343,7 +343,7 @@ ashley:
     display_name: "Ashley Kline"
     webpage: "https://www.linkedin.com/in/ankline/"
     github:  
-    role: masters
+    role: alum
     image: /img/people/ashley.jpeg
     bio: Small Spacecraft Design and Navigation
 
