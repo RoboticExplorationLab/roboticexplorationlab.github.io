@@ -5,7 +5,7 @@
   date: 2025-09-30
   venue: Seoul, South Korea
   pdf: linear_walking.pdf
-  # projects: [cvx_mpc_stationkeeping]
+  projects: [linear_walking]
   status: Accepted
 
 - title: "A Convex Optimization Approach to Solar Sail Station-Keeping Control in Halo Orbits"
