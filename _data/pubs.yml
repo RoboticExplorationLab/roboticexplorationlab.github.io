@@ -1,3 +1,13 @@
+- title: "The Surprising Effectiveness of Linear Models for Whole-Body Model-Predictive Control"
+  authors: [arun, juan, sam, ibrahima, Juee Chandrachud, Sheitej Sharma, willK, Beomyeong Park, Robert J. Griffin, John M. Dolan, zac]
+  publisher: IEEE Humanoids.
+  pub-type: conference
+  date: 2025-09-30
+  venue: Seoul, South Korea
+  pdf: linear_walking.pdf
+  # projects: [cvx_mpc_stationkeeping]
+  status: Accepted
+
 - title: "A Convex Optimization Approach to Solar Sail Station-Keeping Control in Halo Orbits"
   authors: [fausto, zac, Martin Lo]
   publisher: IEEE Aerospace Conference
