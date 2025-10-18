@@ -1,3 +1,12 @@
+
+- title: "The Trajectory Bundle Method: Unifying Sequential-Convex Programming and Sampling-Based Trajectory Optimization"
+  authors: [kevin, john, jon_arrizabalaga, Stefan Schaal, Yuval Tassa, Tom Erez, zac]
+  publisher: arXiv
+  pub-type: conference
+  date: 2025-09-30
+  pdf: https://arxiv.org/pdf/2509.26575
+  status: In Review
+
 - title: "The Surprising Effectiveness of Linear Models for Whole-Body Model-Predictive Control"
   authors: [arun, juan, sam, ibrahima, Juee Chandrachud, Sheitej Sharma, willK, Beomyeong Park, Robert J. Griffin, John M. Dolan, zac]
   publisher: IEEE Humanoids.
