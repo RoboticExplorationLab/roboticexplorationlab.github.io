@@ -19,7 +19,7 @@ roles:
   - key: staff
     name: Staff
   - key: postdoc
-    name: Researchers
+    name: Postdocs
   - key: phd
     name: PhD Students
   - key: masters

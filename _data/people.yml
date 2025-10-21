@@ -160,8 +160,8 @@ fausto:
     webpage: "https://www.linkedin.com/in/fausto-vega/"
     github: vegaf1
     role: phd
-    image: /img/people/fausto.jpg
-    bio: Small Spacecraft and Navigation
+    image: /img/people/faustovega.jpeg
+    bio: Convex Optimization for Mission Design
 
 chiyen:
     display_name: "Chiyen Lee"
@@ -369,7 +369,7 @@ jon_arrizabalaga:
     github:  
     role: postdoc
     image: /img/people/jonarrizabalaga.jpg
-    bio: Differential Geometry, Optimization and Control
+    bio: Optimization and Control
 
 elakhya:
     display_name: "Elakhya Nedumaran"
