@@ -1,4 +1,14 @@
 
+- title: "Convex Maneuver Planning for Spacecraft Collision Avoidance"
+  authors: [fausto, jon_arrizabalaga, Ryan Watson, zac]
+  publisher: International Conference on Space Robotics
+  pub-type: conference
+  date: 2025-12-1
+  venue: Sendai, Japan
+  pdf: convex_cola_maneuvers.pdf
+  projects: [cvx_cola]
+  status: Accepted
+
 - title: "The Trajectory Bundle Method: Unifying Sequential-Convex Programming and Sampling-Based Trajectory Optimization"
   authors: [kevin, john, jon_arrizabalaga, Stefan Schaal, Yuval Tassa, Tom Erez, zac]
   publisher: arXiv
