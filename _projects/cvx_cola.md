@@ -11,7 +11,7 @@ people:
 
 layout: project
 image: "/img/spacecraft_cola.png"
-last-updated: 2025-12-1
+last-updated: 2025-12-01
 ---
 
 Conjunction analysis and maneuver planning for spacecraft collision avoidance remains a manual and time-consuming process, typically involving repeated forward simulations of hand-designed maneuvers. With the growing density of satellites in low-Earth orbit (LEO), autonomy is becoming essential for efficiently evaluating and mitigating collisions. 
