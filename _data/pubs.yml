@@ -63,7 +63,7 @@
   pub-type: conference
   date: 2025-05-19
   pdf: https://arxiv.org/pdf/2409.10469
-  projects: [mujoco_mpc]
+  projects: [wholebody_mppi]
   # status: In Review
 
 - title: "Robots with Attitude: Singularity-Free Quaternion-Based Model-Predictive Control for Agile Legged Robots"
