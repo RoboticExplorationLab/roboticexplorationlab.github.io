@@ -15,6 +15,7 @@
   pub-type: conference
   date: 2025-09-30
   pdf: https://arxiv.org/pdf/2509.26575
+  projects: [trajectory_bundle]
   status: In Review
 
 - title: "The Surprising Effectiveness of Linear Models for Whole-Body Model-Predictive Control"
