@@ -394,6 +394,13 @@ chase:
     image: /img/people/chase.jpg
     bio: Spacecraft Orbit Determination
 
+micah:
+    display_name: "Micah Reich"
+    webpage: "https://www.linkedin.com/in/micah-reich/"
+    github: micahreich
+    role: masters
+    image: /img/people/micah.png
+    bio: Optimization and Control
 
 # grad-a:
 #     display_name: "Grad A"
