@@ -368,6 +368,14 @@
   venue: Big Sky, MT
   pdf: ks_relative.pdf
 
+- title: "A Low-Communication Distributed State-Estimation Framework for Satellite Formations"
+  authors: [Rafael Cordeiro, Joao Gomes, Rodrigo Ventura, zac]
+  date: 2023-03-04
+  publisher: IEEE Aerospace Conference.
+  pub-type: conference
+  venue: Big Sky, MT
+  pdf: State_Estimation_for_Satellite_Formations.pdf
+
 - title: "Robust Entry Guidance with Atmospheric Adaptation"
   authors: [kevin, Giusy Falcone, zac]
   date: 2023-01-23
