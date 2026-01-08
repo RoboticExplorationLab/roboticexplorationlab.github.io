@@ -402,6 +402,14 @@ micah:
     image: /img/people/micah.png
     bio: Optimization and Control
 
+junzhe:
+    display_name: "Junzhe Hu"
+    webpage: "https://www.linkedin.com/in/junzhe-hu"
+    github: CMU-RI-JZ
+    role: masters
+    image: /img/people/junzhe.jpg
+    bio: Swimming Hardware Design and Optimization
+
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
