@@ -375,7 +375,7 @@ patrick_mckeen:
     webpage: "https://www.linkedin.com/in/pcmckeen/"
     github:
     role: postdoc
-    image:
+    image: /img/people/patrick.jpg
 
 elakhya:
     display_name: "Elakhya Nedumaran"
