@@ -215,7 +215,7 @@ mitch:
     github: mfogelson
     role: alum
     image: /img/people/mitch.png
-    bio: Ph.D. in Mechanical Engineering, CMU. Now at Co-Founder and CEO at Beyond Reach Labs.
+    bio: Ph.D. in MechE, CMU. Now at Co-Founder and CEO at Beyond Reach Labs.
 
 sofia:
     display_name: "Sofia Kwok"
@@ -239,7 +239,7 @@ giusy:
     github: gfalcon2
     role: alum
     image: /img/people/giusy.jpg
-    bio: Postdoc. Now at Assistant Professor at University of Michigan.
+    bio: Postdoc, CMU. Now at Assistant Professor at University of Michigan.
 
 john:
     display_name: "John Zhang"
@@ -247,7 +247,7 @@ john:
     github: johnzhang3
     role: phd
     image: /img/people/john.jpg
-    bio: Optimization, Control, and Computing
+    bio: Optimization, Control, and Robotics
 
 saral:
     display_name: "Saral Tayal"
