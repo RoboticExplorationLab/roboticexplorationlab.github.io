@@ -370,6 +370,13 @@ jon_arrizabalaga:
     image: /img/people/jonarrizabalaga.jpg
     bio: Optimization and Control
 
+patrick_mckeen:
+    display_name: "Patrick McKeen"
+    webpage: "https://www.linkedin.com/in/pcmckeen/"
+    github:
+    role: postdoc
+    image:
+
 elakhya:
     display_name: "Elakhya Nedumaran"
     webpage: "https://www.linkedin.com/in/elakhya-nedumaran/ "
