@@ -12,7 +12,7 @@ taylor:
     github: thowell
     role: alum
     image: /img/people/taylor.jpg
-    bio: Google DeepMind
+    bio: Ph.D. in MechE, Stanford. Now at Google DeepMind.
 
 brian:
     display_name: "Brian Jackson"
@@ -20,7 +20,7 @@ brian:
     github: bjack205
     role: alum
     image: /img/people/brian.jpg
-    bio: Nvidia
+    bio: Ph.D. in Robotics, CMU. Now at Nvidia.
 
 max:
     display_name: "Max Holliday"
@@ -28,7 +28,7 @@ max:
     github: maholli
     role: alum
     image: /img/people/max.jpg
-    bio: CEO and Co-Founder at EarthTraq
+    bio: Ph.D. in MSE, Stanford. Now at CEO and Co-Founder at EarthTraq.
 
 simon:
     display_name: "Simon Le Cleac'h"
@@ -36,7 +36,7 @@ simon:
     github: simon-lc
     role: alum
     image: /img/people/simon.jpg
-    bio: RAI Institute
+    bio: Ph.D. in MechE, Stanford. Now at RAI Institute.
 
 andrew:
     display_name: "Andrew Gatherer"
@@ -44,7 +44,7 @@ andrew:
     github: GathererA
     role: alum
     image: /img/people/andrew.jpg
-    bio: SpaceX
+    bio: M.S in AeroAstro, Stanford. Now at SpaceX.
 
 jan:
     display_name: "Jan Bruedigam"
@@ -52,35 +52,35 @@ jan:
     github: janbruedigam
     role: alum
     image: /img/people/jan.jpg
-    bio: RAI Institute
+    bio: M.S. Visitor, Stanford. Now at RAI Institute.
 
 laura:
     display_name: "Laura Lee"
     webpage: "https://www.linkedin.com/in/lauraleeane/"
     role: alum
     image: /img/people/laura.jpg
-    bio: RAI Institute
+    bio: M.S. in MechE, Stanford. Now at RAI Institute.
 
 nathan:
     display_name: "Nathan Kau"
     webpage: "https://nathankau.com/"
     role: ugrad-alum
     image: /img/people/nathankau.jpg
-    bio: Woven Planet 
+    bio: Undergraduate, Stanford. Now at Woven Planet.
 
 tarun:
     display_name: "Tarun Punnoose"
     webpage: "https://punnoo.se/"
     role: ugrad-alum
     image: /img/people/tarun.jpg
-    bio: Waymo
+    bio: Undergraduate, Stanford. Now at Waymo.
 
 aaron:
     display_name: "Aaron Schultz"
     webpage: "https://www.linkedin.com/in/aaron-s-a4aa2685/"
     role: ugrad-alum
     image: /img/people/aaron.jpg
-    bio: Dexterity
+    bio: Undergraduate, Stanford. Now at Dexterity.
 
 remy:
     display_name: "Remy Derollez"
@@ -88,7 +88,7 @@ remy:
     github: Derollez
     role: alum
     image: /img/people/remy.jpg
-    bio: Loft Orbital
+    bio: M.S. in AeroAstro, Stanford. Now at Orbitworks.
 
 jared:
     display_name: "Jared Blanchard"
@@ -96,7 +96,7 @@ jared:
     github: jared711
     role: alum
     image: /img/people/jared.jpg
-    bio: PhD at Stanford
+    bio: M.S. in AeroAstro, Stanford. Now at Aerospace Corporation.
 
 kevin:
     display_name: "Kevin Tracy"
@@ -104,7 +104,7 @@ kevin:
     github: kevintracy7
     role: alum
     image: /img/people/kevin.jpg
-    bio: Gridmatic
+    bio: M.S. in MechE, Stanford, Ph.D. in Robotics, CMU. Now at Gridmatic.
 
 swamig:
     display_name: "Swaminathan Gurumurthy"
@@ -112,7 +112,7 @@ swamig:
     github: swami1995
     role: alum
     image: /img/people/swamig.png
-    bio: Google DeepMind
+    bio: Ph.D. in Robotics, CMU. Now at Google DeepMind.
 
 benj:
     display_name: "Benjamin Jensen"
@@ -120,7 +120,7 @@ benj:
     github: benjjensen
     role: alum
     image: /img/people/benj.jpg
-    bio: Johns Hopkins APL 
+    bio: M.S. in Robotics, CMU. Now at Johns Hopkins APL.
     
 rianna:
     display_name: "Rianna Jitosho"
@@ -128,7 +128,7 @@ rianna:
     github: rjitosho
     role: alum
     image: /img/people/rianna.jpeg
-    bio: Motion Planning for Soft Robots
+    bio: Ph.D. in MechE, Stanford. Now at Intuitive.
 
 suvansh:
     display_name: "Suvansh Sanjeev"
@@ -136,15 +136,14 @@ suvansh:
     github: suvansh
     role: alum
     image: /img/people/suvansh.jpg
-    bio: OpenAI
-    
+    bio: M.S. in Robotics, CMU. Now at OpenAI.
 bbokser:
     display_name: "Ben Bokser"
     webpage: "https://benbokser.com"
     github: bbokser
     role: alum
     image: /img/people/bbokser.jpg
-    bio: RAI Institute
+    bio: M.S. in MechE, CMU. Now at RAI Institute.
 
 shuo:
     display_name: "Shuo Yang"
@@ -152,7 +151,7 @@ shuo:
     github: ShuoYangRobotics
     role: alum
     image: /img/people/shuo.jpg
-    bio: Founder and CTO at Mondo Technology
+    bio: Ph.D. in MechE, CMU. Now at Founder and CTO at Mondo Technology.
 
 fausto:
     display_name: "Fausto Vega"
@@ -168,7 +167,7 @@ chiyen:
     github: ChiyenLee
     role: alum 
     image: /img/people/chiyen.jpeg 
-    bio: Applied Intuition
+    bio: M.S. in Robotics, CMU. Now at Applied Intuition.
     
 alex:
     display_name: "Alexander Bouman"
@@ -176,7 +175,7 @@ alex:
     github: aabouman
     role: alum 
     image: /img/people/chiyen.jpeg 
-    bio: Dextrous Robotics
+    bio: M.S. in MechE, CMU. Now at Neo Cybernetica.
 
 brandon:
     display_name: "Brandon Hung"
@@ -184,7 +183,7 @@ brandon:
     github: BrandonHung343
     role: alum
     image: /img/people/brandonhung.jpg 
-    bio: RAI Institute
+    bio: M.S. in ECE, CMU. Now at RAI Institute.
 
 jbwillis:
     display_name: "Jacob Willis"
@@ -192,7 +191,7 @@ jbwillis:
     github: jbwillis
     role: alum
     image: /img/people/jacobwillis.jpg
-    bio: Albedo Space
+    bio: M.S. in Robotics, CMU. Now at Albedo Space.
 
 jj:
     display_name: "Jeong Hun (JJ) Lee"
@@ -208,7 +207,7 @@ paulo:
     github: Pfisch23
     role: alum
     image: /img/people/Paulo2.jpeg
-    bio: Efficient Compute
+    bio: Ph.D. in Robotics, CMU. Now at Efficient Compute.
 
 mitch:
     display_name: "Mitchell Fogelson"
@@ -216,7 +215,7 @@ mitch:
     github: mfogelson
     role: alum
     image: /img/people/mitch.png
-    bio: Founder at Beyond Reach Labs
+    bio: Ph.D. in Mechanical Engineering, CMU. Now at Co-Founder and CEO at Beyond Reach Labs.
 
 sofia:
     display_name: "Sofia Kwok"
@@ -224,7 +223,7 @@ sofia:
     github: sofiakwok
     role: alum
     image: /img/people/sofia.jpg
-    bio: Starfish Space
+    bio: M.S. in Robotics, CMU. Now at Starfish Space.
 
 zixin:
     display_name: "Zixin Zhang"
@@ -232,7 +231,7 @@ zixin:
     github: Atom990
     role: alum
     image: /img/people/zixin.jpg
-    bio: PhD at Northwestern University
+    bio: M.S. in MechE, CMU. Now at PhD at Northwestern University.
     
 giusy:
     display_name: "Giusy Falcone"
@@ -240,7 +239,7 @@ giusy:
     github: gfalcon2
     role: alum
     image: /img/people/giusy.jpg
-    bio: Assistant Professor at University of Michigan
+    bio: Postdoc. Now at Assistant Professor at University of Michigan.
 
 john:
     display_name: "John Zhang"
@@ -248,7 +247,7 @@ john:
     github: johnzhang3
     role: phd
     image: /img/people/john.jpg
-    bio: GPU Accelerated Optmization and Control through Contact
+    bio: Optimization, Control, and Computing
 
 saral:
     display_name: "Saral Tayal"
@@ -256,7 +255,7 @@ saral:
     github: 
     role: alum
     image: 
-    bio: Tesla
+    bio: M.S. in ECE, CMU. Now at Tesla.
     
 khai:
     display_name: "Khai Nguyen"
@@ -264,7 +263,7 @@ khai:
     github: xkhainguyen
     role: alum
     image: /img/people/khai.jpg
-    bio: PhD at MIT
+    bio: M.S. in MechE, CMU. Now at PhD at MIT.
  
 sam:
     display_name: "Sam Schoedel"
@@ -272,7 +271,7 @@ sam:
     github: sschoedel
     role: alum
     image: /img/people/sam.jpg
-    bio: Apptronik
+    bio: M.S. in Robotics, CMU. Now at Apptronik.
 
 arun:
     display_name: "Arun Bishop"
@@ -288,7 +287,7 @@ ibrahima:
     github: Ibrassow 
     role: alum
     image: /img/people/ibrahima.jpg
-    bio: Tesla AI
+    bio: M.S. in MechE, CMU. Now at Tesla AI.
 
 prakrit:
     display_name: "Prakrit Tyagi"
@@ -296,7 +295,7 @@ prakrit:
     github: prakrittyagi
     role: alum
     image: /img/people/prakrit.jpg
-    bio: Optimization and Control
+    bio: M.S. in MechE, CMU.
 
 aaronT:
     display_name: "Aaron Trowbridge"
@@ -312,7 +311,7 @@ anoushka:
     # github:  
     role: alum
     image: /img/people/Anoushka.jpg
-    bio: Ph.D. at CMU
+    bio: M.S. in ECE, CMU. Now at Ph.D. at CMU.
 
 willK:
     display_name: "Will Kraus"
@@ -320,7 +319,7 @@ willK:
     github: willkraus9 
     role: alum
     image: /img/people/WillKraus.png
-    bio: Roboligent
+    bio: M.S. in MechE, CMU. Now at Roboligent.
 
 juan:
     display_name: "Juan Alvarez Padilla"
@@ -336,7 +335,7 @@ pedro:
     github:  
     role: alum
     image: /img/people/pedro.jpg
-    bio: Small Satellite Avionics and Control
+    bio: M.S. Visitor, CMU. Now at Small Satellite Avionics and Control.
 
 ashley:
     display_name: "Ashley Kline"
@@ -344,8 +343,7 @@ ashley:
     github:  
     role: alum
     image: /img/people/ashley.jpeg
-    bio: Small Spacecraft Design and Navigation
-
+    bio: M.S. in MechE, CMU. 
 pedro2:
     display_name: "Pedro Cachim"
     webpage: "https://www.linkedin.com/in/pedro-rocha-cachim/"
@@ -360,7 +358,7 @@ tae:
     github: taerugh
     role: alum
     image: /img/people/tae.jpg
-    bio: clippership
+    bio: M.S. in MechE, CMU. Now at Boston Dynamics.
 
 jon_arrizabalaga:
     display_name: "Jon Arrizabalaga"
@@ -376,6 +374,7 @@ patrick_mckeen:
     github:
     role: postdoc
     image: /img/people/patrick.jpg
+    bio: Optimization-Enabled Systems and Spacecraft ADCS
 
 elakhya:
     display_name: "Elakhya Nedumaran"
@@ -383,7 +382,7 @@ elakhya:
     github:  
     role: alum
     image: /img/people/elakhya.png
-    bio: Optimization-based Control
+    bio: M.S. in ECE, CMU. Now at ASML.
 
 neil:
     display_name: "Neil Khera"
