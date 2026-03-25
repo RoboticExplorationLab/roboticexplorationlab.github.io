@@ -16,10 +16,12 @@ permalink: /blog/:year/:month/:day/:title.html
 roles:
   - key: faculty
     name: Faculty
-  - key: staff
-    name: Staff
   - key: postdoc
     name: Postdocs
+  - key: visitor
+    name: Visitors
+  - key: staff
+    name: Staff
   - key: phd
     name: PhD Students
   - key: masters

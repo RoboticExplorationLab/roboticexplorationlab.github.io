@@ -376,6 +376,14 @@ patrick_mckeen:
     image: /img/people/patrick.jpg
     bio: Optimization-Enabled Systems and Spacecraft ADCS
 
+joris:
+    display_name: "Joris Verhagen"
+    webpage:
+    github:
+    role: visitor
+    image: /img/people/joris.jpeg
+    bio: Continuous and discrete optimization for temporal logic planning
+
 elakhya:
     display_name: "Elakhya Nedumaran"
     webpage: "https://www.linkedin.com/in/elakhya-nedumaran/ "
