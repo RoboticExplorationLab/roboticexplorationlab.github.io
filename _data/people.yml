@@ -378,7 +378,7 @@ patrick_mckeen:
 
 joris:
     display_name: "Joris Verhagen"
-    webpage:
+    webpage: https://www.jorisverhagen.com/
     github:
     role: visitor
     image: /img/people/joris.jpeg
