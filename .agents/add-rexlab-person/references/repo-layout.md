@@ -14,6 +14,8 @@ Current People page order:
 - No-picture groups: `collab`, `ugrad-alum`
 - No-picture groups: `alum`
 
+Treat those role keys as the normal existing roles. Only ask for new-role placement details if the provided role is not already in this list or in `_config.yml`.
+
 Expected person fields:
 
 - `display_name`
@@ -28,4 +30,6 @@ Conventions:
 - Use lowercase keys with digits, underscores, or hyphens.
 - Keep image paths repo-relative, usually `/img/people/<filename>`.
 - Match existing indentation: 4 spaces in YAML content blocks.
+- `webpage` and `github` are optional.
+- Before asking the user for an image path, check changed and untracked files under `img/people/` for a plausible matching filename.
 - For new roles, add the heading to `_config.yml` and insert the role into the correct list in `people.html`.

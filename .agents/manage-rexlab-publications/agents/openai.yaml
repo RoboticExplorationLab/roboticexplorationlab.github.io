@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manage REx Lab Publications"
+  short_description: "Add/update pubs and linked project pages"
+  default_prompt: "Use $manage-rexlab-publications to add or update a publication on the Robotic Exploration Lab website."

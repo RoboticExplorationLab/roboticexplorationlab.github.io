@@ -17,21 +17,23 @@ Always require:
 - `bio`
 - `image`
 
-Conditionally require for a new role:
+Conditionally require only when the provided role is not already present in `_config.yml` or `people.html`:
 
 - `role-label`
 - `insert-after-role`
 - `group`
 
-If any required information is missing, ask a concise clarifying follow-up before running the script. Ask only for the missing fields, bundle them into one short question when possible, and keep following up until all required information is present. Do not invent placeholder bios, keys, image paths, or role placement details.
+If any required information is missing, ask a concise clarifying follow-up before running the script. Ask only for the missing fields, bundle them into one short question when possible, and keep following up until all required information is present. `webpage` and `github` are optional and should not block the workflow. Before asking for an image path, first check repo changes for a plausible new file under `img/people/`. Do not proactively ask whether the role is brand new; first check the repo's existing roles. Do not invent placeholder bios, keys, image paths, or role placement details.
 
 ## Workflow
 
 1. Confirm the repo root contains `_data/people.yml`, `_config.yml`, and `people.html`.
-2. Gather the required fields, then collect optional `webpage` and `github` values if they exist.
-3. If the role is brand new, also gather `role-label`, `insert-after-role`, and `group`.
-4. If the image is not already in the repo, provide a source file path and let the script copy it into place.
-5. Run:
+2. Gather the required fields, then collect optional `webpage` and `github` values if they exist. Do not block on either one.
+3. Only if the provided role is missing from the repo's existing roles, gather `role-label`, `insert-after-role`, and `group`.
+4. Check repo changes before asking for image information. Inspect changed and untracked files under `img/people/`.
+5. If there is a plausible changed image whose basename matches the person's name or key, use that repo-relative path.
+6. Otherwise, ask the user to add a profile photo under `img/people/` and tell you the filename or path.
+7. Run:
 
 ```bash
 python3 .agents/add-rexlab-person/scripts/upsert_person.py \
@@ -43,9 +45,9 @@ python3 .agents/add-rexlab-person/scripts/upsert_person.py \
   --image /img/people/joris.jpeg
 ```
 
-6. If the role is new, also pass `--role-label`, `--insert-after-role`, and `--group`.
-7. New people must be appended at the bottom of `_data/people.yml`; existing people should be updated in place.
-8. Review the diff to make sure only the intended person block and role placement changed.
+8. If the role is not already present in the repo, also pass `--role-label`, `--insert-after-role`, and `--group`.
+9. New people must be appended at the bottom of `_data/people.yml`; existing people should be updated in place.
+10. Review the diff to make sure only the intended person block and role placement changed.
 
 ## Validation
 

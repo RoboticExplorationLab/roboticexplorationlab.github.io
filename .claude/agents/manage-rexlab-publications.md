@@ -1,0 +1,1 @@
+../../.agents/manage-rexlab-publications/claude-agent.md
