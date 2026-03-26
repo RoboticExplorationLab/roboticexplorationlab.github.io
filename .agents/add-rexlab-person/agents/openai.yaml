@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add REx Lab Person"
+  short_description: "Add or update people on the REx Lab site"
+  default_prompt: "Use $add-rexlab-person to add or update a person on the Robotic Exploration Lab website."
