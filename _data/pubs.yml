@@ -1,4 +1,13 @@
 
+- title: "Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation"
+  authors: [john, Maks Sorokin, jan, brandon, Stephen Phillips, Dmitry Yershov, Farzad Niroui, Tong Zhao, Leonor Fermoselle, Xinghao Zhu, Chao Cao, Duy Ta, Tao Pang, Jiuguang Wang, Preston Culbertson, zac, simon]
+  publisher: arXiv
+  pub-type: conference
+  date: 2026-04-09
+  pdf: https://arxiv.org/pdf/2604.08508
+  projects: [sumo]
+  status: In Review
+
 - title: "Convex Maneuver Planning for Spacecraft Collision Avoidance"
   authors: [fausto, jon_arrizabalaga, Ryan Watson, zac]
   publisher: International Conference on Space Robotics
