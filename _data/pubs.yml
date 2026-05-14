@@ -1,4 +1,28 @@
 
+- title: "A Lyapunov-Based Magnetorquer-Only Sun-Pointing Controller"
+  authors: [paulo, pedro2, max, Rodrigo Ventura, Pedro Lourenço, zac]
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  date: 2026-03-07
+  venue: Big Sky, MT
+  pdf: Sun_pointing_attitude_control_paper.pdf
+
+- title: "Near Real-Time Georectification of Satellite Imagery for Insights"
+  authors: [paulo, Ravi Nallapu, Punjarjay Chakravarty, Kiruthika Devaraj, zac]
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  date: 2026-03-07
+  venue: Big Sky, MT
+  pdf: IEEE_Aero_2026_PF_geoloc_paper.pdf
+
+- title: "Autonomous Visual-Inertial Navigation for Networked Satellites"
+  authors: [Frederik Markus, zac]
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  date: 2026-03-07
+  venue: Big Sky, MT
+  pdf: Multi_sat_Paper.pdf
+
 - title: "Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation"
   authors: [john, Maks Sorokin, jan, brandon, Stephen Phillips, Dmitry Yershov, Farzad Niroui, Tong Zhao, Leonor Fermoselle, Xinghao Zhu, Chao Cao, Duy Ta, Tao Pang, Jiuguang Wang, Preston Culbertson, zac, simon]
   publisher: arXiv
@@ -64,7 +88,7 @@
   pub-type: conference
   date: 2025-03-11
   venue: Big Sky, MT
-  pdf: https://ieeexplore.ieee.org/document/11068443
+  pdf: IEEE_Aerospace_2025_v1.pdf
 
 - title: "PHODCOS: Pythagorean Hodograph-based Differentiable Coordinate System"
   authors: [jon_arrizabalaga, fausto, Zbyněk Šír, zac, Markus Ryll]
