@@ -50,6 +50,39 @@
   projects: [linear_walking]
   status: Accepted
 
+- title: "Optimal Attitude Control of Large Flexible Space Structures with Distributed Momentum Actuators"
+  authors: [pedro2, Will Kraus, Pedro Lourenço, Rodrigo Ventura, zac]
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  date: 2025-03-11
+  venue: Big Sky, MT
+  pdf: IEEE_Aero_FullSim.pdf
+
+- title: "Small Satellite Mission Design for Robotic Assembly and Reconfiguration of Mechanical Metamaterials"
+  authors: [ashley, Frank Regal, Colin Hoang, zac, Olivia Formoso, Kenneth Cheung]
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  date: 2025-03-11
+  venue: Big Sky, MT
+  pdf: https://ieeexplore.ieee.org/document/11068443
+
+- title: "PHODCOS: Pythagorean Hodograph-based Differentiable Coordinate System"
+  authors: [jon_arrizabalaga, fausto, Zbyněk Šír, zac, Markus Ryll]
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  date: 2025-03-11
+  venue: Big Sky, MT
+  pdf: https://ieeexplore.ieee.org/document/11068489
+
+- title: "Data-Driven Physics-Based Digital Twin for Linkage Analysis"
+  authors: [mitch, zac]
+  publisher: IEEE Aerospace Conference
+  pub-type: conference
+  date: 2025-03-11
+  venue: Big Sky, MT
+  pdf: Data_Driven_Physics_Based_Digital_Twin_for_Linkage_Analysis.pdf
+  projects: [herds]
+
 - title: "A Convex Optimization Approach to Solar Sail Station-Keeping Control in Halo Orbits"
   authors: [fausto, zac, Martin Lo]
   publisher: IEEE Aerospace Conference
