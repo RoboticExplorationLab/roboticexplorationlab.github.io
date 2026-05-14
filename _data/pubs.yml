@@ -29,6 +29,17 @@
   projects: [trajectory_bundle]
   status: Accepted
 
+- title: "Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC"
+  authors: [Ishaan Mahajan, khai, sam, elakhya, Moises Mata, Brian Plancher, zac]
+  publisher: IEEE International Conference on Robotics and Automation
+  abbrv: ICRA
+  pub-type: conference
+  date: 2026-06-01
+  venue: Vienna, Austria
+  pdf: https://arxiv.org/pdf/2403.18149
+  projects: [tinympc]
+  status: Accepted
+
 - title: "The Surprising Effectiveness of Linear Models for Whole-Body Model-Predictive Control"
   authors: [arun, juan, sam, ibrahima, Juee Chandrachud, Sheitej Sharma, willK, Beomyeong Park, Robert J. Griffin, John M. Dolan, zac]
   publisher: IEEE Humanoids.
