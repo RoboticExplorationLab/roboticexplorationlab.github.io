@@ -57,10 +57,14 @@ navigation:
     link: /research.html
   - title: Publications
     link: /publications.html
+  - title: Courses
+    link: /courses.html
   - title: Code
     link: /code.html
   - title: Calendar
     link: /calendar.html
   - title: Joining
     link: /join.html
+  - title: Seminar
+    link: /seminar.html
 # theme: jekyll-theme-cayman
