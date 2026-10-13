@@ -7,7 +7,7 @@
   venue: Big Sky, MT
   pdf: Sun_pointing_attitude_control_paper.pdf
 
-  - title: "Propulsion-Free Cross-Track Control of a LEO Small-Satellite Constellation with Differential Drag"
+- title: "Propulsion-Free Cross-Track Control of a LEO Small-Satellite Constellation with Differential Drag"
   authors: [giusy, jacob, zac]
   publisher: IEEE Conference on Decision and Control (CDC)
   pub-type: conference
